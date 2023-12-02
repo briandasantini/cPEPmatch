@@ -1,0 +1,5 @@
+MLE     1    MLE     1
+PHE     2    PHE     2
+MLE     3    MLE     3
+PHE     4    PHE     4
+HOH     5    HOH     5

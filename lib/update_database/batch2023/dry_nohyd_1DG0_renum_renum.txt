@@ -1,0 +1,7 @@
+CYX     1    CYX     1
+HYP     2    HYP     2
+DTR     3    DTR     3
+GLN     4    GLN     4
+PRO     5    PRO     5
+TRP     6    TRP     6
+CYX     7    CYX     7

@@ -1,0 +1,14 @@
+cPEPdatabase Update - Quick Guide
+
+Note: This is not automated, sawwwrry. Please follow these manual steps for now.
+
+
+1. Search for new cyclic peptides: Go to the pdb databank and search for the latest cyclic peptides (eg. search "cyclic peptides", "macrocyclic peptides".
+2. Download just the PDB Codes: Save them in a text file (e.g., pdbs.txt), ensuring they are separated by commas.
+3. Create a new bacth: Create a new directory for the batch (for example, batch2024). Transfer the pdbs.txt file into this directory.
+4. Check for duplicates: Use the scripts/duplicates.py script to identify any duplicates in your batch when compared to previous ones.
+5. Remove all duplicates: Remove any duplicate pdb codes found in your pdbs.txt file using scripts/clean_duplicates.py.
+6. Download all new PDB files: In the new batch directory, download the pdb files by executing the script: bash ../scripts/batch_download.sh -f pdbs_filtered.txt.
+7. Clean up the PDBs: Decompress the downloaded files. Then, use pdb4amber to clean and renumber all pdb files (script: scripts/clean_pdbs.py).
+8. Process the new database: Run 'python process_database.py' to process all the batches and update the database accordingly.
+9. Put all PDBs together (cPEPmacth directory): Move the cleaned pdb files from batch2024/libraryready_coded/* to the cPEPdatabase directory.

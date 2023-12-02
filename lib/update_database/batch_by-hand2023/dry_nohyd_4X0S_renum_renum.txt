@@ -1,0 +1,19 @@
+ORN     1    ORN     1
+TYR     2    TYR     2
+LEU     3    LEU     3
+LEU     4    LEU     4
+PHI     5    PHI     5
+TYR     6    TYR     6
+VAL     7    VAL     7
+GLU     8    GLU     8
+ORN     9    ORN     9
+LYS    10    LYS    10
+VAL    11    VAL    11
+ALA    12    ALA    12
+MAA    13    MAA    13
+ALA    14    ALA    14
+VAL    15    VAL    15
+LYS    16    LYS    16
+ CL    17     CL    17
+SO4    18    SO4    18
+ NA    19     NA    19

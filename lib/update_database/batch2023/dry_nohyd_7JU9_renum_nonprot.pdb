@@ -1,0 +1,32 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1            
+HETATM    1  N   DBU A   1       8.499   0.659   2.976  1.00  0.00           N  
+HETATM    2  CA  DBU A   1       8.170   0.712   1.605  1.00  0.00           C  
+HETATM    3  CB  DBU A   1       7.144   1.426   0.978  1.00  0.00           C  
+HETATM    4  CG  DBU A   1       6.149   2.315   1.683  1.00  0.00           C  
+HETATM    5  C   DBU A   1       9.115  -0.154   0.805  1.00  0.00           C  
+HETATM    6  O   DBU A   1       8.867  -0.482  -0.354  1.00  0.00           O  
+HETATM    7  N   DBB A   2      16.253   0.340  -0.615  1.00  0.00           N  
+HETATM    8  CA  DBB A   2      14.908   0.885  -0.797  1.00  0.00           C  
+HETATM    9  C   DBB A   2      14.953   2.240  -1.507  1.00  0.00           C  
+HETATM   10  O   DBB A   2      14.196   3.149  -1.166  1.00  0.00           O  
+HETATM   11  CB  DBB A   2      14.053  -0.091  -1.609  1.00  0.00           C  
+HETATM   12  CG  DBB A   2      12.829   0.651  -2.138  1.00  0.00           C  
+HETATM   13  N   DAL A   3      15.834   2.366  -2.494  1.00  0.00           N  
+HETATM   14  CA  DAL A   3      15.959   3.610  -3.245  1.00  0.00           C  
+HETATM   15  CB  DAL A   3      16.251   4.771  -2.289  1.00  0.00           C  
+HETATM   16  C   DAL A   3      14.663   3.895  -4.025  1.00  0.00           C  
+HETATM   17  O   DAL A   3      13.587   3.939  -3.432  1.00  0.00           O  
+TER      18      DAL A   3
+HETATM   19  N   DBB A   4      11.181   1.753  -3.875  1.00  0.00           N  
+HETATM   20  CA  DBB A   4      10.017   1.935  -3.009  1.00  0.00           C  
+HETATM   21  C   DBB A   4      10.419   2.630  -1.713  1.00  0.00           C  
+HETATM   22  O   DBB A   4      11.536   3.134  -1.593  1.00  0.00           O  
+HETATM   23  CB  DBB A   4       8.943   2.765  -3.721  1.00  0.00           C  
+HETATM   24  CG  DBB A   4       9.050   2.531  -5.225  1.00  0.00           C  
+HETATM   25  N   DBU A   5      12.013   3.344   1.375  1.00  0.00           N  
+HETATM   26  CA  DBU A   5      13.329   3.824   1.529  1.00  0.00           C  
+HETATM   27  CB  DBU A   5      14.457   3.136   1.994  1.00  0.00           C  
+HETATM   28  CG  DBU A   5      14.481   1.694   2.438  1.00  0.00           C  
+HETATM   29  C   DBU A   5      13.457   5.272   1.116  1.00  0.00           C  
+HETATM   30  O   DBU A   5      13.388   6.193   1.930  1.00  0.00           O  
+END                                                                             

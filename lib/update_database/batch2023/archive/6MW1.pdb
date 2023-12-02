@@ -1,0 +1,347 @@
+HEADER    ANTIBIOTIC                              29-OCT-18   6MW1              
+TITLE     CYCLO-MLE-PHE-MLE-PHE. PSEUDOXYLALLEMYCIN A.                          
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: PSEUDOXYLALLEMYCIN A;                                      
+COMPND   3 CHAIN: A;                                                            
+COMPND   4 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 ORGANISM_SCIENTIFIC: XYLARIA;                                        
+SOURCE   4 ORGANISM_TAXID: 37991                                                
+KEYWDS    TETRAPEPTIDE, CYCLIC PEPTIDE, N-METHYL LEUCINE, PSEUDOXYLALLEMYCIN A, 
+KEYWDS   2 ANTIBIOTIC                                                           
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    A.J.CAMERON,P.W.R.HARRIS,M.A.BRIMBLE,C.J.SQUIRE                       
+REVDAT   1   11-SEP-19 6MW1    0                                                
+JRNL        AUTH   A.J.CAMERON,C.J.SQUIRE,A.GERENTON,L.A.STUBBING,P.W.R.HARRIS, 
+JRNL        AUTH 2 M.A.BRIMBLE                                                  
+JRNL        TITL   INVESTIGATIONS OF THE KEY MACROLACTAMISATION STEP IN THE     
+JRNL        TITL 2 SYNTHESIS OF CYCLIC TETRAPEPTIDE PSEUDOXYLALLEMYCIN A.       
+JRNL        REF    ORG.BIOMOL.CHEM.              V.  17  3902 2019              
+JRNL        REFN                   ESSN 1477-0539                               
+JRNL        PMID   30941386                                                     
+JRNL        DOI    10.1039/C9OB00227H                                           
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    0.77 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : SHELXL                                               
+REMARK   3   AUTHORS     : G.M.SHELDRICK                                        
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 0.77                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 26.42                          
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : NULL                           
+REMARK   3   COMPLETENESS FOR RANGE        (%) : 100.0                          
+REMARK   3   CROSS-VALIDATION METHOD           : NONE                           
+REMARK   3   FREE R VALUE TEST SET SELECTION   : NULL                           
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT (NO CUTOFF).                         
+REMARK   3   R VALUE   (WORKING + TEST SET, NO CUTOFF) : NULL                   
+REMARK   3   R VALUE          (WORKING SET, NO CUTOFF) : NULL                   
+REMARK   3   FREE R VALUE                  (NO CUTOFF) : NULL                   
+REMARK   3   FREE R VALUE TEST SET SIZE (%, NO CUTOFF) : NULL                   
+REMARK   3   FREE R VALUE TEST SET COUNT   (NO CUTOFF) : NULL                   
+REMARK   3   TOTAL NUMBER OF REFLECTIONS   (NO CUTOFF) : NULL                   
+REMARK   3                                                                      
+REMARK   3  FIT/AGREEMENT OF MODEL FOR DATA WITH F>4SIG(F).                     
+REMARK   3   R VALUE   (WORKING + TEST SET, F>4SIG(F)) : NULL                   
+REMARK   3   R VALUE          (WORKING SET, F>4SIG(F)) : NULL                   
+REMARK   3   FREE R VALUE                  (F>4SIG(F)) : NULL                   
+REMARK   3   FREE R VALUE TEST SET SIZE (%, F>4SIG(F)) : NULL                   
+REMARK   3   FREE R VALUE TEST SET COUNT   (F>4SIG(F)) : NULL                   
+REMARK   3   TOTAL NUMBER OF REFLECTIONS   (F>4SIG(F)) : NULL                   
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   PROTEIN ATOMS      : 40                                            
+REMARK   3   NUCLEIC ACID ATOMS : 0                                             
+REMARK   3   HETEROGEN ATOMS    : 0                                             
+REMARK   3   SOLVENT ATOMS      : 1                                             
+REMARK   3                                                                      
+REMARK   3  MODEL REFINEMENT.                                                   
+REMARK   3   OCCUPANCY SUM OF NON-HYDROGEN ATOMS      : NULL                    
+REMARK   3   OCCUPANCY SUM OF HYDROGEN ATOMS          : NULL                    
+REMARK   3   NUMBER OF DISCRETELY DISORDERED RESIDUES : NULL                    
+REMARK   3   NUMBER OF LEAST-SQUARES PARAMETERS       : NULL                    
+REMARK   3   NUMBER OF RESTRAINTS                     : NULL                    
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM RESTRAINT TARGET VALUES.                        
+REMARK   3   BOND LENGTHS                         (A) : NULL                    
+REMARK   3   ANGLE DISTANCES                      (A) : NULL                    
+REMARK   3   SIMILAR DISTANCES (NO TARGET VALUES) (A) : NULL                    
+REMARK   3   DISTANCES FROM RESTRAINT PLANES      (A) : NULL                    
+REMARK   3   ZERO CHIRAL VOLUMES               (A**3) : NULL                    
+REMARK   3   NON-ZERO CHIRAL VOLUMES           (A**3) : NULL                    
+REMARK   3   ANTI-BUMPING DISTANCE RESTRAINTS     (A) : NULL                    
+REMARK   3   RIGID-BOND ADP COMPONENTS         (A**2) : NULL                    
+REMARK   3   SIMILAR ADP COMPONENTS            (A**2) : NULL                    
+REMARK   3   APPROXIMATELY ISOTROPIC ADPS      (A**2) : NULL                    
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELING.                                              
+REMARK   3   METHOD USED: NULL                                                  
+REMARK   3                                                                      
+REMARK   3  STEREOCHEMISTRY TARGET VALUES : NULL                                
+REMARK   3   SPECIAL CASE: NULL                                                 
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: FULL LEAST SQUARES REFINEMENT IN SHELXL   
+REMARK   3  WITH ANISOTROPIC ATOMS AND RIDING HYDROGENS.                        
+REMARK   4                                                                      
+REMARK   4 6MW1 COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 29-OCT-18.                  
+REMARK 100 THE DEPOSITION ID IS D_1000237718.                                   
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : 13-JUL-18                          
+REMARK 200  TEMPERATURE           (KELVIN) : 100                                
+REMARK 200  PH                             : NULL                               
+REMARK 200  NUMBER OF CRYSTALS USED        : 1                                  
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : Y                                  
+REMARK 200  RADIATION SOURCE               : AUSTRALIAN SYNCHROTRON             
+REMARK 200  BEAMLINE                       : MX2                                
+REMARK 200  X-RAY GENERATOR MODEL          : NULL                               
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+REMARK 200  WAVELENGTH OR RANGE        (A) : 0.71075                            
+REMARK 200  MONOCHROMATOR                  : NULL                               
+REMARK 200  OPTICS                         : NULL                               
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : PIXEL                              
+REMARK 200  DETECTOR MANUFACTURER          : DECTRIS EIGER X 16M                
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : XDS                                
+REMARK 200  DATA SCALING SOFTWARE          : AIMLESS                            
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : 4124                               
+REMARK 200  RESOLUTION RANGE HIGH      (A) : 0.770                              
+REMARK 200  RESOLUTION RANGE LOW       (A) : 26.420                             
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : NULL                               
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : 98.3                               
+REMARK 200  DATA REDUNDANCY                : 11.90                              
+REMARK 200  R MERGE                    (I) : 0.07800                            
+REMARK 200  R SYM                      (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : 27.0000                            
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 0.77                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 0.79                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : 91.7                               
+REMARK 200  DATA REDUNDANCY IN SHELL       : 11.80                              
+REMARK 200  R MERGE FOR SHELL          (I) : 0.14100                            
+REMARK 200  R SYM FOR SHELL            (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : 19.60                              
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: AB INITIO PHASING            
+REMARK 200 SOFTWARE USED: SHELXS                                                
+REMARK 200 STARTING MODEL: NULL                                                 
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 13.76                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.43                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: METHANOL, WATER, EVAPORATION,            
+REMARK 280  TEMPERATURE 293K                                                    
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: P 21 21 21                       
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X+1/2,-Y,Z+1/2                                         
+REMARK 290       3555   -X,Y+1/2,-Z+1/2                                         
+REMARK 290       4555   X+1/2,-Y+1/2,-Z                                         
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000        4.81650            
+REMARK 290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000       13.20750            
+REMARK 290   SMTRY1   3 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   3  0.000000  1.000000  0.000000        6.35300            
+REMARK 290   SMTRY3   3  0.000000  0.000000 -1.000000       13.20750            
+REMARK 290   SMTRY1   4  1.000000  0.000000  0.000000        4.81650            
+REMARK 290   SMTRY2   4  0.000000 -1.000000  0.000000        6.35300            
+REMARK 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: MONOMERIC                         
+REMARK 350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: MONOMERIC                  
+REMARK 350 SOFTWARE USED: PISA                                                  
+REMARK 350 TOTAL BURIED SURFACE AREA: 0 ANGSTROM**2                             
+REMARK 350 SURFACE AREA OF THE COMPLEX: 740 ANGSTROM**2                         
+REMARK 350 CHANGE IN SOLVENT FREE ENERGY: 0.0 KCAL/MOL                          
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 400                                                                      
+REMARK 400 COMPOUND                                                             
+REMARK 400                                                                      
+REMARK 400 THE PSEUDOXYLALLEMYCIN A IS CYCLIC PEPTIDE, A MEMBER OF ANTIBIOTIC   
+REMARK 400 CLASS.                                                               
+REMARK 400                                                                      
+REMARK 400  GROUP: 1                                                            
+REMARK 400   NAME: PSEUDOXYLALLEMYCIN A                                         
+REMARK 400   CHAIN: A                                                           
+REMARK 400   COMPONENT_1: PEPTIDE LIKE POLYMER                                  
+REMARK 400   DESCRIPTION: NULL                                                  
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 6MVZ   RELATED DB: PDB                                   
+REMARK 900 LINEAR VERSION OF THIS TETRAPEPTIDE                                  
+REMARK 900 RELATED ID: 6MW0   RELATED DB: PDB                                   
+REMARK 900 LINEAR VERSION OF THIS TETRAPEPTIDE WITH TERMINAL D-PHE              
+DBREF  6MW1 A 1001  1004  PDB    6MW1     6MW1          1001   1004             
+SEQRES   1 A    4  MLE PHE MLE PHE                                              
+HET    MLE  A1001       9                                                       
+HET    MLE  A1003       9                                                       
+HETNAM     MLE N-METHYLLEUCINE                                                  
+FORMUL   1  MLE    2(C7 H15 N O2)                                               
+FORMUL   2  HOH   *(H2 O)                                                       
+LINK         N   MLE A1001                 C   PHE A1004     1555   1555  1.37  
+LINK         C   MLE A1001                 N   PHE A1002     1555   1555  1.35  
+LINK         C   PHE A1002                 N   MLE A1003     1555   1555  1.36  
+LINK         C   MLE A1003                 N   PHE A1004     1555   1555  1.35  
+CISPEP   1 PHE A 1002    MLE A 1003          0         8.51                     
+CRYST1    9.633   12.706   26.415  90.00  90.00  90.00 P 21 21 21    4          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.103810  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.078703  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.037857        0.00000                         
+HETATM    1  N   MLE A1001       0.815   3.319  16.432  1.00  1.10           N  
+ANISOU    1  N   MLE A1001      160    125    107     -2    -13    -45       N  
+HETATM    2  CN  MLE A1001       0.568   1.887  16.207  1.00  1.72           C  
+ANISOU    2  CN  MLE A1001      263    138    214    -37      3    -73       C  
+HETATM    3  CA  MLE A1001       1.515   3.711  17.665  1.00  0.94           C  
+ANISOU    3  CA  MLE A1001      146    128     62     12     -7    -15       C  
+HETATM    4  CB  MLE A1001       0.894   3.081  18.921  1.00  1.25           C  
+ANISOU    4  CB  MLE A1001      190    141    114     20     18     31       C  
+HETATM    5  CG  MLE A1001      -0.445   3.726  19.321  1.00  1.29           C  
+ANISOU    5  CG  MLE A1001      165    185    112     -8     16     44       C  
+HETATM    6  CD1 MLE A1001      -1.182   2.835  20.317  1.00  1.89           C  
+ANISOU    6  CD1 MLE A1001      232    289    156    -63     57     90       C  
+HETATM    7  CD2 MLE A1001      -0.231   5.123  19.925  1.00  1.94           C  
+ANISOU    7  CD2 MLE A1001      308    182    205     40     98      4       C  
+HETATM    8  C   MLE A1001       3.047   3.531  17.609  1.00  0.99           C  
+ANISOU    8  C   MLE A1001      162     92     97      8    -14    -20       C  
+HETATM    9  O   MLE A1001       3.714   3.658  18.628  1.00  1.56           O  
+ANISOU    9  O   MLE A1001      180    288     91     30    -21    -35       O  
+ATOM     10  N   PHE A1002       3.587   3.362  16.380  1.00  0.88           N  
+ANISOU   10  N   PHE A1002      104    136     74     15    -14    -26       N  
+ATOM     11  CA  PHE A1002       5.018   3.502  16.131  1.00  0.90           C  
+ANISOU   11  CA  PHE A1002      119    118     85     30      0    -31       C  
+ATOM     12  C   PHE A1002       5.215   4.568  15.015  1.00  0.95           C  
+ANISOU   12  C   PHE A1002       95    150     92     27    -12    -34       C  
+ATOM     13  O   PHE A1002       5.692   4.251  13.923  1.00  1.40           O  
+ANISOU   13  O   PHE A1002      193    201    105     59     32    -24       O  
+ATOM     14  CB  PHE A1002       5.649   2.160  15.706  1.00  1.23           C  
+ANISOU   14  CB  PHE A1002      184    139    116     52     22    -32       C  
+ATOM     15  CG  PHE A1002       5.337   1.074  16.720  1.00  1.25           C  
+ANISOU   15  CG  PHE A1002      196    134    115     73     -5    -34       C  
+ATOM     16  CD1 PHE A1002       6.039   0.994  17.930  1.00  1.72           C  
+ANISOU   16  CD1 PHE A1002      249    188    176     40    -58    -26       C  
+ATOM     17  CD2 PHE A1002       4.296   0.171  16.504  1.00  1.66           C  
+ANISOU   17  CD2 PHE A1002      246    187    160     16    -50      6       C  
+ATOM     18  CE1 PHE A1002       5.711   0.047  18.888  1.00  2.10           C  
+ANISOU   18  CE1 PHE A1002      340    266    146     80    -69      8       C  
+ATOM     19  CE2 PHE A1002       3.960  -0.782  17.469  1.00  2.19           C  
+ANISOU   19  CE2 PHE A1002      303    210    269     -3    -36     33       C  
+ATOM     20  CZ  PHE A1002       4.668  -0.839  18.660  1.00  2.04           C  
+ANISOU   20  CZ  PHE A1002      327    199    204     87     35     52       C  
+HETATM   21  N   MLE A1003       4.781   5.839  15.223  1.00  0.97           N  
+ANISOU   21  N   MLE A1003      148    122     77     20     -2     -5       N  
+HETATM   22  CN  MLE A1003       4.793   6.715  14.044  1.00  1.44           C  
+ANISOU   22  CN  MLE A1003      250    152    113      6     16     22       C  
+HETATM   23  CA  MLE A1003       4.283   6.367  16.498  1.00  0.93           C  
+ANISOU   23  CA  MLE A1003      144    110     78     13      2    -36       C  
+HETATM   24  CB  MLE A1003       4.828   7.770  16.840  1.00  1.20           C  
+ANISOU   24  CB  MLE A1003      165    108    157     25    -20    -35       C  
+HETATM   25  CG  MLE A1003       6.362   7.905  16.845  1.00  1.36           C  
+ANISOU   25  CG  MLE A1003      167    149    171     13     -7    -41       C  
+HETATM   26  CD1 MLE A1003       7.018   6.938  17.818  1.00  2.10           C  
+ANISOU   26  CD1 MLE A1003      177    242    332     17    -82     15       C  
+HETATM   27  CD2 MLE A1003       6.724   9.359  17.198  1.00  1.96           C  
+ANISOU   27  CD2 MLE A1003      197    202    301    -36    -18    -74       C  
+HETATM   28  C   MLE A1003       2.738   6.407  16.590  1.00  0.89           C  
+ANISOU   28  C   MLE A1003      158     94     65     22     -1     -2       C  
+HETATM   29  O   MLE A1003       2.211   6.894  17.585  1.00  1.24           O  
+ANISOU   29  O   MLE A1003      173    173     96     34      6    -48       O  
+ATOM     30  N   PHE A1004       2.052   5.832  15.583  1.00  0.97           N  
+ANISOU   30  N   PHE A1004      128    150     68     50     -7    -24       N  
+ATOM     31  CA  PHE A1004       0.596   5.692  15.629  1.00  1.05           C  
+ANISOU   31  CA  PHE A1004      129    165     81     30    -19    -13       C  
+ATOM     32  C   PHE A1004       0.205   4.192  15.577  1.00  1.20           C  
+ANISOU   32  C   PHE A1004      125    206     96     25    -10    -55       C  
+ATOM     33  O   PHE A1004      -0.607   3.804  14.734  1.00  2.00           O  
+ANISOU   33  O   PHE A1004      200    300    214    -25    -98    -82       O  
+ATOM     34  CB  PHE A1004      -0.056   6.463  14.461  1.00  1.52           C  
+ANISOU   34  CB  PHE A1004      155    278    109     59    -49     -1       C  
+ATOM     35  CG  PHE A1004       0.594   7.820  14.297  1.00  1.63           C  
+ANISOU   35  CG  PHE A1004      206    229    146     67    -72     38       C  
+ATOM     36  CD1 PHE A1004       0.503   8.781  15.309  1.00  2.21           C  
+ANISOU   36  CD1 PHE A1004      330    265    195     49    -63      9       C  
+ATOM     37  CD2 PHE A1004       1.403   8.098  13.196  1.00  2.55           C  
+ANISOU   37  CD2 PHE A1004      361    335    215     98     20    109       C  
+ATOM     38  CE1 PHE A1004       1.241   9.961  15.230  1.00  3.31           C  
+ANISOU   38  CE1 PHE A1004      572    249    361     -9   -220     23       C  
+ATOM     39  CE2 PHE A1004       2.146   9.276  13.125  1.00  3.62           C  
+ANISOU   39  CE2 PHE A1004      441    452    401     27     26    290       C  
+ATOM     40  CZ  PHE A1004       2.085  10.196  14.152  1.00  3.75           C  
+ANISOU   40  CZ  PHE A1004      498    312    528    -70   -246    245       C  
+TER      41      PHE A1004                                                      
+HETATM   42  O   HOH A2001       7.494   2.549  12.771  1.00  1.49           O  
+ANISOU   42  O   HOH A2001      138    270    126     -1      7   -106       O  
+CONECT    1    2    3   32                                                      
+CONECT    2    1                                                                
+CONECT    3    1    4    8                                                      
+CONECT    4    3    5                                                           
+CONECT    5    4    6    7                                                      
+CONECT    6    5                                                                
+CONECT    7    5                                                                
+CONECT    8    3    9   10                                                      
+CONECT    9    8                                                                
+CONECT   10    8                                                                
+CONECT   12   21                                                                
+CONECT   21   12   22   23                                                      
+CONECT   22   21                                                                
+CONECT   23   21   24   28                                                      
+CONECT   24   23   25                                                           
+CONECT   25   24   26   27                                                      
+CONECT   26   25                                                                
+CONECT   27   25                                                                
+CONECT   28   23   29   30                                                      
+CONECT   29   28                                                                
+CONECT   30   28                                                                
+CONECT   32    1                                                                
+MASTER      198    0    2    0    0    0    0    6   41    1   22    1          
+END                                                                             

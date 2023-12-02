@@ -1,0 +1,841 @@
+HEADER    DE NOVO PROTEIN                         11-AUG-20   7JQR              
+TITLE     ABETA 16-36 BETA-HAIRPIN MIMIC WITH E22G ARCTIC MUTATION              
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: ABETA 16-36 BETA-HAIRPIN MIMIC VAL-ORN-LYS-LEU-VAL-MEA-PHE-
+COMPND   3 ALA-GLY-ORN-ALA-ILE-ILE-GLY-LEU-MET;                                 
+COMPND   4 CHAIN: A;                                                            
+COMPND   5 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
+SOURCE   4 ORGANISM_COMMON: HUMAN;                                              
+SOURCE   5 ORGANISM_TAXID: 9606                                                 
+KEYWDS    ALZHEIMER'S DISEASE, AMYLOID, ABETA, OLIGOMER, FAMILIAL MUTANT, DE    
+KEYWDS   2 NOVO PROTEIN                                                         
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    A.G.KREUTZER,K.J.MCKNELLY,J.S.NOWICK                                  
+REVDAT   3   30-MAR-22 7JQR    1       JRNL                                     
+REVDAT   2   16-MAR-22 7JQR    1       JRNL                                     
+REVDAT   1   08-SEP-21 7JQR    0                                                
+JRNL        AUTH   K.J.MCKNELLY,A.G.KREUTZER,W.J.HOWITZ,K.HADUONG,S.YOO,C.HART, 
+JRNL        AUTH 2 J.S.NOWICK                                                   
+JRNL        TITL   EFFECTS OF FAMILIAL ALZHEIMER'S DISEASE MUTATIONS ON THE     
+JRNL        TITL 2 ASSEMBLY OF A BETA-HAIRPIN PEPTIDE DERIVED FROM A BETA 16-36 
+JRNL        TITL 3 .                                                            
+JRNL        REF    BIOCHEMISTRY                  V.  61   446 2022              
+JRNL        REFN                   ISSN 0006-2960                               
+JRNL        PMID   35213141                                                     
+JRNL        DOI    10.1021/ACS.BIOCHEM.1C00664                                  
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    2.07 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : PHENIX DEV_3908                                      
+REMARK   3   AUTHORS     : PAUL ADAMS,PAVEL AFONINE,VINCENT CHEN,IAN            
+REMARK   3               : DAVIS,KRESHNA GOPAL,RALF GROSSE-KUNSTLEVE,           
+REMARK   3               : LI-WEI HUNG,ROBERT IMMORMINO,TOM IOERGER,            
+REMARK   3               : AIRLIE MCCOY,ERIK MCKEE,NIGEL MORIARTY,              
+REMARK   3               : REETAL PAI,RANDY READ,JANE RICHARDSON,               
+REMARK   3               : DAVID RICHARDSON,TOD ROMO,JIM SACCHETTINI,           
+REMARK   3               : NICHOLAS SAUTER,JACOB SMITH,LAURENT                  
+REMARK   3               : STORONI,TOM TERWILLIGER,PETER ZWART                  
+REMARK   3                                                                      
+REMARK   3    REFINEMENT TARGET : ML                                            
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 2.07                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 19.28                          
+REMARK   3   MIN(FOBS/SIGMA_FOBS)              : 1.340                          
+REMARK   3   COMPLETENESS FOR RANGE        (%) : 99.7                           
+REMARK   3   NUMBER OF REFLECTIONS             : 2070                           
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   R VALUE     (WORKING + TEST SET) : 0.208                           
+REMARK   3   R VALUE            (WORKING SET) : 0.203                           
+REMARK   3   FREE R VALUE                     : 0.254                           
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : 9.810                           
+REMARK   3   FREE R VALUE TEST SET COUNT      : 203                             
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT (IN BINS).                           
+REMARK   3   BIN  RESOLUTION RANGE  COMPL.    NWORK NFREE   RWORK  RFREE        
+REMARK   3     1  2.1490 -  2.0750    1.00     1867   203  0.2381 0.2541        
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELLING.                                             
+REMARK   3   METHOD USED        : FLAT BULK SOLVENT MODEL                       
+REMARK   3   SOLVENT RADIUS     : 1.11                                          
+REMARK   3   SHRINKAGE RADIUS   : 0.90                                          
+REMARK   3   K_SOL              : NULL                                          
+REMARK   3   B_SOL              : NULL                                          
+REMARK   3                                                                      
+REMARK   3  ERROR ESTIMATES.                                                    
+REMARK   3   COORDINATE ERROR (MAXIMUM-LIKELIHOOD BASED)     : 0.040            
+REMARK   3   PHASE ERROR (DEGREES, MAXIMUM-LIKELIHOOD BASED) : 19.920           
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : NULL                           
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : 40.83                          
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : NULL                                                 
+REMARK   3    B22 (A**2) : NULL                                                 
+REMARK   3    B33 (A**2) : NULL                                                 
+REMARK   3    B12 (A**2) : NULL                                                 
+REMARK   3    B13 (A**2) : NULL                                                 
+REMARK   3    B23 (A**2) : NULL                                                 
+REMARK   3                                                                      
+REMARK   3  TWINNING INFORMATION.                                               
+REMARK   3   FRACTION: NULL                                                     
+REMARK   3   OPERATOR: NULL                                                     
+REMARK   3                                                                      
+REMARK   3  DEVIATIONS FROM IDEAL VALUES.                                       
+REMARK   3                 RMSD          COUNT                                  
+REMARK   3   BOND      :   NULL           NULL                                  
+REMARK   3   ANGLE     :   NULL           NULL                                  
+REMARK   3   CHIRALITY :   NULL           NULL                                  
+REMARK   3   PLANARITY :   NULL           NULL                                  
+REMARK   3   DIHEDRAL  :   NULL           NULL                                  
+REMARK   3                                                                      
+REMARK   3  TLS DETAILS                                                         
+REMARK   3   NUMBER OF TLS GROUPS  : 1                                          
+REMARK   3   TLS GROUP : 1                                                      
+REMARK   3    SELECTION: CHAIN 'A' AND (RESID 1 THROUGH 16 )                    
+REMARK   3    ORIGIN FOR THE GROUP (A):  13.6285  13.1734  27.1180              
+REMARK   3    T TENSOR                                                          
+REMARK   3      T11:   0.2413 T22:   0.2553                                     
+REMARK   3      T33:   0.2632 T12:   0.0003                                     
+REMARK   3      T13:   0.0146 T23:  -0.0506                                     
+REMARK   3    L TENSOR                                                          
+REMARK   3      L11:   7.1898 L22:   9.0501                                     
+REMARK   3      L33:   5.7066 L12:   1.0568                                     
+REMARK   3      L13:  -1.8825 L23:  -4.2409                                     
+REMARK   3    S TENSOR                                                          
+REMARK   3      S11:  -0.1453 S12:  -0.1334 S13:  -0.3466                       
+REMARK   3      S21:   0.4806 S22:   0.1761 S23:  -0.2847                       
+REMARK   3      S31:   0.0287 S32:   0.4571 S33:   0.0589                       
+REMARK   3                                                                      
+REMARK   3  NCS DETAILS                                                         
+REMARK   3   NUMBER OF NCS GROUPS : NULL                                        
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: NULL                                      
+REMARK   4                                                                      
+REMARK   4 7JQR COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 12-AUG-20.                  
+REMARK 100 THE DEPOSITION ID IS D_1000251232.                                   
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : 13-OCT-17                          
+REMARK 200  TEMPERATURE           (KELVIN) : 123.15                             
+REMARK 200  PH                             : NULL                               
+REMARK 200  NUMBER OF CRYSTALS USED        : 1                                  
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : N                                  
+REMARK 200  RADIATION SOURCE               : ROTATING ANODE                     
+REMARK 200  BEAMLINE                       : NULL                               
+REMARK 200  X-RAY GENERATOR MODEL          : RIGAKU MICROMAX-007 HF             
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+REMARK 200  WAVELENGTH OR RANGE        (A) : 1.54                               
+REMARK 200  MONOCHROMATOR                  : CU ANODE                           
+REMARK 200  OPTICS                         : NULL                               
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : CCD                                
+REMARK 200  DETECTOR MANUFACTURER          : RIGAKU SATURN 944+                 
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : XDS                                
+REMARK 200  DATA SCALING SOFTWARE          : AIMLESS                            
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : 2070                               
+REMARK 200  RESOLUTION RANGE HIGH      (A) : 2.070                              
+REMARK 200  RESOLUTION RANGE LOW       (A) : 19.280                             
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : NULL                               
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : 99.4                               
+REMARK 200  DATA REDUNDANCY                : 90.70                              
+REMARK 200  R MERGE                    (I) : 0.01235                            
+REMARK 200  R SYM                      (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : 65.8700                            
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 2.08                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 2.15                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : 100.0                              
+REMARK 200  DATA REDUNDANCY IN SHELL       : NULL                               
+REMARK 200  R MERGE FOR SHELL          (I) : NULL                               
+REMARK 200  R SYM FOR SHELL            (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : NULL                               
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: SAD                          
+REMARK 200 SOFTWARE USED: PHENIX                                                
+REMARK 200 STARTING MODEL: NULL                                                 
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 51.71                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.55                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: CALCIUM CHLORIDE, SODIUM ACETATE,        
+REMARK 280  ISOPROPANOL, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 297.15K     
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: P 41 3 2                         
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X+1/2,-Y,Z+1/2                                         
+REMARK 290       3555   -X,Y+1/2,-Z+1/2                                         
+REMARK 290       4555   X+1/2,-Y+1/2,-Z                                         
+REMARK 290       5555   Z,X,Y                                                   
+REMARK 290       6555   Z+1/2,-X+1/2,-Y                                         
+REMARK 290       7555   -Z+1/2,-X,Y+1/2                                         
+REMARK 290       8555   -Z,X+1/2,-Y+1/2                                         
+REMARK 290       9555   Y,Z,X                                                   
+REMARK 290      10555   -Y,Z+1/2,-X+1/2                                         
+REMARK 290      11555   Y+1/2,-Z+1/2,-X                                         
+REMARK 290      12555   -Y+1/2,-Z,X+1/2                                         
+REMARK 290      13555   Y+3/4,X+1/4,-Z+1/4                                      
+REMARK 290      14555   -Y+3/4,-X+3/4,-Z+3/4                                    
+REMARK 290      15555   Y+1/4,-X+1/4,Z+3/4                                      
+REMARK 290      16555   -Y+1/4,X+3/4,Z+1/4                                      
+REMARK 290      17555   X+3/4,Z+1/4,-Y+1/4                                      
+REMARK 290      18555   -X+1/4,Z+3/4,Y+1/4                                      
+REMARK 290      19555   -X+3/4,-Z+3/4,-Y+3/4                                    
+REMARK 290      20555   X+1/4,-Z+1/4,Y+3/4                                      
+REMARK 290      21555   Z+3/4,Y+1/4,-X+1/4                                      
+REMARK 290      22555   Z+1/4,-Y+1/4,X+3/4                                      
+REMARK 290      23555   -Z+1/4,Y+3/4,X+1/4                                      
+REMARK 290      24555   -Z+3/4,-Y+3/4,-X+3/4                                    
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000       23.60950            
+REMARK 290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000       23.60950            
+REMARK 290   SMTRY1   3 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   3  0.000000  1.000000  0.000000       23.60950            
+REMARK 290   SMTRY3   3  0.000000  0.000000 -1.000000       23.60950            
+REMARK 290   SMTRY1   4  1.000000  0.000000  0.000000       23.60950            
+REMARK 290   SMTRY2   4  0.000000 -1.000000  0.000000       23.60950            
+REMARK 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY1   5  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY2   5  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   5  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY1   6  0.000000  0.000000  1.000000       23.60950            
+REMARK 290   SMTRY2   6 -1.000000  0.000000  0.000000       23.60950            
+REMARK 290   SMTRY3   6  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY1   7  0.000000  0.000000 -1.000000       23.60950            
+REMARK 290   SMTRY2   7 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   7  0.000000  1.000000  0.000000       23.60950            
+REMARK 290   SMTRY1   8  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY2   8  1.000000  0.000000  0.000000       23.60950            
+REMARK 290   SMTRY3   8  0.000000 -1.000000  0.000000       23.60950            
+REMARK 290   SMTRY1   9  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   9  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY3   9  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY1  10  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY2  10  0.000000  0.000000  1.000000       23.60950            
+REMARK 290   SMTRY3  10 -1.000000  0.000000  0.000000       23.60950            
+REMARK 290   SMTRY1  11  0.000000  1.000000  0.000000       23.60950            
+REMARK 290   SMTRY2  11  0.000000  0.000000 -1.000000       23.60950            
+REMARK 290   SMTRY3  11 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY1  12  0.000000 -1.000000  0.000000       23.60950            
+REMARK 290   SMTRY2  12  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290   SMTRY3  12  1.000000  0.000000  0.000000       23.60950            
+REMARK 290   SMTRY1  13  0.000000  1.000000  0.000000       35.41425            
+REMARK 290   SMTRY2  13  1.000000  0.000000  0.000000       11.80475            
+REMARK 290   SMTRY3  13  0.000000  0.000000 -1.000000       11.80475            
+REMARK 290   SMTRY1  14  0.000000 -1.000000  0.000000       35.41425            
+REMARK 290   SMTRY2  14 -1.000000  0.000000  0.000000       35.41425            
+REMARK 290   SMTRY3  14  0.000000  0.000000 -1.000000       35.41425            
+REMARK 290   SMTRY1  15  0.000000  1.000000  0.000000       11.80475            
+REMARK 290   SMTRY2  15 -1.000000  0.000000  0.000000       11.80475            
+REMARK 290   SMTRY3  15  0.000000  0.000000  1.000000       35.41425            
+REMARK 290   SMTRY1  16  0.000000 -1.000000  0.000000       11.80475            
+REMARK 290   SMTRY2  16  1.000000  0.000000  0.000000       35.41425            
+REMARK 290   SMTRY3  16  0.000000  0.000000  1.000000       11.80475            
+REMARK 290   SMTRY1  17  1.000000  0.000000  0.000000       35.41425            
+REMARK 290   SMTRY2  17  0.000000  0.000000  1.000000       11.80475            
+REMARK 290   SMTRY3  17  0.000000 -1.000000  0.000000       11.80475            
+REMARK 290   SMTRY1  18 -1.000000  0.000000  0.000000       11.80475            
+REMARK 290   SMTRY2  18  0.000000  0.000000  1.000000       35.41425            
+REMARK 290   SMTRY3  18  0.000000  1.000000  0.000000       11.80475            
+REMARK 290   SMTRY1  19 -1.000000  0.000000  0.000000       35.41425            
+REMARK 290   SMTRY2  19  0.000000  0.000000 -1.000000       35.41425            
+REMARK 290   SMTRY3  19  0.000000 -1.000000  0.000000       35.41425            
+REMARK 290   SMTRY1  20  1.000000  0.000000  0.000000       11.80475            
+REMARK 290   SMTRY2  20  0.000000  0.000000 -1.000000       11.80475            
+REMARK 290   SMTRY3  20  0.000000  1.000000  0.000000       35.41425            
+REMARK 290   SMTRY1  21  0.000000  0.000000  1.000000       35.41425            
+REMARK 290   SMTRY2  21  0.000000  1.000000  0.000000       11.80475            
+REMARK 290   SMTRY3  21 -1.000000  0.000000  0.000000       11.80475            
+REMARK 290   SMTRY1  22  0.000000  0.000000  1.000000       11.80475            
+REMARK 290   SMTRY2  22  0.000000 -1.000000  0.000000       11.80475            
+REMARK 290   SMTRY3  22  1.000000  0.000000  0.000000       35.41425            
+REMARK 290   SMTRY1  23  0.000000  0.000000 -1.000000       11.80475            
+REMARK 290   SMTRY2  23  0.000000  1.000000  0.000000       35.41425            
+REMARK 290   SMTRY3  23  1.000000  0.000000  0.000000       11.80475            
+REMARK 290   SMTRY1  24  0.000000  0.000000 -1.000000       35.41425            
+REMARK 290   SMTRY2  24  0.000000 -1.000000  0.000000       35.41425            
+REMARK 290   SMTRY3  24 -1.000000  0.000000  0.000000       35.41425            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: HEXAMERIC                         
+REMARK 350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: HEXAMERIC                  
+REMARK 350 SOFTWARE USED: PISA                                                  
+REMARK 350 TOTAL BURIED SURFACE AREA: 4830 ANGSTROM**2                          
+REMARK 350 SURFACE AREA OF THE COMPLEX: 6050 ANGSTROM**2                        
+REMARK 350 CHANGE IN SOLVENT FREE ENERGY: -34.0 KCAL/MOL                        
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A                                     
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 350   BIOMT1   2  0.000000  0.000000  1.000000      -23.60950            
+REMARK 350   BIOMT2   2 -1.000000  0.000000  0.000000       23.60950            
+REMARK 350   BIOMT3   2  0.000000 -1.000000  0.000000       47.21900            
+REMARK 350   BIOMT1   3  0.000000 -1.000000  0.000000       23.60950            
+REMARK 350   BIOMT2   3  0.000000  0.000000 -1.000000       47.21900            
+REMARK 350   BIOMT3   3  1.000000  0.000000  0.000000       23.60950            
+REMARK 350   BIOMT1   4  0.000000  1.000000  0.000000      -11.80475            
+REMARK 350   BIOMT2   4  1.000000  0.000000  0.000000       11.80475            
+REMARK 350   BIOMT3   4  0.000000  0.000000 -1.000000       59.02375            
+REMARK 350   BIOMT1   5 -1.000000  0.000000  0.000000       11.80475            
+REMARK 350   BIOMT2   5  0.000000  0.000000  1.000000      -11.80475            
+REMARK 350   BIOMT3   5  0.000000  1.000000  0.000000       11.80475            
+REMARK 350   BIOMT1   6  0.000000  0.000000 -1.000000       35.41425            
+REMARK 350   BIOMT2   6  0.000000 -1.000000  0.000000       35.41425            
+REMARK 350   BIOMT3   6 -1.000000  0.000000  0.000000       35.41425            
+REMARK 375                                                                      
+REMARK 375 SPECIAL POSITION                                                     
+REMARK 375 THE FOLLOWING ATOMS ARE FOUND TO BE WITHIN 0.15 ANGSTROMS            
+REMARK 375 OF A SYMMETRY RELATED ATOM AND ARE ASSUMED TO BE ON SPECIAL          
+REMARK 375 POSITIONS.                                                           
+REMARK 375                                                                      
+REMARK 375 ATOM RES CSSEQI                                                      
+REMARK 375 I    IOD A 101  LIES ON A SPECIAL POSITION.                          
+REMARK 375 I    IOD A 102  LIES ON A SPECIAL POSITION.                          
+REMARK 375      HOH A 212  LIES ON A SPECIAL POSITION.                          
+DBREF  7JQR A    1    16  PDB    7JQR     7JQR             1     16             
+SEQRES   1 A   16  VAL ORN LYS LEU VAL MEA PHE ALA GLY ORN ALA ILE ILE          
+SEQRES   2 A   16  GLY LEU MET                                                  
+HET    ORN  A   2      18                                                       
+HET    MEA  A   6      23                                                       
+HET    ORN  A  10      18                                                       
+HET    IOD  A 101       1                                                       
+HET    IOD  A 102       1                                                       
+HET    IOD  A 103       1                                                       
+HETNAM     ORN L-ORNITHINE                                                      
+HETNAM     MEA N-METHYLPHENYLALANINE                                            
+HETNAM     IOD IODIDE ION                                                       
+FORMUL   1  ORN    2(C5 H12 N2 O2)                                              
+FORMUL   1  MEA    C10 H13 N O2                                                 
+FORMUL   2  IOD    3(I 1-)                                                      
+FORMUL   5  HOH   *16(H2 O)                                                     
+SHEET    1 AA1 2 VAL A   5  PHE A   7  0                                        
+SHEET    2 AA1 2 ILE A  13  LEU A  15 -1  O  LEU A  15   N  VAL A   5           
+LINK         C   VAL A   1                 NE  ORN A   2     1555   1555  1.38  
+LINK         N   VAL A   1                 C   MET A  16     1555   1555  1.33  
+LINK         C   ORN A   2                 N   LYS A   3     1555   1555  1.37  
+LINK         C   VAL A   5                 N   MEA A   6     1555   1555  1.34  
+LINK         C   MEA A   6                 N   PHE A   7     1555   1555  1.33  
+LINK         C   GLY A   9                 NE  ORN A  10     1555   1555  1.38  
+LINK         C   ORN A  10                 N   ALA A  11     1555   1555  1.37  
+CRYST1   47.219   47.219   47.219  90.00  90.00  90.00 P 41 3 2     24          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.021178  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.021178  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.021178        0.00000                         
+ATOM      1  N   VAL A   1      12.570   6.176  27.310  1.00 37.44           N  
+ANISOU    1  N   VAL A   1     4684   3761   5779    449    552   -293       N  
+ATOM      2  CA  VAL A   1      13.592   5.381  27.979  1.00 37.75           C  
+ANISOU    2  CA  VAL A   1     4639   3704   6000    705    586   -126       C  
+ATOM      3  C   VAL A   1      12.903   4.325  28.832  1.00 41.01           C  
+ANISOU    3  C   VAL A   1     5122   3858   6600    784    650    128       C  
+ATOM      4  O   VAL A   1      12.332   4.633  29.880  1.00 37.46           O  
+ANISOU    4  O   VAL A   1     4719   3517   5996    798    586    370       O  
+ATOM      5  CB  VAL A   1      14.526   6.262  28.828  1.00 34.81           C  
+ANISOU    5  CB  VAL A   1     4147   3643   5437    802    398     35       C  
+ATOM      6  CG1 VAL A   1      15.544   5.406  29.568  1.00 44.83           C  
+ANISOU    6  CG1 VAL A   1     5261   4857   6916   1058    366    318       C  
+ATOM      7  CG2 VAL A   1      15.222   7.290  27.950  1.00 35.64           C  
+ANISOU    7  CG2 VAL A   1     4147   3961   5431    699    356   -179       C  
+ATOM      8  H1  VAL A   1      12.015   6.554  27.848  1.00 45.02           H  
+ATOM      9  HA  VAL A   1      14.151   4.942  27.319  1.00 45.40           H  
+ATOM     10  HB  VAL A   1      13.998   6.735  29.490  1.00 41.88           H  
+ATOM     11 HG11 VAL A   1      16.236   5.981  29.930  1.00 53.89           H  
+ATOM     12 HG12 VAL A   1      15.096   4.934  30.288  1.00 53.89           H  
+ATOM     13 HG13 VAL A   1      15.933   4.771  28.947  1.00 53.89           H  
+ATOM     14 HG21 VAL A   1      15.853   7.792  28.490  1.00 42.86           H  
+ATOM     15 HG22 VAL A   1      15.692   6.830  27.237  1.00 42.86           H  
+ATOM     16 HG23 VAL A   1      14.557   7.889  27.576  1.00 42.86           H  
+HETATM   17  N   ORN A   2       8.617   1.814  30.585  1.00 42.41           N  
+ANISOU   17  N   ORN A   2     5457   3206   7451    501    978    953       N  
+HETATM   18  CA  ORN A   2       9.495   2.954  30.197  1.00 35.49           C  
+ANISOU   18  CA  ORN A   2     4579   2678   6227    551    847    694       C  
+HETATM   19  CB  ORN A   2       9.935   2.822  28.733  1.00 38.59           C  
+ANISOU   19  CB  ORN A   2     4995   2968   6698    401    814    270       C  
+HETATM   20  CG  ORN A   2      10.920   1.660  28.488  1.00 40.12           C  
+ANISOU   20  CG  ORN A   2     5229   2833   7182    575    944    192       C  
+HETATM   21  CD  ORN A   2      12.325   1.939  29.060  1.00 43.42           C  
+ANISOU   21  CD  ORN A   2     5524   3456   7516    893    917    327       C  
+HETATM   22  NE  ORN A   2      12.953   3.036  28.352  1.00 42.41           N  
+ANISOU   22  NE  ORN A   2     5342   3649   7125    836    828     66       N  
+HETATM   23  C   ORN A   2       8.764   4.290  30.414  1.00 34.29           C  
+ANISOU   23  C   ORN A   2     4416   2841   5771    461    810    723       C  
+HETATM   24  O   ORN A   2       7.563   4.337  30.685  1.00 32.48           O  
+ANISOU   24  O   ORN A   2     4143   2570   5627    366    904    923       O  
+HETATM   25  H2  ORN A   2       8.127   1.950  31.472  1.00 50.99           H  
+HETATM   26  H   ORN A   2       7.876   1.612  29.909  1.00 50.99           H  
+HETATM   27  HA  ORN A   2      10.351   2.927  30.878  1.00 42.68           H  
+HETATM   28  HB2 ORN A   2      10.434   3.753  28.430  1.00 46.40           H  
+HETATM   29  HB3 ORN A   2       9.046   2.642  28.113  1.00 46.40           H  
+HETATM   30  HG2 ORN A   2      11.003   1.484  27.409  1.00 48.24           H  
+HETATM   31  HG3 ORN A   2      10.521   0.750  28.950  1.00 48.24           H  
+HETATM   32  HD2 ORN A   2      12.234   2.202  30.118  1.00 52.20           H  
+HETATM   33  HD3 ORN A   2      12.941   1.042  28.949  1.00 52.20           H  
+HETATM   34  HE1 ORN A   2      13.421   2.790  27.481  1.00 50.99           H  
+ATOM     35  N   LYS A   3       9.540   5.414  30.291  1.00 33.65           N  
+ANISOU   35  N   LYS A   3     4353   3051   5380    505    700    545       N  
+ATOM     36  CA  LYS A   3       8.985   6.744  30.483  1.00 30.83           C  
+ANISOU   36  CA  LYS A   3     4025   2923   4767    452    709    545       C  
+ATOM     37  C   LYS A   3       9.444   7.707  29.403  1.00 30.13           C  
+ANISOU   37  C   LYS A   3     3888   2997   4563    327    592    248       C  
+ATOM     38  O   LYS A   3      10.440   7.469  28.721  1.00 30.17           O  
+ANISOU   38  O   LYS A   3     3856   3010   4597    326    511     49       O  
+ATOM     39  CB  LYS A   3       9.382   7.288  31.858  1.00 34.11           C  
+ANISOU   39  CB  LYS A   3     4603   3505   4852    631    725    707       C  
+ATOM     40  CG  LYS A   3       8.671   6.606  33.021  1.00 36.30           C  
+ANISOU   40  CG  LYS A   3     4971   3684   5139    756    908   1068       C  
+ATOM     41  CD  LYS A   3       9.626   5.755  33.832  1.00 50.72           C  
+ANISOU   41  CD  LYS A   3     6851   5508   6911    923    809   1258       C  
+ATOM     42  CE  LYS A   3       8.888   4.880  34.839  1.00 43.03           C  
+ANISOU   42  CE  LYS A   3     5945   4401   6005   1039   1015   1674       C  
+ATOM     43  NZ  LYS A   3       8.368   3.621  34.229  1.00 42.57           N  
+ANISOU   43  NZ  LYS A   3     5708   3984   6483    974   1112   1773       N  
+ATOM     44  H   LYS A   3      10.379   5.407  30.100  1.00 40.47           H  
+ATOM     45  HA  LYS A   3       8.018   6.685  30.434  1.00 37.10           H  
+ATOM     46  HB2 LYS A   3      10.336   7.160  31.980  1.00 41.03           H  
+ATOM     47  HB3 LYS A   3       9.167   8.233  31.893  1.00 41.03           H  
+ATOM     48  HG2 LYS A   3       8.292   7.281  33.606  1.00 43.66           H  
+ATOM     49  HG3 LYS A   3       7.968   6.033  32.677  1.00 43.66           H  
+ATOM     50  HD2 LYS A   3      10.125   5.176  33.235  1.00 60.96           H  
+ATOM     51  HD3 LYS A   3      10.235   6.332  34.319  1.00 60.96           H  
+ATOM     52  HE2 LYS A   3       9.496   4.639  35.555  1.00 51.74           H  
+ATOM     53  HE3 LYS A   3       8.134   5.375  35.196  1.00 51.74           H  
+ATOM     54  HZ1 LYS A   3       7.949   3.135  34.846  1.00 51.19           H  
+ATOM     55  HZ2 LYS A   3       7.796   3.813  33.575  1.00 51.19           H  
+ATOM     56  HZ3 LYS A   3       9.041   3.145  33.894  1.00 51.19           H  
+ATOM     57  N   LEU A   4       8.703   8.798  29.243  1.00 28.82           N  
+ANISOU   57  N   LEU A   4     3709   2944   4299    246    631    262       N  
+ATOM     58  CA  LEU A   4       9.149   9.894  28.396  1.00 28.19           C  
+ANISOU   58  CA  LEU A   4     3596   3028   4089    152    540     57       C  
+ATOM     59  C   LEU A   4      10.112  10.753  29.204  1.00 26.69           C  
+ANISOU   59  C   LEU A   4     3532   2968   3643    258    495      1       C  
+ATOM     60  O   LEU A   4       9.730  11.328  30.230  1.00 26.64           O  
+ANISOU   60  O   LEU A   4     3686   2967   3469    339    598    107       O  
+ATOM     61  CB  LEU A   4       7.960  10.714  27.900  1.00 26.82           C  
+ANISOU   61  CB  LEU A   4     3324   2889   3977     39    602    166       C  
+ATOM     62  CG  LEU A   4       8.310  11.915  27.012  1.00 32.52           C  
+ANISOU   62  CG  LEU A   4     4004   3762   4591    -53    530     35       C  
+ATOM     63  CD1 LEU A   4       8.989  11.459  25.732  1.00 31.47           C  
+ANISOU   63  CD1 LEU A   4     3821   3695   4442   -202    383   -182       C  
+ATOM     64  CD2 LEU A   4       7.068  12.735  26.693  1.00 31.95           C  
+ANISOU   64  CD2 LEU A   4     3795   3705   4640   -106    614    259       C  
+ATOM     65  H   LEU A   4       7.938   8.926  29.615  1.00 34.69           H  
+ATOM     66  HA  LEU A   4       9.606   9.549  27.613  1.00 33.93           H  
+ATOM     67  HB2 LEU A   4       7.383  10.130  27.382  1.00 32.28           H  
+ATOM     68  HB3 LEU A   4       7.482  11.054  28.672  1.00 32.28           H  
+ATOM     69  HG  LEU A   4       8.928  12.485  27.496  1.00 39.12           H  
+ATOM     70 HD11 LEU A   4       9.108  12.224  25.148  1.00 37.86           H  
+ATOM     71 HD12 LEU A   4       9.852  11.074  25.952  1.00 37.86           H  
+ATOM     72 HD13 LEU A   4       8.432  10.795  25.297  1.00 37.86           H  
+ATOM     73 HD21 LEU A   4       7.325  13.502  26.158  1.00 38.44           H  
+ATOM     74 HD22 LEU A   4       6.443  12.181  26.199  1.00 38.44           H  
+ATOM     75 HD23 LEU A   4       6.663  13.031  27.523  1.00 38.44           H  
+ATOM     76  N   VAL A   5      11.359  10.823  28.755  1.00 25.98           N  
+ANISOU   76  N   VAL A   5     3381   2971   3518    240    355   -162       N  
+ATOM     77  CA  VAL A   5      12.407  11.508  29.499  1.00 25.61           C  
+ANISOU   77  CA  VAL A   5     3403   3057   3272    270    220   -194       C  
+ATOM     78  C   VAL A   5      12.730  12.823  28.790  1.00 26.60           C  
+ANISOU   78  C   VAL A   5     3493   3276   3339    129    181   -348       C  
+ATOM     79  O   VAL A   5      13.003  12.805  27.592  1.00 25.67           O  
+ANISOU   79  O   VAL A   5     3216   3198   3341     56    188   -440       O  
+ATOM     80  CB  VAL A   5      13.659  10.609  29.626  1.00 28.45           C  
+ANISOU   80  CB  VAL A   5     3623   3454   3731    366     86   -154       C  
+ATOM     81  CG1 VAL A   5      14.808  11.337  30.312  1.00 26.61           C  
+ANISOU   81  CG1 VAL A   5     3382   3406   3323    325   -150   -142       C  
+ATOM     82  CG2 VAL A   5      13.320   9.328  30.381  1.00 30.11           C  
+ANISOU   82  CG2 VAL A   5     3876   3529   4035    522    143     58       C  
+ATOM     83  H   VAL A   5      11.627  10.478  28.014  1.00 31.27           H  
+ATOM     84  HA  VAL A   5      12.108  11.709  30.400  1.00 30.83           H  
+ATOM     85  HB  VAL A   5      13.954  10.377  28.732  1.00 34.23           H  
+ATOM     86 HG11 VAL A   5      15.565  10.735  30.384  1.00 32.03           H  
+ATOM     87 HG12 VAL A   5      15.050  12.113  29.783  1.00 32.03           H  
+ATOM     88 HG13 VAL A   5      14.522  11.616  31.196  1.00 32.03           H  
+ATOM     89 HG21 VAL A   5      14.123   8.791  30.468  1.00 36.23           H  
+ATOM     90 HG22 VAL A   5      12.981   9.560  31.260  1.00 36.23           H  
+ATOM     91 HG23 VAL A   5      12.646   8.838  29.885  1.00 36.23           H  
+HETATM   92  C1  MEA A   6      13.071  14.004  30.873  1.00 30.55           C  
+ANISOU   92  C1  MEA A   6     4403   3816   3389    117     67   -347       C  
+HETATM   93  N   MEA A   6      12.700  13.954  29.501  1.00 25.49           N  
+ANISOU   93  N   MEA A   6     3536   3145   3002     82    170   -379       N  
+HETATM   94  CA  MEA A   6      13.018  15.215  28.853  1.00 23.46           C  
+ANISOU   94  CA  MEA A   6     3248   2914   2751    -60    151   -496       C  
+HETATM   95  C   MEA A   6      14.491  15.603  29.156  1.00 23.66           C  
+ANISOU   95  C   MEA A   6     3225   3058   2708   -173   -102   -576       C  
+HETATM   96  O   MEA A   6      14.801  16.143  30.238  1.00 26.75           O  
+ANISOU   96  O   MEA A   6     3846   3442   2876   -245   -232   -622       O  
+HETATM   97  CB  MEA A   6      12.124  16.306  29.265  1.00 27.86           C  
+ANISOU   97  CB  MEA A   6     4029   3331   3226    -63    331   -497       C  
+HETATM   98  CG  MEA A   6      10.737  16.124  28.625  1.00 26.08           C  
+ANISOU   98  CG  MEA A   6     3691   3032   3188     10    549   -334       C  
+HETATM   99  CD1 MEA A   6       9.652  15.744  29.405  1.00 35.63           C  
+ANISOU   99  CD1 MEA A   6     5007   4134   4396    151    754   -179       C  
+HETATM  100  CE1 MEA A   6       8.398  15.585  28.820  1.00 32.99           C  
+ANISOU  100  CE1 MEA A   6     4481   3753   4302    182    907     37       C  
+HETATM  101  CZ  MEA A   6       8.231  15.811  27.454  1.00 30.04           C  
+ANISOU  101  CZ  MEA A   6     3859   3464   4091     50    806     80       C  
+HETATM  102  CE2 MEA A   6       9.323  16.196  26.667  1.00 33.98           C  
+ANISOU  102  CE2 MEA A   6     4319   4076   4515    -76    632    -98       C  
+HETATM  103  CD2 MEA A   6      10.566  16.356  27.243  1.00 31.84           C  
+ANISOU  103  CD2 MEA A   6     4187   3827   4083    -87    529   -295       C  
+HETATM  104  HC1 MEA A   6      14.019  13.716  30.971  1.00 36.76           H  
+HETATM  105  HC2 MEA A   6      12.484  13.397  31.398  1.00 36.76           H  
+HETATM  106  HC3 MEA A   6      12.972  14.935  31.210  1.00 36.76           H  
+HETATM  107  HA  MEA A   6      12.889  15.087  27.880  1.00 28.25           H  
+HETATM  108  HB1 MEA A   6      12.506  17.167  28.976  1.00 33.53           H  
+HETATM  109  HB2 MEA A   6      12.033  16.300  30.246  1.00 33.53           H  
+HETATM  110  HD1 MEA A   6       9.768  15.590  30.356  1.00 42.85           H  
+HETATM  111  HE1 MEA A   6       7.627  15.312  29.370  1.00 39.69           H  
+HETATM  112  HZ  MEA A   6       7.336  15.699  27.040  1.00 36.15           H  
+HETATM  113  HE2 MEA A   6       9.205  16.350  25.723  1.00 40.87           H  
+HETATM  114  HD2 MEA A   6      11.176  16.628  26.525  1.00 38.30           H  
+ATOM    115  N   PHE A   7      15.375  15.313  28.206  1.00 23.87           N  
+ANISOU  115  N   PHE A   7     2958   3194   2917   -204   -164   -580       N  
+ATOM    116  CA  PHE A   7      16.786  15.671  28.316  1.00 25.65           C  
+ANISOU  116  CA  PHE A   7     3004   3550   3193   -321   -389   -576       C  
+ATOM    117  C   PHE A   7      16.969  17.159  28.059  1.00 27.72           C  
+ANISOU  117  C   PHE A   7     3320   3770   3443   -541   -416   -667       C  
+ATOM    118  O   PHE A   7      16.424  17.698  27.098  1.00 26.66           O  
+ANISOU  118  O   PHE A   7     3163   3578   3389   -563   -223   -684       O  
+ATOM    119  CB  PHE A   7      17.627  14.870  27.322  1.00 25.76           C  
+ANISOU  119  CB  PHE A   7     2666   3663   3459   -231   -326   -515       C  
+ATOM    120  CG  PHE A   7      17.634  13.390  27.577  1.00 26.25           C  
+ANISOU  120  CG  PHE A   7     2669   3690   3613     -8   -278   -422       C  
+ATOM    121  CD1 PHE A   7      16.657  12.574  27.034  1.00 29.25           C  
+ANISOU  121  CD1 PHE A   7     3158   3933   4022     96    -59   -480       C  
+ATOM    122  CD2 PHE A   7      18.629  12.812  28.349  1.00 32.24           C  
+ANISOU  122  CD2 PHE A   7     3247   4537   4467     76   -474   -241       C  
+ATOM    123  CE1 PHE A   7      16.669  11.209  27.260  1.00 26.83           C  
+ANISOU  123  CE1 PHE A   7     2824   3517   3855    283     10   -401       C  
+ATOM    124  CE2 PHE A   7      18.643  11.450  28.579  1.00 33.89           C  
+ANISOU  124  CE2 PHE A   7     3393   4660   4824    311   -394   -106       C  
+ATOM    125  CZ  PHE A   7      17.663  10.649  28.037  1.00 28.06           C  
+ANISOU  125  CZ  PHE A   7     2807   3723   4132    416   -129   -206       C  
+ATOM    126  H   PHE A   7      15.180  14.902  27.476  1.00 28.74           H  
+ATOM    127  HA  PHE A   7      17.101  15.463  29.210  1.00 30.88           H  
+ATOM    128  HB2 PHE A   7      17.274  15.014  26.430  1.00 31.01           H  
+ATOM    129  HB3 PHE A   7      18.545  15.182  27.369  1.00 31.01           H  
+ATOM    130  HD1 PHE A   7      15.984  12.948  26.511  1.00 35.20           H  
+ATOM    131  HD2 PHE A   7      19.294  13.348  28.717  1.00 38.79           H  
+ATOM    132  HE1 PHE A   7      16.008  10.670  26.889  1.00 32.30           H  
+ATOM    133  HE2 PHE A   7      19.315  11.073  29.101  1.00 40.77           H  
+ATOM    134  HZ  PHE A   7      17.671   9.733  28.193  1.00 33.77           H  
+ATOM    135  N   ALA A   8      17.739  17.823  28.913  1.00 33.03           N  
+ANISOU  135  N   ALA A   8     4071   4463   4016   -732   -681   -705       N  
+ATOM    136  CA  ALA A   8      17.986  19.250  28.793  1.00 39.44           C  
+ANISOU  136  CA  ALA A   8     4975   5160   4850   -988   -723   -810       C  
+ATOM    137  C   ALA A   8      19.485  19.511  28.848  1.00 49.08           C  
+ANISOU  137  C   ALA A   8     5892   6533   6221  -1224  -1051   -738       C  
+ATOM    138  O   ALA A   8      20.291  18.603  29.069  1.00 49.65           O  
+ANISOU  138  O   ALA A   8     5679   6812   6374  -1157  -1241   -579       O  
+ATOM    139  CB  ALA A   8      17.261  20.036  29.895  1.00 40.48           C  
+ANISOU  139  CB  ALA A   8     5625   5067   4688  -1068   -703   -987       C  
+ATOM    140  H   ALA A   8      18.137  17.459  29.584  1.00 39.74           H  
+ATOM    141  HA  ALA A   8      17.659  19.562  27.935  1.00 47.42           H  
+ATOM    142  HB1 ALA A   8      17.444  20.982  29.780  1.00 48.67           H  
+ATOM    143  HB2 ALA A   8      16.308  19.873  29.824  1.00 48.67           H  
+ATOM    144  HB3 ALA A   8      17.585  19.739  30.760  1.00 48.67           H  
+ATOM    145  N   GLY A   9      19.851  20.772  28.642  1.00 58.90           N  
+ANISOU  145  N   GLY A   9     7164   7653   7562  -1504  -1108   -810       N  
+ATOM    146  CA  GLY A   9      21.247  21.170  28.619  1.00 72.65           C  
+ANISOU  146  CA  GLY A   9     8562   9521   9523  -1795  -1424   -702       C  
+ATOM    147  C   GLY A   9      21.755  21.555  27.241  1.00 71.62           C  
+ANISOU  147  C   GLY A   9     8017   9433   9764  -1820  -1210   -544       C  
+ATOM    148  O   GLY A   9      22.937  21.856  27.078  1.00 76.66           O  
+ANISOU  148  O   GLY A   9     8269  10186  10673  -2043  -1409   -385       O  
+ATOM    149  H   GLY A   9      19.302  21.420  28.512  1.00 70.77           H  
+ATOM    150  HA2 GLY A   9      21.366  21.933  29.206  1.00 87.28           H  
+ATOM    151  HA3 GLY A   9      21.789  20.434  28.943  1.00 87.28           H  
+HETATM  152  N   ORN A  10      18.744  26.243  25.046  1.00 55.75           N  
+ANISOU  152  N   ORN A  10     6846   6223   8114  -2014   -121   -607       N  
+HETATM  153  CA  ORN A  10      18.860  24.984  24.273  1.00 53.93           C  
+ANISOU  153  CA  ORN A  10     6271   6411   7807  -1787    -84   -455       C  
+HETATM  154  CB  ORN A  10      19.993  24.110  24.842  1.00 58.65           C  
+ANISOU  154  CB  ORN A  10     6648   7261   8376  -1862   -387   -506       C  
+HETATM  155  CG  ORN A  10      20.130  22.719  24.190  1.00 52.69           C  
+ANISOU  155  CG  ORN A  10     5609   6842   7569  -1590   -289   -399       C  
+HETATM  156  CD  ORN A  10      21.228  21.903  24.862  1.00 63.73           C  
+ANISOU  156  CD  ORN A  10     6760   8435   9021  -1617   -565   -379       C  
+HETATM  157  NE  ORN A  10      20.838  21.548  26.211  1.00 61.87           N  
+ANISOU  157  NE  ORN A  10     6844   8128   8536  -1603   -803   -546       N  
+HETATM  158  C   ORN A  10      17.513  24.221  24.306  1.00 46.67           C  
+ANISOU  158  C   ORN A  10     5541   5525   6667  -1468     86   -480       C  
+HETATM  159  O   ORN A  10      16.726  24.328  25.249  1.00 45.34           O  
+ANISOU  159  O   ORN A  10     5717   5145   6365  -1393    116   -627       O  
+HETATM  160  H2  ORN A  10      18.731  26.109  26.061  1.00 67.00           H  
+HETATM  161  H   ORN A  10      19.509  26.903  24.884  1.00 67.00           H  
+HETATM  162  HA  ORN A  10      19.058  25.264  23.234  1.00 64.81           H  
+HETATM  163  HB2 ORN A  10      20.945  24.638  24.692  1.00 70.48           H  
+HETATM  164  HB3 ORN A  10      19.805  23.953  25.913  1.00 70.48           H  
+HETATM  165  HG2 ORN A  10      20.363  22.837  23.126  1.00 63.33           H  
+HETATM  166  HG3 ORN A  10      19.177  22.184  24.270  1.00 63.33           H  
+HETATM  167  HD2 ORN A  10      22.145  22.499  24.900  1.00 76.58           H  
+HETATM  168  HD3 ORN A  10      21.399  20.989  24.286  1.00 76.58           H  
+HETATM  169  HE1 ORN A  10      19.860  21.303  26.326  1.00 74.34           H  
+ATOM    170  N   ALA A  11      17.255  23.433  23.214  1.00 38.44           N  
+ANISOU  170  N   ALA A  11     4273   4752   5581  -1299    215   -324       N  
+ATOM    171  CA  ALA A  11      16.027  22.661  23.105  1.00 38.44           C  
+ANISOU  171  CA  ALA A  11     4383   4803   5418  -1071    320   -310       C  
+ATOM    172  C   ALA A  11      15.991  21.539  24.134  1.00 37.37           C  
+ANISOU  172  C   ALA A  11     4359   4715   5126   -957    189   -484       C  
+ATOM    173  O   ALA A  11      17.025  20.977  24.499  1.00 33.40           O  
+ANISOU  173  O   ALA A  11     3731   4337   4622  -1000     21   -553       O  
+ATOM    174  CB  ALA A  11      15.886  22.090  21.702  1.00 36.15           C  
+ANISOU  174  CB  ALA A  11     3890   4783   5061  -1010    425   -154       C  
+ATOM    175  H   ALA A  11      17.785  23.345  22.543  1.00 46.23           H  
+ATOM    176  HA  ALA A  11      15.274  23.249  23.273  1.00 46.22           H  
+ATOM    177  HB1 ALA A  11      15.047  21.606  21.640  1.00 43.48           H  
+ATOM    178  HB2 ALA A  11      15.895  22.819  21.061  1.00 43.48           H  
+ATOM    179  HB3 ALA A  11      16.627  21.489  21.529  1.00 43.48           H  
+ATOM    180  N   ILE A  12      14.786  21.232  24.601  1.00 29.16           N  
+ANISOU  180  N   ILE A  12     3513   3572   3994   -803    280   -489       N  
+ATOM    181  CA  ILE A  12      14.536  20.022  25.369  1.00 27.88           C  
+ANISOU  181  CA  ILE A  12     3432   3469   3693   -665    214   -572       C  
+ATOM    182  C   ILE A  12      14.294  18.882  24.389  1.00 26.33           C  
+ANISOU  182  C   ILE A  12     3050   3464   3491   -579    249   -509       C  
+ATOM    183  O   ILE A  12      13.617  19.060  23.370  1.00 28.42           O  
+ANISOU  183  O   ILE A  12     3243   3782   3775   -595    343   -386       O  
+ATOM    184  CB  ILE A  12      13.328  20.205  26.307  1.00 32.48           C  
+ANISOU  184  CB  ILE A  12     4293   3841   4206   -540    357   -569       C  
+ATOM    185  CG1 ILE A  12      13.361  21.573  27.007  1.00 36.40           C  
+ANISOU  185  CG1 ILE A  12     5066   4059   4703   -630    436   -665       C  
+ATOM    186  CG2 ILE A  12      13.265  19.067  27.311  1.00 33.61           C  
+ANISOU  186  CG2 ILE A  12     4549   4034   4189   -426    281   -630       C  
+ATOM    187  CD1 ILE A  12      14.273  21.641  28.206  1.00 35.49           C  
+ANISOU  187  CD1 ILE A  12     5192   3912   4382   -768    220   -886       C  
+ATOM    188  H   ILE A  12      14.086  21.718  24.484  1.00 35.09           H  
+ATOM    189  HA  ILE A  12      15.310  19.821  25.918  1.00 33.56           H  
+ATOM    190  HB  ILE A  12      12.521  20.184  25.769  1.00 39.07           H  
+ATOM    191 HG12 ILE A  12      13.665  22.238  26.370  1.00 43.77           H  
+ATOM    192 HG13 ILE A  12      12.465  21.788  27.309  1.00 43.77           H  
+ATOM    193 HG21 ILE A  12      12.532  19.227  27.925  1.00 40.44           H  
+ATOM    194 HG22 ILE A  12      13.123  18.234  26.835  1.00 40.44           H  
+ATOM    195 HG23 ILE A  12      14.103  19.029  27.799  1.00 40.44           H  
+ATOM    196 HD11 ILE A  12      14.297  22.553  28.534  1.00 42.69           H  
+ATOM    197 HD12 ILE A  12      13.932  21.051  28.896  1.00 42.69           H  
+ATOM    198 HD13 ILE A  12      15.163  21.360  27.942  1.00 42.69           H  
+ATOM    199  N   ILE A  13      14.833  17.704  24.692  1.00 22.78           N  
+ANISOU  199  N   ILE A  13     2546   3103   3008   -501    167   -583       N  
+ATOM    200  CA  ILE A  13      14.722  16.543  23.812  1.00 23.08           C  
+ANISOU  200  CA  ILE A  13     2487   3243   3041   -434    232   -598       C  
+ATOM    201  C   ILE A  13      14.000  15.444  24.580  1.00 25.33           C  
+ANISOU  201  C   ILE A  13     2886   3429   3308   -308    222   -606       C  
+ATOM    202  O   ILE A  13      14.551  14.867  25.528  1.00 22.79           O  
+ANISOU  202  O   ILE A  13     2581   3081   2996   -217    142   -619       O  
+ATOM    203  CB  ILE A  13      16.093  16.073  23.309  1.00 26.64           C  
+ANISOU  203  CB  ILE A  13     2739   3817   3564   -416    250   -644       C  
+ATOM    204  CG1 ILE A  13      16.753  17.194  22.500  1.00 32.27           C  
+ANISOU  204  CG1 ILE A  13     3310   4630   4320   -555    301   -578       C  
+ATOM    205  CG2 ILE A  13      15.945  14.830  22.449  1.00 27.73           C  
+ANISOU  205  CG2 ILE A  13     2888   3977   3671   -332    390   -729       C  
+ATOM    206  CD1 ILE A  13      18.222  16.975  22.221  1.00 37.42           C  
+ANISOU  206  CD1 ILE A  13     3695   5401   5123   -535    345   -549       C  
+ATOM    207  H   ILE A  13      15.275  17.551  25.414  1.00 27.44           H  
+ATOM    208  HA  ILE A  13      14.177  16.772  23.043  1.00 27.80           H  
+ATOM    209  HB  ILE A  13      16.648  15.856  24.074  1.00 32.06           H  
+ATOM    210 HG12 ILE A  13      16.300  17.268  21.645  1.00 38.82           H  
+ATOM    211 HG13 ILE A  13      16.668  18.024  22.994  1.00 38.82           H  
+ATOM    212 HG21 ILE A  13      16.800  14.625  22.040  1.00 33.38           H  
+ATOM    213 HG22 ILE A  13      15.661  14.090  23.009  1.00 33.38           H  
+ATOM    214 HG23 ILE A  13      15.281  14.998  21.761  1.00 33.38           H  
+ATOM    215 HD11 ILE A  13      18.592  17.780  21.828  1.00 45.01           H  
+ATOM    216 HD12 ILE A  13      18.675  16.776  23.056  1.00 45.01           H  
+ATOM    217 HD13 ILE A  13      18.319  16.231  21.607  1.00 45.01           H  
+ATOM    218  N   GLY A  14      12.764  15.162  24.177  1.00 20.94           N  
+ANISOU  218  N   GLY A  14     2379   2832   2746   -322    281   -544       N  
+ATOM    219  CA  GLY A  14      11.962  14.143  24.823  1.00 21.71           C  
+ANISOU  219  CA  GLY A  14     2551   2815   2884   -237    294   -501       C  
+ATOM    220  C   GLY A  14      12.082  12.801  24.137  1.00 25.80           C  
+ANISOU  220  C   GLY A  14     3048   3311   3443   -246    301   -604       C  
+ATOM    221  O   GLY A  14      11.743  12.670  22.958  1.00 22.63           O  
+ANISOU  221  O   GLY A  14     2639   2972   2986   -385    301   -658       O  
+ATOM    222  H   GLY A  14      12.367  15.554  23.523  1.00 25.23           H  
+ATOM    223  HA2 GLY A  14      12.249  14.043  25.744  1.00 26.16           H  
+ATOM    224  HA3 GLY A  14      11.030  14.412  24.811  1.00 26.16           H  
+ATOM    225  N   LEU A  15      12.559  11.792  24.864  1.00 25.72           N  
+ANISOU  225  N   LEU A  15     3062   3195   3515   -109    311   -626       N  
+ATOM    226  CA  LEU A  15      12.780  10.468  24.304  1.00 29.02           C  
+ANISOU  226  CA  LEU A  15     3502   3491   4031    -83    382   -746       C  
+ATOM    227  C   LEU A  15      12.279   9.412  25.275  1.00 27.84           C  
+ANISOU  227  C   LEU A  15     3411   3136   4030     22    395   -631       C  
+ATOM    228  O   LEU A  15      12.375   9.583  26.494  1.00 30.51           O  
+ANISOU  228  O   LEU A  15     3754   3485   4355    146    355   -467       O  
+ATOM    229  CB  LEU A  15      14.266  10.234  24.002  1.00 27.60           C  
+ANISOU  229  CB  LEU A  15     3223   3354   3911     41    464   -840       C  
+ATOM    230  CG  LEU A  15      14.829  11.005  22.808  1.00 27.80           C  
+ANISOU  230  CG  LEU A  15     3190   3558   3815    -61    536   -948       C  
+ATOM    231  CD1 LEU A  15      16.329  11.203  22.962  1.00 30.76           C  
+ANISOU  231  CD1 LEU A  15     3348   4023   4315     76    592   -900       C  
+ATOM    232  CD2 LEU A  15      14.517  10.278  21.511  1.00 33.03           C  
+ANISOU  232  CD2 LEU A  15     4015   4160   4373   -161    679  -1157       C  
+ATOM    233  H   LEU A  15      12.763  11.854  25.697  1.00 30.96           H  
+ATOM    234  HA  LEU A  15      12.279  10.378  23.478  1.00 34.92           H  
+ATOM    235  HB2 LEU A  15      14.779  10.495  24.783  1.00 33.22           H  
+ATOM    236  HB3 LEU A  15      14.393   9.289  23.822  1.00 33.22           H  
+ATOM    237  HG  LEU A  15      14.413  11.881  22.771  1.00 33.46           H  
+ATOM    238 HD11 LEU A  15      16.670  11.658  22.176  1.00 37.01           H  
+ATOM    239 HD12 LEU A  15      16.497  11.739  23.753  1.00 37.01           H  
+ATOM    240 HD13 LEU A  15      16.754  10.336  23.053  1.00 37.01           H  
+ATOM    241 HD21 LEU A  15      14.914  10.765  20.772  1.00 39.73           H  
+ATOM    242 HD22 LEU A  15      14.887   9.382  21.554  1.00 39.73           H  
+ATOM    243 HD23 LEU A  15      13.554  10.233  21.398  1.00 39.73           H  
+ATOM    244  N   MET A  16      11.750   8.323  24.730  1.00 32.08           N  
+ANISOU  244  N   MET A  16     4026   3478   4684    -54    450   -716       N  
+ATOM    245  CA  MET A  16      11.271   7.219  25.553  1.00 35.03           C  
+ANISOU  245  CA  MET A  16     4443   3603   5264     26    491   -578       C  
+ATOM    246  C   MET A  16      12.434   6.340  26.002  1.00 37.32           C  
+ANISOU  246  C   MET A  16     4709   3749   5721    273    588   -563       C  
+ATOM    247  O   MET A  16      13.190   5.826  25.179  1.00 37.26           O  
+ANISOU  247  O   MET A  16     4723   3639   5795    318    716   -762       O  
+ATOM    248  CB  MET A  16      10.244   6.382  24.788  1.00 42.02           C  
+ANISOU  248  CB  MET A  16     5421   4282   6264   -212    482   -672       C  
+ATOM    249  CG  MET A  16       9.180   7.206  24.077  1.00 47.17           C  
+ANISOU  249  CG  MET A  16     6022   5119   6782   -483    336   -641       C  
+ATOM    250  SD  MET A  16       7.685   6.261  23.716  1.00 73.75           S  
+ANISOU  250  SD  MET A  16     9393   8269  10357   -813    213   -566       S  
+ATOM    251  CE  MET A  16       8.378   4.687  23.212  1.00 58.41           C  
+ANISOU  251  CE  MET A  16     7724   5933   8538   -844    329   -915       C  
+ATOM    252  H   MET A  16      11.656   8.199  23.885  1.00 38.59           H  
+ATOM    253  HA  MET A  16      10.828   7.581  26.336  1.00 42.14           H  
+ATOM    254  HB2 MET A  16      10.708   5.857  24.116  1.00 50.53           H  
+ATOM    255  HB3 MET A  16       9.793   5.794  25.414  1.00 50.53           H  
+ATOM    256  HG2 MET A  16       8.932   7.954  24.642  1.00 56.70           H  
+ATOM    257  HG3 MET A  16       9.541   7.529  23.237  1.00 56.70           H  
+ATOM    258  HE1 MET A  16       7.668   4.127  22.861  1.00 70.20           H  
+ATOM    259  HE2 MET A  16       9.047   4.841  22.527  1.00 70.20           H  
+ATOM    260  HE3 MET A  16       8.785   4.260  23.983  1.00 70.20           H  
+TER     261      MET A  16                                                      
+HETATM  262  I   IOD A 101      14.671  14.671  14.671  0.33 89.73           I  
+HETATM  263  I   IOD A 102      16.685  16.685  16.685  0.33 71.77           I  
+HETATM  264  I   IOD A 103      19.490  18.267  25.629  1.00 84.12           I  
+HETATM  265  O   HOH A 201      22.518  18.290  30.025  1.00 50.31           O  
+HETATM  266  O   HOH A 202      18.797  23.119  21.257  1.00 61.85           O  
+HETATM  267  O   HOH A 203      10.613  11.331  32.771  1.00 30.31           O  
+HETATM  268  O   HOH A 204      13.084   5.202  32.443  1.00 40.16           O  
+HETATM  269  O   HOH A 205      13.489   5.532  22.366  1.00 45.06           O  
+HETATM  270  O   HOH A 206       9.928  10.695  21.813  1.00 36.21           O  
+HETATM  271  O   HOH A 207      11.283   8.207  21.718  1.00 39.77           O  
+HETATM  272  O   HOH A 208      21.183  15.709  28.664  1.00 41.81           O  
+HETATM  273  O   HOH A 209      11.511   3.285  33.438  1.00 38.18           O  
+HETATM  274  O   HOH A 210       8.377   3.613  37.498  1.00 44.32           O  
+HETATM  275  O   HOH A 211       8.201  -0.503  27.689  1.00 48.46           O  
+HETATM  276  O   HOH A 212      10.363  13.246  33.973  0.33 44.09           O  
+HETATM  277  O   HOH A 213      12.549   9.905  33.881  1.00 41.24           O  
+HETATM  278  O   HOH A 214      12.909  25.131  28.317  1.00 46.82           O  
+HETATM  279  O   HOH A 215       9.699   7.694  37.016  1.00 48.96           O  
+HETATM  280  O   HOH A 216       7.959   6.472  38.901  1.00 32.37           O  
+CONECT    1  246                                                                
+CONECT    3   22                                                                
+CONECT   17   18   25   26                                                      
+CONECT   18   17   19   23   27                                                 
+CONECT   19   18   20   28   29                                                 
+CONECT   20   19   21   30   31                                                 
+CONECT   21   20   22   32   33                                                 
+CONECT   22    3   21   34                                                      
+CONECT   23   18   24   35                                                      
+CONECT   24   23                                                                
+CONECT   25   17                                                                
+CONECT   26   17                                                                
+CONECT   27   18                                                                
+CONECT   28   19                                                                
+CONECT   29   19                                                                
+CONECT   30   20                                                                
+CONECT   31   20                                                                
+CONECT   32   21                                                                
+CONECT   33   21                                                                
+CONECT   34   22                                                                
+CONECT   35   23                                                                
+CONECT   78   93                                                                
+CONECT   92   93  104  105  106                                                 
+CONECT   93   78   92   94                                                      
+CONECT   94   93   95   97  107                                                 
+CONECT   95   94   96  115                                                      
+CONECT   96   95                                                                
+CONECT   97   94   98  108  109                                                 
+CONECT   98   97   99  103                                                      
+CONECT   99   98  100  110                                                      
+CONECT  100   99  101  111                                                      
+CONECT  101  100  102  112                                                      
+CONECT  102  101  103  113                                                      
+CONECT  103   98  102  114                                                      
+CONECT  104   92                                                                
+CONECT  105   92                                                                
+CONECT  106   92                                                                
+CONECT  107   94                                                                
+CONECT  108   97                                                                
+CONECT  109   97                                                                
+CONECT  110   99                                                                
+CONECT  111  100                                                                
+CONECT  112  101                                                                
+CONECT  113  102                                                                
+CONECT  114  103                                                                
+CONECT  115   95                                                                
+CONECT  147  157                                                                
+CONECT  152  153  160  161                                                      
+CONECT  153  152  154  158  162                                                 
+CONECT  154  153  155  163  164                                                 
+CONECT  155  154  156  165  166                                                 
+CONECT  156  155  157  167  168                                                 
+CONECT  157  147  156  169                                                      
+CONECT  158  153  159  170                                                      
+CONECT  159  158                                                                
+CONECT  160  152                                                                
+CONECT  161  152                                                                
+CONECT  162  153                                                                
+CONECT  163  154                                                                
+CONECT  164  154                                                                
+CONECT  165  155                                                                
+CONECT  166  155                                                                
+CONECT  167  156                                                                
+CONECT  168  156                                                                
+CONECT  169  157                                                                
+CONECT  170  158                                                                
+CONECT  246    1                                                                
+MASTER      312    0    6    0    2    0    0    6  139    1   67    2          
+END                                                                             

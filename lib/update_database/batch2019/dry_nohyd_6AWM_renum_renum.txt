@@ -1,0 +1,7 @@
+GLY     1    GLY     1
+LEU     2    LEU     2
+LEU     3    LEU     3
+GLY     4    GLY     4
+ILE     5    ILE     5
+THR     6    THR     6
+ASP     7    ASP     7

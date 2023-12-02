@@ -1,0 +1,6 @@
+GLY     1    GLY     1
+SER     2    SER     2
+PRO     3    PRO     3
+LEU     4    LEU     4
+PHE     5    PHE     5
+ASP     6    ASP     6

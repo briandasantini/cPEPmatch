@@ -1,0 +1,215 @@
+PRO     1    PRO     1
+ASP     2    ASP     2
+ASP     3    ASP     3
+PRO     4    PRO     4
+ASP     5    ASP     5
+ASP     6    ASP     6
+PRO     7    PRO     7
+ASP     8    ASP     8
+ASP     9    ASP     9
+PRO    10    PRO    10
+ASP    11    ASP    11
+ASP    12    ASP    12
+PRO    13    PRO    13
+ASP    14    ASP    14
+ASP    15    ASP    15
+PRO    16    PRO    16
+ASP    17    ASP    17
+ASP    18    ASP    18
+PRO    19    PRO    19
+ASP    20    ASP    20
+ASP    21    ASP    21
+PRO    22    PRO    22
+ASP    23    ASP    23
+ASP    24    ASP    24
+PRO    25    PRO    25
+ASP    26    ASP    26
+ASP    27    ASP    27
+PRO    28    PRO    28
+ASP    29    ASP    29
+ASP    30    ASP    30
+PRO    31    PRO    31
+ASP    32    ASP    32
+ASP    33    ASP    33
+PRO    34    PRO    34
+ASP    35    ASP    35
+ASP    36    ASP    36
+PRO    37    PRO    37
+ASP    38    ASP    38
+ASP    39    ASP    39
+PRO    40    PRO    40
+ASP    41    ASP    41
+ASP    42    ASP    42
+PRO    43    PRO    43
+ASP    44    ASP    44
+ASP    45    ASP    45
+PRO    46    PRO    46
+ASP    47    ASP    47
+ASP    48    ASP    48
+PRO    49    PRO    49
+ASP    50    ASP    50
+ASP    51    ASP    51
+PRO    52    PRO    52
+ASP    53    ASP    53
+ASP    54    ASP    54
+PRO    55    PRO    55
+ASP    56    ASP    56
+ASP    57    ASP    57
+PRO    58    PRO    58
+ASP    59    ASP    59
+ASP    60    ASP    60
+PRO    61    PRO    61
+ASP    62    ASP    62
+ASP    63    ASP    63
+PRO    64    PRO    64
+ASP    65    ASP    65
+ASP    66    ASP    66
+PRO    67    PRO    67
+ASP    68    ASP    68
+ASP    69    ASP    69
+PRO    70    PRO    70
+ASP    71    ASP    71
+ASP    72    ASP    72
+PRO    73    PRO    73
+ASP    74    ASP    74
+ASP    75    ASP    75
+PRO    76    PRO    76
+ASP    77    ASP    77
+ASP    78    ASP    78
+PRO    79    PRO    79
+ASP    80    ASP    80
+ASP    81    ASP    81
+ NA    82     NA    82
+ NA    83     NA    83
+ NA    84     NA    84
+ CD    85     CD    85
+ NA    86     NA    86
+ NA    87     NA    87
+ NA    88     NA    88
+ CD    89     CD    89
+ NA    90     NA    90
+ NA    91     NA    91
+ NA    92     NA    92
+ CD    93     CD    93
+ NA    94     NA    94
+ NA    95     NA    95
+ NA    96     NA    96
+ NA    97     NA    97
+ NA    98     NA    98
+ CD    99     CD    99
+ NA   100     NA   100
+ NA   101     NA   101
+ CD   102     CD   102
+ NA   103     NA   103
+ NA   104     NA   104
+ NA   105     NA   105
+ CD   106     CD   106
+ NA   107     NA   107
+ NA   108     NA   108
+ NA   109     NA   109
+HOH   110    HOH   110
+HOH   111    HOH   111
+HOH   112    HOH   112
+HOH   113    HOH   113
+HOH   114    HOH   114
+HOH   115    HOH   115
+HOH   116    HOH   116
+HOH   117    HOH   117
+HOH   118    HOH   118
+HOH   119    HOH   119
+HOH   120    HOH   120
+HOH   121    HOH   121
+HOH   122    HOH   122
+HOH   123    HOH   123
+HOH   124    HOH   124
+HOH   125    HOH   125
+HOH   126    HOH   126
+HOH   127    HOH   127
+HOH   128    HOH   128
+HOH   129    HOH   129
+HOH   130    HOH   130
+HOH   131    HOH   131
+HOH   132    HOH   132
+HOH   133    HOH   133
+HOH   134    HOH   134
+HOH   135    HOH   135
+HOH   136    HOH   136
+HOH   137    HOH   137
+HOH   138    HOH   138
+HOH   139    HOH   139
+HOH   140    HOH   140
+HOH   141    HOH   141
+HOH   142    HOH   142
+HOH   143    HOH   143
+HOH   144    HOH   144
+HOH   145    HOH   145
+HOH   146    HOH   146
+HOH   147    HOH   147
+HOH   148    HOH   148
+HOH   149    HOH   149
+HOH   150    HOH   150
+HOH   151    HOH   151
+HOH   152    HOH   152
+HOH   153    HOH   153
+HOH   154    HOH   154
+HOH   155    HOH   155
+HOH   156    HOH   156
+HOH   157    HOH   157
+HOH   158    HOH   158
+HOH   159    HOH   159
+HOH   160    HOH   160
+HOH   161    HOH   161
+HOH   162    HOH   162
+HOH   163    HOH   163
+HOH   164    HOH   164
+HOH   165    HOH   165
+HOH   166    HOH   166
+HOH   167    HOH   167
+HOH   168    HOH   168
+HOH   169    HOH   169
+HOH   170    HOH   170
+HOH   171    HOH   171
+HOH   172    HOH   172
+HOH   173    HOH   173
+HOH   174    HOH   174
+HOH   175    HOH   175
+HOH   176    HOH   176
+HOH   177    HOH   177
+HOH   178    HOH   178
+HOH   179    HOH   179
+HOH   180    HOH   180
+HOH   181    HOH   181
+HOH   182    HOH   182
+HOH   183    HOH   183
+HOH   184    HOH   184
+HOH   185    HOH   185
+HOH   186    HOH   186
+HOH   187    HOH   187
+HOH   188    HOH   188
+HOH   189    HOH   189
+HOH   190    HOH   190
+HOH   191    HOH   191
+HOH   192    HOH   192
+HOH   193    HOH   193
+HOH   194    HOH   194
+HOH   195    HOH   195
+HOH   196    HOH   196
+HOH   197    HOH   197
+HOH   198    HOH   198
+HOH   199    HOH   199
+HOH   200    HOH   200
+HOH   201    HOH   201
+HOH   202    HOH   202
+HOH   203    HOH   203
+HOH   204    HOH   204
+HOH   205    HOH   205
+HOH   206    HOH   206
+HOH   207    HOH   207
+HOH   208    HOH   208
+HOH   209    HOH   209
+HOH   210    HOH   210
+HOH   211    HOH   211
+HOH   212    HOH   212
+HOH   213    HOH   213
+HOH   214    HOH   214
+HOH   215    HOH   215

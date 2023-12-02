@@ -1,0 +1,1919 @@
+HEADER    DE NOVO PROTEIN                         14-AUG-17   6ANN              
+TITLE     STRUCTURE OF CYCLIC D-LEU-N-METHYL-D-PHE-2-ABZ-D-ALA AT 0.76 ANGSTROM 
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: CYCLIC DLE-ZAE-BE2-DAL;                                    
+COMPND   3 CHAIN: A, B, C, D, E;                                                
+COMPND   4 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1;                                                            
+SOURCE   2 SYNTHETIC: YES;                                                      
+SOURCE   3 ORGANISM_SCIENTIFIC: SYNTHETIC CONSTRUCT;                            
+SOURCE   4 ORGANISM_TAXID: 32630                                                
+KEYWDS    UNNATURAL AMINO ACID, PEPTIDOMIMETIC BETA-TURN, D-AMINO ACID,         
+KEYWDS   2 TETRAPEPTIDE, CYCLIC PEPTIDE, DE NOVO PROTEIN                        
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    A.J.CAMERON,V.SAROJINI,C.J.SQUIRE                                     
+REVDAT   5   15-NOV-23 6ANN    1       LINK   ATOM                              
+REVDAT   4   15-SEP-21 6ANN    1       LINK   ATOM                              
+REVDAT   3   03-JAN-18 6ANN    1       JRNL                                     
+REVDAT   2   06-DEC-17 6ANN    1       JRNL                                     
+REVDAT   1   15-NOV-17 6ANN    0                                                
+JRNL        AUTH   A.J.CAMERON,C.J.SQUIRE,P.J.B.EDWARDS,E.HARJES,V.SAROJINI     
+JRNL        TITL   CRYSTAL AND NMR STRUCTURES OF A PEPTIDOMIMETIC BETA-TURN     
+JRNL        TITL 2 THAT PROVIDES FACILE SYNTHESIS OF 13-MEMBERED CYCLIC         
+JRNL        TITL 3 TETRAPEPTIDES.                                               
+JRNL        REF    CHEM ASIAN J                  V.  12  3195 2017              
+JRNL        REFN                   ESSN 1861-471X                               
+JRNL        PMID   29098772                                                     
+JRNL        DOI    10.1002/ASIA.201701422                                       
+REMARK   2                                                                      
+REMARK   2 RESOLUTION.    0.76 ANGSTROMS.                                       
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : REFMAC 5.8.0158                                      
+REMARK   3   AUTHORS     : MURSHUDOV,SKUBAK,LEBEDEV,PANNU,STEINER,              
+REMARK   3               : NICHOLLS,WINN,LONG,VAGIN                             
+REMARK   3                                                                      
+REMARK   3    REFINEMENT TARGET : MAXIMUM LIKELIHOOD                            
+REMARK   3                                                                      
+REMARK   3  DATA USED IN REFINEMENT.                                            
+REMARK   3   RESOLUTION RANGE HIGH (ANGSTROMS) : 0.76                           
+REMARK   3   RESOLUTION RANGE LOW  (ANGSTROMS) : 22.58                          
+REMARK   3   DATA CUTOFF            (SIGMA(F)) : NULL                           
+REMARK   3   COMPLETENESS FOR RANGE        (%) : 99.8                           
+REMARK   3   NUMBER OF REFLECTIONS             : 17502                          
+REMARK   3                                                                      
+REMARK   3  FIT TO DATA USED IN REFINEMENT.                                     
+REMARK   3   CROSS-VALIDATION METHOD          : THROUGHOUT                      
+REMARK   3   FREE R VALUE TEST SET SELECTION  : RANDOM                          
+REMARK   3   R VALUE     (WORKING + TEST SET) : 0.144                           
+REMARK   3   R VALUE            (WORKING SET) : 0.144                           
+REMARK   3   FREE R VALUE                     : 0.157                           
+REMARK   3   FREE R VALUE TEST SET SIZE   (%) : 5.200                           
+REMARK   3   FREE R VALUE TEST SET COUNT      : 962                             
+REMARK   3                                                                      
+REMARK   3  FIT IN THE HIGHEST RESOLUTION BIN.                                  
+REMARK   3   TOTAL NUMBER OF BINS USED           : 20                           
+REMARK   3   BIN RESOLUTION RANGE HIGH       (A) : 0.76                         
+REMARK   3   BIN RESOLUTION RANGE LOW        (A) : 0.78                         
+REMARK   3   REFLECTION IN BIN     (WORKING SET) : 1218                         
+REMARK   3   BIN COMPLETENESS (WORKING+TEST) (%) : 97.44                        
+REMARK   3   BIN R VALUE           (WORKING SET) : 0.2390                       
+REMARK   3   BIN FREE R VALUE SET COUNT          : 76                           
+REMARK   3   BIN FREE R VALUE                    : 0.2300                       
+REMARK   3                                                                      
+REMARK   3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.                    
+REMARK   3   PROTEIN ATOMS            : 170                                     
+REMARK   3   NUCLEIC ACID ATOMS       : 0                                       
+REMARK   3   HETEROGEN ATOMS          : 9                                       
+REMARK   3   SOLVENT ATOMS            : 4                                       
+REMARK   3                                                                      
+REMARK   3  B VALUES.                                                           
+REMARK   3   FROM WILSON PLOT           (A**2) : NULL                           
+REMARK   3   MEAN B VALUE      (OVERALL, A**2) : 5.16                           
+REMARK   3   OVERALL ANISOTROPIC B VALUE.                                       
+REMARK   3    B11 (A**2) : -0.28000                                             
+REMARK   3    B22 (A**2) : 0.21000                                              
+REMARK   3    B33 (A**2) : 0.07000                                              
+REMARK   3    B12 (A**2) : 0.00000                                              
+REMARK   3    B13 (A**2) : 0.00000                                              
+REMARK   3    B23 (A**2) : 0.00000                                              
+REMARK   3                                                                      
+REMARK   3  ESTIMATED OVERALL COORDINATE ERROR.                                 
+REMARK   3   ESU BASED ON R VALUE                            (A): 0.014         
+REMARK   3   ESU BASED ON FREE R VALUE                       (A): 0.014         
+REMARK   3   ESU BASED ON MAXIMUM LIKELIHOOD                 (A): 0.012         
+REMARK   3   ESU FOR B VALUES BASED ON MAXIMUM LIKELIHOOD (A**2): 0.362         
+REMARK   3                                                                      
+REMARK   3 CORRELATION COEFFICIENTS.                                            
+REMARK   3   CORRELATION COEFFICIENT FO-FC      : 0.974                         
+REMARK   3   CORRELATION COEFFICIENT FO-FC FREE : 0.970                         
+REMARK   3                                                                      
+REMARK   3  RMS DEVIATIONS FROM IDEAL VALUES        COUNT    RMS    WEIGHT      
+REMARK   3   BOND LENGTHS REFINED ATOMS        (A):   211 ; 0.032 ; 0.020       
+REMARK   3   BOND LENGTHS OTHERS               (A):   227 ; 0.006 ; 0.020       
+REMARK   3   BOND ANGLES REFINED ATOMS   (DEGREES):   241 ; 2.970 ; 2.951       
+REMARK   3   BOND ANGLES OTHERS          (DEGREES):   483 ; 1.535 ; 3.000       
+REMARK   3   TORSION ANGLES, PERIOD 1    (DEGREES):  NULL ;  NULL ;  NULL       
+REMARK   3   TORSION ANGLES, PERIOD 2    (DEGREES):  NULL ;  NULL ;  NULL       
+REMARK   3   TORSION ANGLES, PERIOD 3    (DEGREES):  NULL ;  NULL ;  NULL       
+REMARK   3   TORSION ANGLES, PERIOD 4    (DEGREES):  NULL ;  NULL ;  NULL       
+REMARK   3   CHIRAL-CENTER RESTRAINTS       (A**3):    28 ; 0.218 ; 0.200       
+REMARK   3   GENERAL PLANES REFINED ATOMS      (A):    96 ; 0.027 ; 0.020       
+REMARK   3   GENERAL PLANES OTHERS             (A):    61 ; 0.008 ; 0.020       
+REMARK   3   NON-BONDED CONTACTS REFINED ATOMS (A):  NULL ;  NULL ;  NULL       
+REMARK   3   NON-BONDED CONTACTS OTHERS        (A):  NULL ;  NULL ;  NULL       
+REMARK   3   NON-BONDED TORSION REFINED ATOMS  (A):  NULL ;  NULL ;  NULL       
+REMARK   3   NON-BONDED TORSION OTHERS         (A):  NULL ;  NULL ;  NULL       
+REMARK   3   H-BOND (X...Y) REFINED ATOMS      (A):  NULL ;  NULL ;  NULL       
+REMARK   3   H-BOND (X...Y) OTHERS             (A):  NULL ;  NULL ;  NULL       
+REMARK   3   POTENTIAL METAL-ION REFINED ATOMS (A):  NULL ;  NULL ;  NULL       
+REMARK   3   POTENTIAL METAL-ION OTHERS        (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY VDW REFINED ATOMS        (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY VDW OTHERS               (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY H-BOND REFINED ATOMS     (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY H-BOND OTHERS            (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY METAL-ION REFINED ATOMS  (A):  NULL ;  NULL ;  NULL       
+REMARK   3   SYMMETRY METAL-ION OTHERS         (A):  NULL ;  NULL ;  NULL       
+REMARK   3                                                                      
+REMARK   3  ISOTROPIC THERMAL FACTOR RESTRAINTS.     COUNT   RMS    WEIGHT      
+REMARK   3   MAIN-CHAIN BOND REFINED ATOMS  (A**2):    48 ; 0.450 ; 0.369       
+REMARK   3   MAIN-CHAIN BOND OTHER ATOMS    (A**2):    48 ; 0.447 ; 0.370       
+REMARK   3   MAIN-CHAIN ANGLE REFINED ATOMS (A**2):    28 ; 0.532 ; 0.548       
+REMARK   3   MAIN-CHAIN ANGLE OTHER ATOMS   (A**2):    29 ; 0.527 ; 0.544       
+REMARK   3   SIDE-CHAIN BOND REFINED ATOMS  (A**2):   163 ; 1.057 ; 0.513       
+REMARK   3   SIDE-CHAIN BOND OTHER ATOMS    (A**2):   164 ; 1.057 ; 0.517       
+REMARK   3   SIDE-CHAIN ANGLE REFINED ATOMS (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   SIDE-CHAIN ANGLE OTHER ATOMS   (A**2):   213 ; 1.170 ; 0.740       
+REMARK   3   LONG RANGE B REFINED ATOMS     (A**2):   312 ; 1.021 ; 5.124       
+REMARK   3   LONG RANGE B OTHER ATOMS       (A**2):   313 ; 1.020 ; 5.156       
+REMARK   3                                                                      
+REMARK   3 ANISOTROPIC THERMAL FACTOR RESTRAINTS.    COUNT   RMS   WEIGHT       
+REMARK   3   RIGID-BOND RESTRAINTS          (A**2):   438 ; 5.416 ; 3.000       
+REMARK   3   SPHERICITY; FREE ATOMS         (A**2):  NULL ;  NULL ;  NULL       
+REMARK   3   SPHERICITY; BONDED ATOMS       (A**2):   456 ; 5.232 ; 5.000       
+REMARK   3                                                                      
+REMARK   3  NCS RESTRAINTS STATISTICS                                           
+REMARK   3   NUMBER OF DIFFERENT NCS GROUPS : NULL                              
+REMARK   3                                                                      
+REMARK   3  TLS DETAILS                                                         
+REMARK   3   NUMBER OF TLS GROUPS  : NULL                                       
+REMARK   3                                                                      
+REMARK   3  BULK SOLVENT MODELLING.                                             
+REMARK   3   METHOD USED : MASK                                                 
+REMARK   3   PARAMETERS FOR MASK CALCULATION                                    
+REMARK   3   VDW PROBE RADIUS   : 1.20                                          
+REMARK   3   ION PROBE RADIUS   : 0.80                                          
+REMARK   3   SHRINKAGE RADIUS   : 0.80                                          
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: HYDROGENS HAVE BEEN USED IF PRESENT IN    
+REMARK   3  THE INPUT                                                           
+REMARK   4                                                                      
+REMARK   4 6ANN COMPLIES WITH FORMAT V. 3.30, 13-JUL-11                         
+REMARK 100                                                                      
+REMARK 100 THIS ENTRY HAS BEEN PROCESSED BY RCSB ON 17-AUG-17.                  
+REMARK 100 THE DEPOSITION ID IS D_1000229513.                                   
+REMARK 200                                                                      
+REMARK 200 EXPERIMENTAL DETAILS                                                 
+REMARK 200  EXPERIMENT TYPE                : X-RAY DIFFRACTION                  
+REMARK 200  DATE OF DATA COLLECTION        : 25-FEB-16                          
+REMARK 200  TEMPERATURE           (KELVIN) : 100                                
+REMARK 200  PH                             : NULL                               
+REMARK 200  NUMBER OF CRYSTALS USED        : 1                                  
+REMARK 200                                                                      
+REMARK 200  SYNCHROTRON              (Y/N) : Y                                  
+REMARK 200  RADIATION SOURCE               : AUSTRALIAN SYNCHROTRON             
+REMARK 200  BEAMLINE                       : MX1                                
+REMARK 200  X-RAY GENERATOR MODEL          : NULL                               
+REMARK 200  MONOCHROMATIC OR LAUE    (M/L) : M                                  
+REMARK 200  WAVELENGTH OR RANGE        (A) : 0.71076                            
+REMARK 200  MONOCHROMATOR                  : NULL                               
+REMARK 200  OPTICS                         : NULL                               
+REMARK 200                                                                      
+REMARK 200  DETECTOR TYPE                  : CCD                                
+REMARK 200  DETECTOR MANUFACTURER          : ADSC QUANTUM 210R                  
+REMARK 200  INTENSITY-INTEGRATION SOFTWARE : XDS                                
+REMARK 200  DATA SCALING SOFTWARE          : AIMLESS                            
+REMARK 200                                                                      
+REMARK 200  NUMBER OF UNIQUE REFLECTIONS   : 18520                              
+REMARK 200  RESOLUTION RANGE HIGH      (A) : 0.760                              
+REMARK 200  RESOLUTION RANGE LOW       (A) : 22.580                             
+REMARK 200  REJECTION CRITERIA  (SIGMA(I)) : NULL                               
+REMARK 200                                                                      
+REMARK 200 OVERALL.                                                             
+REMARK 200  COMPLETENESS FOR RANGE     (%) : 99.8                               
+REMARK 200  DATA REDUNDANCY                : 26.30                              
+REMARK 200  R MERGE                    (I) : 0.14500                            
+REMARK 200  R SYM                      (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR THE DATA SET  : 11.5000                            
+REMARK 200                                                                      
+REMARK 200 IN THE HIGHEST RESOLUTION SHELL.                                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 0.76                     
+REMARK 200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 0.77                     
+REMARK 200  COMPLETENESS FOR SHELL     (%) : 96.4                               
+REMARK 200  DATA REDUNDANCY IN SHELL       : 10.20                              
+REMARK 200  R MERGE FOR SHELL          (I) : 0.84000                            
+REMARK 200  R SYM FOR SHELL            (I) : NULL                               
+REMARK 200  <I/SIGMA(I)> FOR SHELL         : 2.000                              
+REMARK 200                                                                      
+REMARK 200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH                              
+REMARK 200 METHOD USED TO DETERMINE THE STRUCTURE: AB INITIO PHASING            
+REMARK 200 SOFTWARE USED: SHELXS                                                
+REMARK 200 STARTING MODEL: NULL                                                 
+REMARK 200                                                                      
+REMARK 200 REMARK: NULL                                                         
+REMARK 280                                                                      
+REMARK 280 CRYSTAL                                                              
+REMARK 280 SOLVENT CONTENT, VS   (%): 17.48                                     
+REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.49                     
+REMARK 280                                                                      
+REMARK 280 CRYSTALLIZATION CONDITIONS: EVAPORATION FROM METHANOL/ETHANOL        
+REMARK 280  MIXTURE, TEMPERATURE 293K                                           
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY                                            
+REMARK 290 SYMMETRY OPERATORS FOR SPACE GROUP: P 21 21 21                       
+REMARK 290                                                                      
+REMARK 290      SYMOP   SYMMETRY                                                
+REMARK 290     NNNMMM   OPERATOR                                                
+REMARK 290       1555   X,Y,Z                                                   
+REMARK 290       2555   -X+1/2,-Y,Z+1/2                                         
+REMARK 290       3555   -X,Y+1/2,-Z+1/2                                         
+REMARK 290       4555   X+1/2,-Y+1/2,-Z                                         
+REMARK 290                                                                      
+REMARK 290     WHERE NNN -> OPERATOR NUMBER                                     
+REMARK 290           MMM -> TRANSLATION VECTOR                                  
+REMARK 290                                                                      
+REMARK 290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS                            
+REMARK 290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM             
+REMARK 290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY                
+REMARK 290 RELATED MOLECULES.                                                   
+REMARK 290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 290   SMTRY1   2 -1.000000  0.000000  0.000000        7.25100            
+REMARK 290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000            
+REMARK 290   SMTRY3   2  0.000000  0.000000  1.000000       22.58500            
+REMARK 290   SMTRY1   3 -1.000000  0.000000  0.000000        0.00000            
+REMARK 290   SMTRY2   3  0.000000  1.000000  0.000000       10.98100            
+REMARK 290   SMTRY3   3  0.000000  0.000000 -1.000000       22.58500            
+REMARK 290   SMTRY1   4  1.000000  0.000000  0.000000        7.25100            
+REMARK 290   SMTRY2   4  0.000000 -1.000000  0.000000       10.98100            
+REMARK 290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000            
+REMARK 290                                                                      
+REMARK 290 REMARK: NULL                                                         
+REMARK 300                                                                      
+REMARK 300 BIOMOLECULE: 1                                                       
+REMARK 300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM                
+REMARK 300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN                  
+REMARK 300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON               
+REMARK 300 BURIED SURFACE AREA.                                                 
+REMARK 350                                                                      
+REMARK 350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN           
+REMARK 350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE                
+REMARK 350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS          
+REMARK 350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND                          
+REMARK 350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.                               
+REMARK 350                                                                      
+REMARK 350 BIOMOLECULE: 1                                                       
+REMARK 350 AUTHOR DETERMINED BIOLOGICAL UNIT: PENTAMERIC                        
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B, C, D, E                         
+REMARK 350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000            
+REMARK 350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000            
+REMARK 350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000            
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: COVALENT BOND ANGLES                                       
+REMARK 500                                                                      
+REMARK 500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES              
+REMARK 500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE               
+REMARK 500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN               
+REMARK 500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                 
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)              
+REMARK 500                                                                      
+REMARK 500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999                        
+REMARK 500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996                     
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI ATM1   ATM2   ATM3                                     
+REMARK 500    BE2 A1003   CA  -  C   -  N   ANGL. DEV. =  16.9 DEGREES          
+REMARK 500    BE2 B2003   CA  -  C   -  N   ANGL. DEV. =  14.9 DEGREES          
+REMARK 500    DLE C3001   CB  -  CA  -  C   ANGL. DEV. = -12.7 DEGREES          
+REMARK 500    DLE C3001   CB  -  CG  -  CD2 ANGL. DEV. =  11.2 DEGREES          
+REMARK 500    BE2 C3003   CA  -  C   -  N   ANGL. DEV. =  14.9 DEGREES          
+REMARK 500    BE2 C3003   CA  -  C   -  N   ANGL. DEV. =  14.0 DEGREES          
+REMARK 500    BE2 D4003   CA  -  C   -  N   ANGL. DEV. =  17.7 DEGREES          
+REMARK 500    BE2 E5003   CA  -  C   -  N   ANGL. DEV. =  15.6 DEGREES          
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: NON-CIS, NON-TRANS                                         
+REMARK 500                                                                      
+REMARK 500 THE FOLLOWING PEPTIDE BONDS DEVIATE SIGNIFICANTLY FROM BOTH          
+REMARK 500 CIS AND TRANS CONFORMATION.  CIS BONDS, IF ANY, ARE LISTED           
+REMARK 500 ON CISPEP RECORDS.  TRANS IS DEFINED AS 180 +/- 30 AND               
+REMARK 500 CIS IS DEFINED AS 0 +/- 30 DEGREES.                                  
+REMARK 500                                 MODEL     OMEGA                      
+REMARK 500 BE2 A 1003     DAL A 1004                 -147.97                    
+REMARK 500 BE2 B 2003     DAL B 2004                 -148.87                    
+REMARK 500 BE2 C 3003     DAL C 3004                 -149.90                    
+REMARK 500 BE2 D 4003     DAL D 4004                 -146.23                    
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: MAIN CHAIN PLANARITY                                       
+REMARK 500                                                                      
+REMARK 500 THE FOLLOWING RESIDUES HAVE A PSEUDO PLANARITY                       
+REMARK 500 TORSION ANGLE, C(I) - CA(I) - N(I+1) - O(I), GREATER                 
+REMARK 500 10.0 DEGREES. (M=MODEL NUMBER; RES=RESIDUE NAME;                     
+REMARK 500 C=CHAIN IDENTIFIER; SSEQ=SEQUENCE NUMBER;                            
+REMARK 500 I=INSERTION CODE).                                                   
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI        ANGLE                                           
+REMARK 500    BE2 A1003         18.00                                           
+REMARK 500    BE2 B2003         17.03                                           
+REMARK 500    BE2 C3003         17.96                                           
+REMARK 500    BE2 C3003         17.43                                           
+REMARK 500    BE2 D4003         19.40                                           
+REMARK 500    BE2 E5003         16.33                                           
+REMARK 500                                                                      
+REMARK 500 REMARK: NULL                                                         
+REMARK 800                                                                      
+REMARK 800 SITE                                                                 
+REMARK 800 SITE_IDENTIFIER: AC1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residue EOH A 1101                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC2                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residue EOH B 2101                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC3                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residue EOH D 4101                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC4                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residues ZAE A 1002 and BE2 A     
+REMARK 800  1003                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC5                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE B 2001 and DAL B   
+REMARK 800  2004                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC6                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE B 2001 and ZAE B   
+REMARK 800  2002                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC7                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residues ZAE B 2002 and BE2 B     
+REMARK 800  2003                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC8                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide BE2 B 2003 and DAL B   
+REMARK 800  2004                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AC9                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE C 3001 and DAL C   
+REMARK 800  3004                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE C 3001 and ZAE C   
+REMARK 800  3002                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD2                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residues ZAE C 3002 and BE2 C     
+REMARK 800  3003                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD3                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide BE2 C 3003 and DAL C   
+REMARK 800  3004                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD4                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE D 4001 and ZAE D   
+REMARK 800  4002                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD5                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE D 4001 and DAL D   
+REMARK 800  4004                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD6                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residues ZAE D 4002 and BE2 D     
+REMARK 800  4003                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD7                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide BE2 D 4003 and DAL D   
+REMARK 800  4004                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD8                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE E 5001 and ZAE E   
+REMARK 800  5002                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AD9                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide DLE E 5001 and DAL E   
+REMARK 800  5004                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AE1                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for residues ZAE E 5002 and BE2 E     
+REMARK 800  5003                                                                
+REMARK 800                                                                      
+REMARK 800 SITE_IDENTIFIER: AE2                                                 
+REMARK 800 EVIDENCE_CODE: SOFTWARE                                              
+REMARK 800 SITE_DESCRIPTION: binding site for Di-peptide BE2 E 5003 and DAL E   
+REMARK 800  5004                                                                
+REMARK 900                                                                      
+REMARK 900 RELATED ENTRIES                                                      
+REMARK 900 RELATED ID: 6ANM   RELATED DB: PDB                                   
+REMARK 900 RELATED LINEAR PEPTIDE SEQUENCE                                      
+DBREF  6ANN A 1001  1004  PDB    6ANN     6ANN          1001   1004             
+DBREF  6ANN B 2001  2004  PDB    6ANN     6ANN          2001   2004             
+DBREF  6ANN C 3001  3004  PDB    6ANN     6ANN          3001   3004             
+DBREF  6ANN D 4001  4004  PDB    6ANN     6ANN          4001   4004             
+DBREF  6ANN E 5001  5004  PDB    6ANN     6ANN          5001   5004             
+SEQRES   1 A    4  DLE ZAE BE2 DAL                                              
+SEQRES   1 B    4  DLE ZAE BE2 DAL                                              
+SEQRES   1 C    4  DLE ZAE BE2 DAL                                              
+SEQRES   1 D    4  DLE ZAE BE2 DAL                                              
+SEQRES   1 E    4  DLE ZAE BE2 DAL                                              
+HET    DLE  A1001      36                                                       
+HET    ZAE  A1002      23                                                       
+HET    BE2  A1003      14                                                       
+HET    DAL  A1004      10                                                       
+HET    DLE  B2001      19                                                       
+HET    ZAE  B2002      23                                                       
+HET    BE2  B2003      13                                                       
+HET    DAL  B2004      10                                                       
+HET    DLE  C3001      36                                                       
+HET    ZAE  C3002      46                                                       
+HET    BE2  C3003      28                                                       
+HET    DAL  C3004      20                                                       
+HET    DLE  D4001      19                                                       
+HET    ZAE  D4002      23                                                       
+HET    BE2  D4003      14                                                       
+HET    DAL  D4004      10                                                       
+HET    DLE  E5001      32                                                       
+HET    ZAE  E5002      23                                                       
+HET    BE2  E5003      14                                                       
+HET    DAL  E5004      10                                                       
+HET    EOH  A1101       9                                                       
+HET    EOH  B2101       9                                                       
+HET    EOH  D4101       9                                                       
+HETNAM     DLE D-LEUCINE                                                        
+HETNAM     ZAE N-METHYL-D-PHENYLALANINE                                         
+HETNAM     BE2 2-AMINOBENZOIC ACID                                              
+HETNAM     DAL D-ALANINE                                                        
+HETNAM     EOH ETHANOL                                                          
+FORMUL   1  DLE    5(C6 H13 N O2)                                               
+FORMUL   1  ZAE    5(C10 H13 N O2)                                              
+FORMUL   1  BE2    5(C7 H7 N O2)                                                
+FORMUL   1  DAL    5(C3 H7 N O2)                                                
+FORMUL   6  EOH    3(C2 H6 O)                                                   
+FORMUL   9  HOH   *4(H2 O)                                                      
+LINK         C  ADLE A1001                 N   ZAE A1002     1555   1555  1.36  
+LINK         C  BDLE A1001                 N   ZAE A1002     1555   1555  1.36  
+LINK         N  ADLE A1001                 C   DAL A1004     1555   1555  1.34  
+LINK         N  BDLE A1001                 C   DAL A1004     1555   1555  1.34  
+LINK         C   ZAE A1002                 N   BE2 A1003     1555   1555  1.36  
+LINK         C   BE2 A1003                 N   DAL A1004     1555   1555  1.34  
+LINK         C   DLE B2001                 N   ZAE B2002     1555   1555  1.37  
+LINK         N   DLE B2001                 C   DAL B2004     1555   1555  1.33  
+LINK         C   ZAE B2002                 N   BE2 B2003     1555   1555  1.37  
+LINK         C   BE2 B2003                 N   DAL B2004     1555   1555  1.34  
+LINK         C  ADLE C3001                 N  AZAE C3002     1555   1555  1.30  
+LINK         C  BDLE C3001                 N  BZAE C3002     1555   1555  1.47  
+LINK         N  ADLE C3001                 C  ADAL C3004     1555   1555  1.38  
+LINK         N  BDLE C3001                 C  BDAL C3004     1555   1555  1.31  
+LINK         C  AZAE C3002                 N  ABE2 C3003     1555   1555  1.37  
+LINK         C  BZAE C3002                 N  BBE2 C3003     1555   1555  1.36  
+LINK         C  ABE2 C3003                 N  ADAL C3004     1555   1555  1.36  
+LINK         C  BBE2 C3003                 N  BDAL C3004     1555   1555  1.32  
+LINK         C   DLE D4001                 N   ZAE D4002     1555   1555  1.37  
+LINK         N   DLE D4001                 C   DAL D4004     1555   1555  1.33  
+LINK         C   ZAE D4002                 N   BE2 D4003     1555   1555  1.39  
+LINK         C   BE2 D4003                 N   DAL D4004     1555   1555  1.34  
+LINK         C   DLE E5001                 N   ZAE E5002     1555   1555  1.36  
+LINK         N   DLE E5001                 C   DAL E5004     1555   1555  1.34  
+LINK         C   ZAE E5002                 N   BE2 E5003     1555   1555  1.38  
+LINK         C   BE2 E5003                 N   DAL E5004     1555   1555  1.33  
+SITE     1 AC1  6 DLE A1001  BE2 A1003  BE2 C3003  ZAE D4002                    
+SITE     2 AC1  6 HOH D4201  HOH E5101                                          
+SITE     1 AC2  5 BE2 A1003  BE2 B2003  HOH B2201  ZAE E5002                    
+SITE     2 AC2  5 HOH E5101                                                     
+SITE     1 AC3  3 ZAE C3002  DLE D4001  ZAE D4002                               
+SITE     1 AC4  9 DLE A1001  DAL A1004  EOH A1101  ZAE B2002                    
+SITE     2 AC4  9 EOH B2101  HOH B2201  DLE C3001  DAL C3004                    
+SITE     3 AC4  9 DAL D4004                                                     
+SITE     1 AC5  8 ZAE B2002  BE2 B2003  BE2 C3003  DAL C3004                    
+SITE     2 AC5  8 DLE E5001  ZAE E5002  BE2 E5003  DAL E5004                    
+SITE     1 AC6  8 ZAE A1002  BE2 B2003  DAL B2004  BE2 C3003                    
+SITE     2 AC6  8 DAL C3004  BE2 D4003  DLE E5001  ZAE E5002                    
+SITE     1 AC7  9 ZAE A1002  DLE B2001  DAL B2004  EOH B2101                    
+SITE     2 AC7  9 DAL C3004  BE2 D4003  DLE E5001  ZAE E5002                    
+SITE     3 AC7  9 DAL E5004                                                     
+SITE     1 AC8  8 DLE B2001  ZAE B2002  EOH B2101  DAL C3004                    
+SITE     2 AC8  8 BE2 D4003  DLE E5001  BE2 E5003  DAL E5004                    
+SITE     1 AC9  9 BE2 A1003  DAL A1004  DLE B2001  ZAE B2002                    
+SITE     2 AC9  9 BE2 B2003  DAL B2004  ZAE C3002  BE2 C3003                    
+SITE     3 AC9  9 DLE D4001                                                     
+SITE     1 AD1  9 BE2 A1003  DAL A1004  BE2 C3003  DAL C3004                    
+SITE     2 AD1  9 DLE D4001  ZAE D4002  EOH D4101  ZAE E5002                    
+SITE     3 AD1  9 BE2 E5003                                                     
+SITE     1 AD2  9 DAL A1004  EOH A1101  DLE B2001  DLE C3001                    
+SITE     2 AD2  9 DAL C3004  ZAE D4002  EOH D4101  ZAE E5002                    
+SITE     3 AD2  9 BE2 E5003                                                     
+SITE     1 AD3 10 BE2 A1003  DAL A1004  EOH A1101  DLE B2001                    
+SITE     2 AD3 10 ZAE B2002  BE2 B2003  DAL B2004  DLE C3001                    
+SITE     3 AD3 10 ZAE C3002  ZAE D4002                                          
+SITE     1 AD4 12 DAL A1004  EOH A1101  DLE C3001  ZAE C3002                    
+SITE     2 AD4 12 BE2 C3003  BE2 D4003  DAL D4004  EOH D4101                    
+SITE     3 AD4 12 ZAE E5002  BE2 E5003  DAL E5004  HOH E5101                    
+SITE     1 AD5  9 DLE A1001  BE2 A1003  DAL A1004  DLE C3001                    
+SITE     2 AD5  9 ZAE D4002  BE2 D4003  EOH D4101  BE2 E5003                    
+SITE     3 AD5  9 DAL E5004                                                     
+SITE     1 AD6 13 DLE A1001  DAL A1004  EOH A1101  ZAE B2002                    
+SITE     2 AD6 13 BE2 B2003  ZAE C3002  BE2 C3003  DLE D4001                    
+SITE     3 AD6 13 DAL D4004  EOH D4101  ZAE E5002  DAL E5004                    
+SITE     4 AD6 13 HOH E5101                                                     
+SITE     1 AD7  9 DLE A1001  BE2 A1003  DAL A1004  ZAE B2002                    
+SITE     2 AD7  9 BE2 B2003  DLE D4001  ZAE D4002  BE2 E5003                    
+SITE     3 AD7  9 DAL E5004                                                     
+SITE     1 AD8  9 DLE B2001  ZAE B2002  BE2 B2003  DAL B2004                    
+SITE     2 AD8  9 EOH B2101  ZAE C3002  ZAE D4002  BE2 E5003                    
+SITE     3 AD8  9 DAL E5004                                                     
+SITE     1 AD9  9 ZAE B2002  BE2 B2003  DAL B2004  HOH B2201                    
+SITE     2 AD9  9 DLE D4001  BE2 D4003  DAL D4004  ZAE E5002                    
+SITE     3 AD9  9 BE2 E5003                                                     
+SITE     1 AE1 10 DLE B2001  ZAE B2002  DAL B2004  EOH B2101                    
+SITE     2 AE1 10 ZAE C3002  DLE D4001  ZAE D4002  DAL D4004                    
+SITE     3 AE1 10 DLE E5001  DAL E5004                                          
+SITE     1 AE2  9 BE2 B2003  DAL B2004  HOH B2201  ZAE C3002                    
+SITE     2 AE2  9 DLE D4001  BE2 D4003  DAL D4004  DLE E5001                    
+SITE     3 AE2  9 ZAE E5002                                                     
+CRYST1   14.502   21.962   45.170  90.00  90.00  90.00 P 21 21 21   20          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.068957  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.045533  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.022139        0.00000                         
+HETATM    1  N  ADLE A1001       9.084   4.071   3.765  0.50  2.68           N  
+ANISOU    1  N  ADLE A1001      547    133    338     53    -28      1       N  
+HETATM    2  N  BDLE A1001       9.090   4.071   3.759  0.50  2.69           N  
+ANISOU    2  N  BDLE A1001      503    133    386     51      8      5       N  
+HETATM    3  CA ADLE A1001       8.702   3.980   2.352  0.50  2.54           C  
+ANISOU    3  CA ADLE A1001      479    132    351     35    -47    -29       C  
+HETATM    4  CA BDLE A1001       8.705   3.984   2.350  0.50  2.56           C  
+ANISOU    4  CA BDLE A1001      444    135    392     35     13    -32       C  
+HETATM    5  CB ADLE A1001       7.499   3.063   2.154  0.50  3.78           C  
+ANISOU    5  CB ADLE A1001      522    269    643    -31   -104    -37       C  
+HETATM    6  CB BDLE A1001       7.535   3.031   2.097  0.50  3.21           C  
+ANISOU    6  CB BDLE A1001      492    137    590     14    -55    -58       C  
+HETATM    7  CG ADLE A1001       6.131   3.678   2.480  0.50  4.74           C  
+ANISOU    7  CG ADLE A1001      568    394    836     49    -59     18       C  
+HETATM    8  CG BDLE A1001       6.337   3.175   2.952  0.50  3.66           C  
+ANISOU    8  CG BDLE A1001      593    134    660     62    -24     -1       C  
+HETATM    9  CD1ADLE A1001       5.024   2.733   1.922  0.50  5.39           C  
+ANISOU    9  CD1ADLE A1001      611    532    904    -82    -42    105       C  
+HETATM   10  CD1BDLE A1001       5.789   4.640   2.906  0.50  4.51           C  
+ANISOU   10  CD1BDLE A1001      604    174    933    129     41    -88       C  
+HETATM   11  CD2ADLE A1001       5.924   3.881   3.944  0.50  6.28           C  
+ANISOU   11  CD2ADLE A1001      653    919    814    -22     -4     11       C  
+HETATM   12  CD2BDLE A1001       5.201   2.196   2.490  0.50  5.02           C  
+ANISOU   12  CD2BDLE A1001      624    313    968    -83     54    -59       C  
+HETATM   13  C  ADLE A1001       9.933   3.428   1.667  0.50  2.54           C  
+ANISOU   13  C  ADLE A1001      489    130    343     29    -11    -16       C  
+HETATM   14  C  BDLE A1001       9.949   3.420   1.673  0.50  2.48           C  
+ANISOU   14  C  BDLE A1001      417    134    389      4     32    -43       C  
+HETATM   15  O  ADLE A1001      10.303   2.282   1.938  0.50  3.41           O  
+ANISOU   15  O  ADLE A1001      620    157    517     95     15     62       O  
+HETATM   16  O  BDLE A1001      10.313   2.269   1.944  0.50  3.26           O  
+ANISOU   16  O  BDLE A1001      535    141    563     74     53      3       O  
+HETATM   17  HA ADLE A1001       8.394   4.950   1.940  0.50  2.69           H  
+ANISOU   17  HA ADLE A1001      506    127    388     19    -36     -9       H  
+HETATM   18  HA BDLE A1001       8.393   4.952   1.936  0.50  2.68           H  
+ANISOU   18  HA BDLE A1001      467    130    419     27     10    -23       H  
+HETATM   19  HB2ADLE A1001       7.634   2.177   2.775  0.50  3.58           H  
+ANISOU   19  HB2ADLE A1001      509    254    594    -10    -68    -58       H  
+HETATM   20  HB2BDLE A1001       7.902   2.008   2.194  0.50  3.13           H  
+ANISOU   20  HB2BDLE A1001      500    140    546     29    -13    -58       H  
+HETATM   21  HB3ADLE A1001       7.486   2.728   1.116  0.50  3.58           H  
+ANISOU   21  HB3ADLE A1001      511    251    596      1    -72      8       H  
+HETATM   22  HB3BDLE A1001       7.222   3.151   1.057  0.50  3.11           H  
+ANISOU   22  HB3BDLE A1001      492    135    552     30      0    -50       H  
+HETATM   23  HG ADLE A1001       6.051   4.651   1.974  0.50  4.54           H  
+ANISOU   23  HG ADLE A1001      570    358    797    -18    -55     -7       H  
+HETATM   24  HG BDLE A1001       6.611   2.933   3.988  0.50  3.60           H  
+ANISOU   24  HG BDLE A1001      559    161    647     43    -10    -30       H  
+HETATM   25 HD11ADLE A1001       4.104   3.255   1.876  0.50  5.09           H  
+ANISOU   25 HD11ADLE A1001      597    470    864   -106    -50     75       H  
+HETATM   26 HD11BDLE A1001       5.412   4.904   3.859  0.50  4.27           H  
+ANISOU   26 HD11BDLE A1001      606    157    857     96      8    -39       H  
+HETATM   27 HD12ADLE A1001       5.294   2.407   0.951  0.50  5.15           H  
+ANISOU   27 HD12ADLE A1001      593    471    892    -67    -66     94       H  
+HETATM   28 HD12BDLE A1001       6.572   5.302   2.639  0.50  4.27           H  
+ANISOU   28 HD12BDLE A1001      615    175    831    123     20    -60       H  
+HETATM   29 HD13ADLE A1001       4.922   1.893   2.560  0.50  5.01           H  
+ANISOU   29 HD13ADLE A1001      589    451    863    -56    -55     47       H  
+HETATM   30 HD13BDLE A1001       5.015   4.698   2.187  0.50  4.23           H  
+ANISOU   30 HD13BDLE A1001      608    154    844    101     69    -56       H  
+HETATM   31 HD21ADLE A1001       6.478   3.151   4.475  0.50  5.86           H  
+ANISOU   31 HD21ADLE A1001      655    720    848    -47     27    -39       H  
+HETATM   32 HD21BDLE A1001       4.591   2.677   1.771  0.50  4.72           H  
+ANISOU   32 HD21BDLE A1001      641    273    878    -74     79    -72       H  
+HETATM   33 HD22ADLE A1001       6.256   4.848   4.219  0.50  5.91           H  
+ANISOU   33 HD22ADLE A1001      641    766    835     85      6     79       H  
+HETATM   34 HD22BDLE A1001       5.634   1.329   2.062  0.50  4.59           H  
+ANISOU   34 HD22BDLE A1001      617    279    847    -64     15     -1       H  
+HETATM   35 HD23ADLE A1001       4.894   3.783   4.168  0.50  5.65           H  
+ANISOU   35 HD23ADLE A1001      620    699    824     21    -40     12       H  
+HETATM   36 HD23BDLE A1001       4.611   1.920   3.325  0.50  4.62           H  
+ANISOU   36 HD23BDLE A1001      633    256    863    -25      9    -47       H  
+HETATM   37  N   ZAE A1002      10.663   4.191   0.808  1.00  2.92           N  
+ANISOU   37  N   ZAE A1002      553    131    424      5     54    -18       N  
+HETATM   38  CA  ZAE A1002      11.815   3.541   0.159  1.00  3.65           C  
+ANISOU   38  CA  ZAE A1002      579    322    485     20    101   -111       C  
+HETATM   39  C   ZAE A1002      12.782   2.964   1.211  1.00  4.05           C  
+ANISOU   39  C   ZAE A1002      582    452    503     31    104    -75       C  
+HETATM   40  O   ZAE A1002      13.336   1.856   1.069  1.00  4.57           O  
+ANISOU   40  O   ZAE A1002      609    541    584    216     22   -130       O  
+HETATM   41  CB  ZAE A1002      11.414   2.485  -0.861  1.00  3.86           C  
+ANISOU   41  CB  ZAE A1002      652    373    441    102     66   -161       C  
+HETATM   42  CG  ZAE A1002      10.285   2.945  -1.736  1.00  4.28           C  
+ANISOU   42  CG  ZAE A1002      794    389    441    141      8   -137       C  
+HETATM   43  CD1 ZAE A1002      10.460   3.883  -2.752  1.00  6.71           C  
+ANISOU   43  CD1 ZAE A1002     1219    841    488    285     68    108       C  
+HETATM   44  CD2 ZAE A1002       8.941   2.536  -1.459  1.00  4.92           C  
+ANISOU   44  CD2 ZAE A1002      792    299    777     39   -142   -108       C  
+HETATM   45  CE1 ZAE A1002       9.295   4.398  -3.449  1.00  7.22           C  
+ANISOU   45  CE1 ZAE A1002     1578    615    549    180      0    123       C  
+HETATM   46  CE2 ZAE A1002       7.840   3.038  -2.130  1.00  5.78           C  
+ANISOU   46  CE2 ZAE A1002      893    489    812     55   -238   -163       C  
+HETATM   47  CZ  ZAE A1002       8.056   3.947  -3.143  1.00  6.99           C  
+ANISOU   47  CZ  ZAE A1002     1163    612    880    101   -262    -80       C  
+HETATM   48  C10 ZAE A1002      10.284   5.559   0.432  1.00  4.37           C  
+ANISOU   48  C10 ZAE A1002      909    321    428     81    128    113       C  
+HETATM   49  HA  ZAE A1002      12.379   4.304  -0.394  1.00  3.53           H  
+ANISOU   49  HA  ZAE A1002      589    282    469     40     75    -98       H  
+HETATM   50  HB2 ZAE A1002      11.139   1.546  -0.380  1.00  3.85           H  
+ANISOU   50  HB2 ZAE A1002      643    350    470    103     44   -160       H  
+HETATM   51  HB3 ZAE A1002      12.274   2.277  -1.498  1.00  3.69           H  
+ANISOU   51  HB3 ZAE A1002      591    354    454     90     39   -139       H  
+HETATM   52  HD1 ZAE A1002      11.446   4.251  -2.981  1.00  5.95           H  
+ANISOU   52  HD1 ZAE A1002     1160    592    508    260    -26      1       H  
+HETATM   53  HD2 ZAE A1002       8.774   1.846  -0.641  1.00  4.89           H  
+ANISOU   53  HD2 ZAE A1002      810    370    675     78   -113   -132       H  
+HETATM   54  HE1 ZAE A1002       9.424   5.097  -4.266  1.00  6.23           H  
+ANISOU   54  HE1 ZAE A1002     1268    539    559    166    -42     96       H  
+HETATM   55  HE2 ZAE A1002       6.848   2.681  -1.899  1.00  5.66           H  
+ANISOU   55  HE2 ZAE A1002      907    460    782     74   -197   -124       H  
+HETATM   56  HZ  ZAE A1002       7.206   4.307  -3.708  1.00  6.28           H  
+ANISOU   56  HZ  ZAE A1002     1085    555    745     95   -152    -69       H  
+HETATM   57  H11 ZAE A1002      11.011   5.962  -0.221  1.00  3.71           H  
+ANISOU   57  H11 ZAE A1002      711    226    468     72     69     34       H  
+HETATM   58  H12 ZAE A1002       9.354   5.568  -0.078  1.00  3.85           H  
+ANISOU   58  H12 ZAE A1002      779    204    477     49    163     50       H  
+HETATM   59  H13 ZAE A1002      10.237   6.191   1.283  1.00  3.65           H  
+ANISOU   59  H13 ZAE A1002      670    230    485     47     85     91       H  
+HETATM   60  C   BE2 A1003      12.109   4.781   4.728  1.00  2.94           C  
+ANISOU   60  C   BE2 A1003      464    127    526      1    -56    -21       C  
+HETATM   61  O   BE2 A1003      11.887   5.706   3.941  1.00  3.55           O  
+ANISOU   61  O   BE2 A1003      585    134    629     -5      8     63       O  
+HETATM   62  C1  BE2 A1003      13.364   3.994   4.638  1.00  3.43           C  
+ANISOU   62  C1  BE2 A1003      500    176    626      9   -100    -72       C  
+HETATM   63  CA  BE2 A1003      13.816   3.502   3.365  1.00  4.29           C  
+ANISOU   63  CA  BE2 A1003      501    437    691     63    -23    -99       C  
+HETATM   64  C3  BE2 A1003      14.985   2.710   3.339  1.00  4.98           C  
+ANISOU   64  C3  BE2 A1003      556    516    818    142    -51    -66       C  
+HETATM   65  N   BE2 A1003      13.044   3.808   2.241  1.00  4.06           N  
+ANISOU   65  N   BE2 A1003      470    434    635     70      0   -122       N  
+HETATM   66  C4  BE2 A1003      15.743   2.545   4.447  1.00  5.71           C  
+ANISOU   66  C4  BE2 A1003      536    604   1028    169   -145   -190       C  
+HETATM   67  C5  BE2 A1003      15.305   2.999   5.684  1.00  5.08           C  
+ANISOU   67  C5  BE2 A1003      605    395    927    145   -255    -96       C  
+HETATM   68  C6  BE2 A1003      14.140   3.730   5.773  1.00  3.91           C  
+ANISOU   68  C6  BE2 A1003      556    190    737     21   -134    -62       C  
+HETATM   69  H3  BE2 A1003      15.386   2.371   2.393  1.00  4.76           H  
+ANISOU   69  H3  BE2 A1003      532    472    802    114    -79    -82       H  
+HETATM   70  H   BE2 A1003      12.634   4.613   2.165  1.00  3.68           H  
+ANISOU   70  H   BE2 A1003      412    372    613     32    -29    -83       H  
+HETATM   71  H4  BE2 A1003      16.634   1.936   4.377  1.00  5.01           H  
+ANISOU   71  H4  BE2 A1003      514    469    920    112   -140   -120       H  
+HETATM   72  H5  BE2 A1003      15.846   2.813   6.589  1.00  4.83           H  
+ANISOU   72  H5  BE2 A1003      589    424    820    107   -171    -98       H  
+HETATM   73  H6  BE2 A1003      13.816   4.086   6.741  1.00  3.92           H  
+ANISOU   73  H6  BE2 A1003      530    237    722     41   -146    -58       H  
+HETATM   74  N   DAL A1004      11.213   4.434   5.659  1.00  2.76           N  
+ANISOU   74  N   DAL A1004      523    135    391     55    -84      4       N  
+HETATM   75  CA  DAL A1004       9.960   5.173   5.759  1.00  2.68           C  
+ANISOU   75  CA  DAL A1004      554    137    327     67    -49    -12       C  
+HETATM   76  CB  DAL A1004       9.058   4.533   6.826  1.00  3.17           C  
+ANISOU   76  CB  DAL A1004      647    142    414     22     24      4       C  
+HETATM   77  C   DAL A1004       9.256   5.246   4.387  1.00  2.52           C  
+ANISOU   77  C   DAL A1004      492    129    334     16     13    -18       C  
+HETATM   78  O   DAL A1004       8.855   6.335   3.947  1.00  2.70           O  
+ANISOU   78  O   DAL A1004      503    128    392     20    -23     13       O  
+HETATM   79  H   DAL A1004      11.395   3.727   6.274  1.00  2.66           H  
+ANISOU   79  H   DAL A1004      525    134    351     53    -63    -15       H  
+HETATM   80  HA  DAL A1004      10.164   6.203   6.088  1.00  2.74           H  
+ANISOU   80  HA  DAL A1004      547    132    360     49    -33     -3       H  
+HETATM   81  HB1 DAL A1004       8.856   3.530   6.557  1.00  2.94           H  
+ANISOU   81  HB1 DAL A1004      597    132    386     52      7      5       H  
+HETATM   82  HB2 DAL A1004       9.537   4.562   7.771  1.00  3.00           H  
+ANISOU   82  HB2 DAL A1004      603    132    402     34     35      0       H  
+HETATM   83  HB3 DAL A1004       8.146   5.067   6.879  1.00  2.99           H  
+ANISOU   83  HB3 DAL A1004      597    156    382      0      5      0       H  
+TER      84      DAL A1004                                                      
+HETATM   85  N   DLE B2001       8.834  12.932   6.146  1.00  2.69           N  
+ANISOU   85  N   DLE B2001      485    135    399      8    -22    -50       N  
+HETATM   86  CA  DLE B2001       7.447  12.824   5.696  1.00  2.74           C  
+ANISOU   86  CA  DLE B2001      500    145    393     33     -2    -66       C  
+HETATM   87  CB  DLE B2001       6.621  11.971   6.674  1.00  2.87           C  
+ANISOU   87  CB  DLE B2001      514    134    440     41      8    -31       C  
+HETATM   88  CG  DLE B2001       5.185  11.752   6.243  1.00  3.84           C  
+ANISOU   88  CG  DLE B2001      479    380    599    -15      8    -88       C  
+HETATM   89  CD1 DLE B2001       4.499  10.807   7.187  1.00  6.70           C  
+ANISOU   89  CD1 DLE B2001      690    558   1295     75    325    174       C  
+HETATM   90  CD2 DLE B2001       4.402  13.032   6.089  1.00  5.75           C  
+ANISOU   90  CD2 DLE B2001      627    442   1115     90      2    122       C  
+HETATM   91  C   DLE B2001       7.515  12.191   4.313  1.00  2.63           C  
+ANISOU   91  C   DLE B2001      519    131    348      0    -12    -31       C  
+HETATM   92  O   DLE B2001       7.871  11.024   4.202  1.00  3.12           O  
+ANISOU   92  O   DLE B2001      638    152    394     73    -14    -66       O  
+HETATM   93  H   DLE B2001       9.133  12.026   6.345  1.00  2.66           H  
+ANISOU   93  H   DLE B2001      480    134    396      6    -14    -46       H  
+HETATM   94  HA  DLE B2001       6.955  13.805   5.667  1.00  2.75           H  
+ANISOU   94  HA  DLE B2001      496    133    415     19     -5    -42       H  
+HETATM   95  HB2 DLE B2001       6.616  12.470   7.646  1.00  2.86           H  
+ANISOU   95  HB2 DLE B2001      488    160    439     28      6    -37       H  
+HETATM   96  HB3 DLE B2001       7.087  11.008   6.820  1.00  2.81           H  
+ANISOU   96  HB3 DLE B2001      473    135    460     33      0    -42       H  
+HETATM   97  HG  DLE B2001       5.205  11.244   5.276  1.00  3.88           H  
+ANISOU   97  HG  DLE B2001      542    313    618     25     41    -72       H  
+HETATM   98 HD11 DLE B2001       3.529  10.581   6.826  1.00  5.61           H  
+ANISOU   98 HD11 DLE B2001      741    464    926     78    267    105       H  
+HETATM   99 HD12 DLE B2001       5.060   9.913   7.271  1.00  5.07           H  
+ANISOU   99 HD12 DLE B2001      602    464    859    -21    184     77       H  
+HETATM  100 HD13 DLE B2001       4.427  11.266   8.136  1.00  6.03           H  
+ANISOU  100 HD13 DLE B2001      635    523   1130     21    174    214       H  
+HETATM  101 HD21 DLE B2001       4.824  13.786   6.701  1.00  5.11           H  
+ANISOU  101 HD21 DLE B2001      585    452    903    125     54    115       H  
+HETATM  102 HD22 DLE B2001       4.433  13.340   5.077  1.00  5.19           H  
+ANISOU  102 HD22 DLE B2001      563    417    989     70      1    -15       H  
+HETATM  103 HD23 DLE B2001       3.392  12.881   6.371  1.00  5.06           H  
+ANISOU  103 HD23 DLE B2001      613    412    896     87    -14     37       H  
+HETATM  104  N   ZAE B2002       7.272  12.958   3.203  1.00  2.72           N  
+ANISOU  104  N   ZAE B2002      542    131    360     32    -65    -28       N  
+HETATM  105  CA  ZAE B2002       7.375  12.273   1.903  1.00  3.02           C  
+ANISOU  105  CA  ZAE B2002      584    143    419     14    -59    -69       C  
+HETATM  106  C   ZAE B2002       8.753  11.633   1.696  1.00  3.23           C  
+ANISOU  106  C   ZAE B2002      655    158    414     73    -12    -29       C  
+HETATM  107  O   ZAE B2002       8.891  10.540   1.167  1.00  3.81           O  
+ANISOU  107  O   ZAE B2002      711    256    480     95    -15   -141       O  
+HETATM  108  CB  ZAE B2002       6.229  11.276   1.642  1.00  3.49           C  
+ANISOU  108  CB  ZAE B2002      620    206    499     24    -79   -140       C  
+HETATM  109  CG  ZAE B2002       4.885  11.941   1.718  1.00  4.13           C  
+ANISOU  109  CG  ZAE B2002      688    246    634      9   -246   -176       C  
+HETATM  110  CD1 ZAE B2002       4.576  12.860   0.701  1.00  6.03           C  
+ANISOU  110  CD1 ZAE B2002      843    321   1127    -53   -444     30       C  
+HETATM  111  CD2 ZAE B2002       3.994  11.715   2.708  1.00  5.63           C  
+ANISOU  111  CD2 ZAE B2002      671    735    733     20    -88   -380       C  
+HETATM  112  CE1 ZAE B2002       3.364  13.552   0.731  1.00  7.40           C  
+ANISOU  112  CE1 ZAE B2002      905    288   1619     86   -633    -54       C  
+HETATM  113  CE2 ZAE B2002       2.801  12.387   2.786  1.00  7.84           C  
+ANISOU  113  CE2 ZAE B2002      736   1199   1044     90   -171   -547       C  
+HETATM  114  CZ  ZAE B2002       2.478  13.330   1.802  1.00  7.82           C  
+ANISOU  114  CZ  ZAE B2002      922    552   1495    207   -490   -611       C  
+HETATM  115  C10 ZAE B2002       6.846  14.343   3.200  1.00  3.56           C  
+ANISOU  115  C10 ZAE B2002      709    135    509     62    -76    -32       C  
+HETATM  116  HA  ZAE B2002       7.299  13.028   1.109  1.00  3.05           H  
+ANISOU  116  HA  ZAE B2002      592    142    424     30    -62    -68       H  
+HETATM  117  HB2 ZAE B2002       6.268  10.445   2.348  1.00  3.47           H  
+ANISOU  117  HB2 ZAE B2002      611    197    509     18   -107   -137       H  
+HETATM  118  HB3 ZAE B2002       6.346  10.862   0.641  1.00  3.36           H  
+ANISOU  118  HB3 ZAE B2002      613    189    472     18   -112   -115       H  
+HETATM  119  HD1 ZAE B2002       5.286  13.052  -0.091  1.00  5.64           H  
+ANISOU  119  HD1 ZAE B2002      812    295   1035     13   -422    -86       H  
+HETATM  120  HD2 ZAE B2002       4.249  11.016   3.489  1.00  5.67           H  
+ANISOU  120  HD2 ZAE B2002      684    629    838      4   -143   -354       H  
+HETATM  121  HE1 ZAE B2002       3.122  14.271  -0.042  1.00  6.51           H  
+ANISOU  121  HE1 ZAE B2002      853    329   1291     65   -504   -164       H  
+HETATM  122  HE2 ZAE B2002       2.111  12.184   3.596  1.00  6.74           H  
+ANISOU  122  HE2 ZAE B2002      732    820   1007     88   -231   -466       H  
+HETATM  123  HZ  ZAE B2002       1.518  13.830   1.825  1.00  7.15           H  
+ANISOU  123  HZ  ZAE B2002      802    570   1344    101   -422   -422       H  
+HETATM  124  H11 ZAE B2002       6.775  14.719   2.218  1.00  3.30           H  
+ANISOU  124  H11 ZAE B2002      629    135    488     47    -69    -46       H  
+HETATM  125  H12 ZAE B2002       5.898  14.428   3.661  1.00  3.34           H  
+ANISOU  125  H12 ZAE B2002      662    131    474     42   -100    -26       H  
+HETATM  126  H13 ZAE B2002       7.547  14.937   3.729  1.00  3.27           H  
+ANISOU  126  H13 ZAE B2002      633    140    468     64    -46    -10       H  
+HETATM  127  C   BE2 B2003      11.367  13.499   4.111  1.00  2.78           C  
+ANISOU  127  C   BE2 B2003      472    128    453    -25     71     -7       C  
+HETATM  128  O   BE2 B2003      10.719  14.491   3.783  1.00  3.05           O  
+ANISOU  128  O   BE2 B2003      562    127    468    -14      3      6       O  
+HETATM  129  C1  BE2 B2003      11.987  12.615   3.072  1.00  3.23           C  
+ANISOU  129  C1  BE2 B2003      523    168    537     43     81     -8       C  
+HETATM  130  CA  BE2 B2003      11.155  12.126   2.018  1.00  3.14           C  
+ANISOU  130  CA  BE2 B2003      595    131    467     19     85     -9       C  
+HETATM  131  C3  BE2 B2003      11.695  11.362   0.976  1.00  3.81           C  
+ANISOU  131  C3  BE2 B2003      717    234    495    -19    156    -32       C  
+HETATM  132  N   BE2 B2003       9.784  12.461   2.054  1.00  3.25           N  
+ANISOU  132  N   BE2 B2003      601    191    442     73     56    -43       N  
+HETATM  133  C4  BE2 B2003      13.064  11.068   1.009  1.00  3.97           C  
+ANISOU  133  C4  BE2 B2003      669    228    610      6    218    -20       C  
+HETATM  134  C5  BE2 B2003      13.903  11.517   2.056  1.00  4.31           C  
+ANISOU  134  C5  BE2 B2003      598    225    813     36    267      2       C  
+HETATM  135  C6  BE2 B2003      13.336  12.277   3.069  1.00  3.61           C  
+ANISOU  135  C6  BE2 B2003      583    134    653     33    121    -20       C  
+HETATM  136  H3  BE2 B2003      11.092  10.964   0.180  1.00  3.70           H  
+ANISOU  136  H3  BE2 B2003      658    217    531      6    134    -21       H  
+HETATM  137  H4  BE2 B2003      13.484  10.439   0.234  1.00  3.63           H  
+ANISOU  137  H4  BE2 B2003      635    173    571     10    182     10       H  
+HETATM  138  H5  BE2 B2003      14.957  11.276   2.059  1.00  3.83           H  
+ANISOU  138  H5  BE2 B2003      583    187    684     13    205    -10       H  
+HETATM  139  H6  BE2 B2003      13.975  12.669   3.850  1.00  3.54           H  
+ANISOU  139  H6  BE2 B2003      559    155    629     35    137    -14       H  
+HETATM  140  N   DAL B2004      11.554  13.160   5.389  1.00  2.86           N  
+ANISOU  140  N   DAL B2004      507    128    451    -23     14    -11       N  
+HETATM  141  CA  DAL B2004      10.981  14.011   6.445  1.00  2.71           C  
+ANISOU  141  CA  DAL B2004      535    128    366    -14    -46    -16       C  
+HETATM  142  CB  DAL B2004      11.391  13.480   7.803  1.00  3.21           C  
+ANISOU  142  CB  DAL B2004      619    167    432    -31    -30    -20       C  
+HETATM  143  C   DAL B2004       9.473  14.096   6.262  1.00  2.63           C  
+ANISOU  143  C   DAL B2004      520    131    349    -39     48    -16       C  
+HETATM  144  O   DAL B2004       8.874  15.180   6.273  1.00  3.31           O  
+ANISOU  144  O   DAL B2004      576    130    550     -3     97    -40       O  
+HETATM  145  H   DAL B2004      12.116  12.439   5.670  1.00  2.79           H  
+ANISOU  145  H   DAL B2004      503    130    428    -20      5    -27       H  
+HETATM  146  HA  DAL B2004      11.387  15.031   6.368  1.00  2.74           H  
+ANISOU  146  HA  DAL B2004      528    128    385    -12    -12    -19       H  
+HETATM  147  HB1 DAL B2004      11.040  12.487   7.920  1.00  3.03           H  
+ANISOU  147  HB1 DAL B2004      595    152    403    -21    -42    -40       H  
+HETATM  148  HB2 DAL B2004      12.447  13.496   7.890  1.00  3.02           H  
+ANISOU  148  HB2 DAL B2004      601    143    401    -29    -29    -20       H  
+HETATM  149  HB3 DAL B2004      10.970  14.090   8.559  1.00  2.98           H  
+ANISOU  149  HB3 DAL B2004      583    148    399    -42    -46     -7       H  
+TER     150      DAL B2004                                                      
+HETATM  151  N  ADLE C3001      12.269   8.354   6.225  0.50  4.59           N  
+ANISOU  151  N  ADLE C3001      632    130    982    -12    -98    -49       N  
+HETATM  152  N  BDLE C3001      12.266   8.369   6.208  0.50  3.31           N  
+ANISOU  152  N  BDLE C3001      380    130    744     -4    -42    -44       N  
+HETATM  153  CA ADLE C3001      12.950   8.322   7.602  0.50  5.94           C  
+ANISOU  153  CA ADLE C3001      728    178   1349      1   -434    115       C  
+HETATM  154  CA BDLE C3001      13.094   8.211   7.352  0.50  4.34           C  
+ANISOU  154  CA BDLE C3001      435    158   1054     21   -188     29       C  
+HETATM  155  CB ADLE C3001      14.087   7.336   7.825  0.50  4.30           C  
+ANISOU  155  CB ADLE C3001      534    520    579     33    -79    -22       C  
+HETATM  156  CB BDLE C3001      14.245   7.232   6.972  0.50  2.92           C  
+ANISOU  156  CB BDLE C3001      361    351    397      7    -96     -4       C  
+HETATM  157  CG ADLE C3001      15.259   7.468   6.840  0.50  5.60           C  
+ANISOU  157  CG ADLE C3001      630    800    698      7   -132   -322       C  
+HETATM  158  CG BDLE C3001      15.251   7.124   8.098  0.50  3.84           C  
+ANISOU  158  CG BDLE C3001      439    500    518    133   -171    -23       C  
+HETATM  159  CD1ADLE C3001      15.692   8.953   6.738  0.50  7.86           C  
+ANISOU  159  CD1ADLE C3001      828   1080   1076   -294   -110    206       C  
+HETATM  160  CD1BDLE C3001      16.254   6.021   7.884  0.50  4.49           C  
+ANISOU  160  CD1BDLE C3001      532    426    745    108   -175    -38       C  
+HETATM  161  CD2ADLE C3001      16.377   6.544   7.175  0.50  7.43           C  
+ANISOU  161  CD2ADLE C3001      493   1238   1090    193    -97   -340       C  
+HETATM  162  CD2BDLE C3001      15.793   8.302   8.774  0.50  6.78           C  
+ANISOU  162  CD2BDLE C3001      793    909    875   -327   -153   -100       C  
+HETATM  163  C  ADLE C3001      11.998   7.725   8.518  0.50  5.14           C  
+ANISOU  163  C  ADLE C3001      828    142    981      5   -561     74       C  
+HETATM  164  C  BDLE C3001      12.161   7.702   8.433  0.50  4.80           C  
+ANISOU  164  C  BDLE C3001      795    199    830     58   -297    117       C  
+HETATM  165  O  ADLE C3001      11.564   6.583   8.355  0.50  5.62           O  
+ANISOU  165  O  ADLE C3001     1119    190    825   -113   -490     10       O  
+HETATM  166  O  BDLE C3001      11.635   6.599   8.378  0.50  4.88           O  
+ANISOU  166  O  BDLE C3001     1125    163    564     17   -255    112       O  
+HETATM  167  HA ADLE C3001      13.259   9.330   7.925  0.50  5.15           H  
+ANISOU  167  HA ADLE C3001      665    307    985    -53   -320      0       H  
+HETATM  168  HA BDLE C3001      13.524   9.179   7.650  0.50  3.75           H  
+ANISOU  168  HA BDLE C3001      465    174    784     13   -150     29       H  
+HETATM  169  HB2ADLE C3001      13.688   6.322   7.758  0.50  4.76           H  
+ANISOU  169  HB2ADLE C3001      604    477    725     69   -161    -47       H  
+HETATM  170  HB2BDLE C3001      14.742   7.582   6.066  0.50  2.95           H  
+ANISOU  170  HB2BDLE C3001      358    328    435     23    -89     23       H  
+HETATM  171  HB3ADLE C3001      14.468   7.466   8.840  0.50  4.55           H  
+ANISOU  171  HB3ADLE C3001      588    494    647     31   -166    -55       H  
+HETATM  172  HB3BDLE C3001      13.813   6.258   6.765  0.50  3.13           H  
+ANISOU  172  HB3BDLE C3001      385    296    506     49   -115      9       H  
+HETATM  173  HG ADLE C3001      14.876   7.171   5.860  0.50  5.33           H  
+ANISOU  173  HG ADLE C3001      611    831    583     -1   -103   -166       H  
+HETATM  174  HG BDLE C3001      14.625   6.700   8.895  0.50  4.02           H  
+ANISOU  174  HG BDLE C3001      465    493    565     52   -156    -38       H  
+HETATM  175 HD11ADLE C3001      16.338   9.077   5.907  0.50  7.17           H  
+ANISOU  175 HD11ADLE C3001      802    935    985   -182   -112     -8       H  
+HETATM  176 HD11BDLE C3001      16.896   5.960   8.724  0.50  4.28           H  
+ANISOU  176 HD11BDLE C3001      501    470    652    108   -112    -49       H  
+HETATM  177 HD12ADLE C3001      14.836   9.563   6.612  0.50  7.29           H  
+ANISOU  177 HD12ADLE C3001      866    966    938   -249    -73    -15       H  
+HETATM  178 HD12BDLE C3001      15.745   5.100   7.762  0.50  4.22           H  
+ANISOU  178 HD12BDLE C3001      461    485    658     86   -173    -53       H  
+HETATM  179 HD13ADLE C3001      16.199   9.235   7.624  0.50  7.31           H  
+ANISOU  179 HD13ADLE C3001      807    945   1025   -167    -13     38       H  
+HETATM  180 HD13BDLE C3001      16.826   6.226   7.017  0.50  4.38           H  
+ANISOU  180 HD13BDLE C3001      499    473    690    119   -201    -55       H  
+HETATM  181 HD21ADLE C3001      16.654   6.678   8.188  0.50  6.97           H  
+ANISOU  181 HD21ADLE C3001      604   1050    991    170    -24   -277       H  
+HETATM  182 HD21BDLE C3001      16.834   8.362   8.591  0.50  5.88           H  
+ANISOU  182 HD21BDLE C3001      728    761    744   -120   -202   -102       H  
+HETATM  183 HD22ADLE C3001      16.065   5.543   7.023  0.50  7.01           H  
+ANISOU  183 HD22ADLE C3001      604   1137    920    242   -101   -286       H  
+HETATM  184 HD22BDLE C3001      15.319   9.173   8.402  0.50  6.26           H  
+ANISOU  184 HD22BDLE C3001      692    917    768   -218   -118   -180       H  
+HETATM  185 HD23ADLE C3001      17.207   6.753   6.551  0.50  6.66           H  
+ANISOU  185 HD23ADLE C3001      599   1042    890    149   -135   -327       H  
+HETATM  186 HD23BDLE C3001      15.616   8.222   9.815  0.50  5.91           H  
+ANISOU  186 HD23BDLE C3001      650    762    830   -132   -196   -115       H  
+HETATM  187  N  AZAE C3002      11.630   8.545   9.462  0.50  5.43           N  
+ANISOU  187  N  AZAE C3002     1020    224    818    -17   -441    -61       N  
+HETATM  188  N  BZAE C3002      11.598   8.569   9.479  0.50  5.85           N  
+ANISOU  188  N  BZAE C3002     1097    346    780     45   -568    -35       N  
+HETATM  189  CA AZAE C3002      10.698   7.985  10.428  0.50  6.07           C  
+ANISOU  189  CA AZAE C3002     1095    447    763    -14   -424    -36       C  
+HETATM  190  CA BZAE C3002      10.664   7.990  10.439  0.50  6.12           C  
+ANISOU  190  CA BZAE C3002     1188    414    723    104   -551     64       C  
+HETATM  191  C  AZAE C3002       9.443   7.383   9.765  0.50  5.03           C  
+ANISOU  191  C  AZAE C3002      992    382    537     40   -274      9       C  
+HETATM  192  C  BZAE C3002       9.440   7.389   9.758  0.50  5.42           C  
+ANISOU  192  C  BZAE C3002     1054    391    614     72   -262     45       C  
+HETATM  193  O  AZAE C3002       8.917   6.406  10.207  0.50  6.46           O  
+ANISOU  193  O  AZAE C3002     1170    483    800   -100   -360    132       O  
+HETATM  194  O  BZAE C3002       8.872   6.422  10.173  0.50  7.30           O  
+ANISOU  194  O  BZAE C3002     1305    504    962    -71   -367    184       O  
+HETATM  195  CB AZAE C3002      11.340   7.020  11.449  0.50  7.26           C  
+ANISOU  195  CB AZAE C3002     1206    928    622    105   -437     56       C  
+HETATM  196  CB BZAE C3002      11.329   7.003  11.416  0.50  6.69           C  
+ANISOU  196  CB BZAE C3002     1242    694    606    215   -486    130       C  
+HETATM  197  CG AZAE C3002      12.408   7.748  12.216  0.50  5.68           C  
+ANISOU  197  CG AZAE C3002     1111    563    481    246   -323    -12       C  
+HETATM  198  CG BZAE C3002      12.398   7.742  12.199  0.50  5.72           C  
+ANISOU  198  CG BZAE C3002     1132    553    487    250   -302    -18       C  
+HETATM  199  CD1AZAE C3002      12.037   8.564  13.281  0.50  7.22           C  
+ANISOU  199  CD1AZAE C3002     1176   1014    553    546   -211   -121       C  
+HETATM  200  CD1BZAE C3002      12.023   8.546  13.262  0.50  7.16           C  
+ANISOU  200  CD1BZAE C3002     1196   1015    509    544   -232   -116       C  
+HETATM  201  CD2AZAE C3002      13.722   7.582  11.900  0.50  5.73           C  
+ANISOU  201  CD2AZAE C3002     1187    618    372    450   -164     -1       C  
+HETATM  202  CD2BZAE C3002      13.719   7.583  11.897  0.50  5.73           C  
+ANISOU  202  CD2BZAE C3002     1194    619    363    456   -164      0       C  
+HETATM  203  CE1AZAE C3002      13.033   9.307  13.944  0.50  6.90           C  
+ANISOU  203  CE1AZAE C3002     1177    955    488    517   -210   -191       C  
+HETATM  204  CE1BZAE C3002      13.030   9.268  13.914  0.50  6.73           C  
+ANISOU  204  CE1BZAE C3002     1216    912    428    559   -185   -241       C  
+HETATM  205  CE2AZAE C3002      14.709   8.310  12.562  0.50  5.83           C  
+ANISOU  205  CE2AZAE C3002     1039    674    499    339   -219    -81       C  
+HETATM  206  CE2BZAE C3002      14.711   8.307  12.558  0.50  5.85           C  
+ANISOU  206  CE2BZAE C3002     1047    682    493    342   -209    -88       C  
+HETATM  207  CZ AZAE C3002      14.372   9.221  13.567  0.50  6.13           C  
+ANISOU  207  CZ AZAE C3002     1140    665    522    322   -200   -127       C  
+HETATM  208  CZ BZAE C3002      14.372   9.210  13.560  0.50  6.16           C  
+ANISOU  208  CZ BZAE C3002     1163    670    508    321   -199   -130       C  
+HETATM  209  C10AZAE C3002      12.159   9.917   9.639  0.50  5.68           C  
+ANISOU  209  C10AZAE C3002      919    188   1050     74   -515    -81       C  
+HETATM  210  C10BZAE C3002      12.031   9.948   9.704  0.50  7.60           C  
+ANISOU  210  C10BZAE C3002     1144    386   1355    -18   -688    -28       C  
+HETATM  211  HA AZAE C3002      10.350   8.838  11.022  0.50  5.91           H  
+ANISOU  211  HA AZAE C3002     1069    470    706      3   -386     -9       H  
+HETATM  212  HA BZAE C3002      10.311   8.824  11.055  0.50  6.07           H  
+ANISOU  212  HA BZAE C3002     1143    464    699     85   -469     61       H  
+HETATM  213  HB2AZAE C3002      11.775   6.165  10.928  0.50  6.92           H  
+ANISOU  213  HB2AZAE C3002     1189    750    687     43   -449     96       H  
+HETATM  214  HB2BZAE C3002      11.776   6.175  10.863  0.50  6.54           H  
+ANISOU  214  HB2BZAE C3002     1227    608    650    146   -476    112       H  
+HETATM  215  HB3AZAE C3002      10.578   6.649  12.137  0.50  6.66           H  
+ANISOU  215  HB3AZAE C3002     1178    693    657    116   -431     17       H  
+HETATM  216  HB3BZAE C3002      10.581   6.596  12.100  0.50  6.37           H  
+ANISOU  216  HB3BZAE C3002     1219    576    625    205   -471     74       H  
+HETATM  217  HD1AZAE C3002      10.997   8.689  13.513  0.50  6.46           H  
+ANISOU  217  HD1AZAE C3002     1130    811    512    427   -233    -94       H  
+HETATM  218  HD1BZAE C3002      10.984   8.673  13.499  0.50  6.44           H  
+ANISOU  218  HD1BZAE C3002     1154    801    489    434   -236   -101       H  
+HETATM  219  HD2AZAE C3002      13.994   6.949  11.064  0.50  5.59           H  
+ANISOU  219  HD2AZAE C3002     1121    559    441    363   -202    -63       H  
+HETATM  220  HD2BZAE C3002      13.996   6.957  11.058  0.50  5.60           H  
+ANISOU  220  HD2BZAE C3002     1133    558    436    369   -196    -63       H  
+HETATM  221  HE1AZAE C3002      12.754   9.971  14.750  0.50  6.22           H  
+ANISOU  221  HE1AZAE C3002     1239    813    311    449   -246    -64       H  
+HETATM  222  HE1BZAE C3002      12.745   9.930  14.720  0.50  6.22           H  
+ANISOU  222  HE1BZAE C3002     1367    750    245    494   -227   -109       H  
+HETATM  223  HE2AZAE C3002      15.745   8.196  12.268  0.50  5.74           H  
+ANISOU  223  HE2AZAE C3002     1045    658    476    359   -213    -71       H  
+HETATM  224  HE2BZAE C3002      15.747   8.193  12.263  0.50  5.73           H  
+ANISOU  224  HE2BZAE C3002     1051    659    466    365   -207    -75       H  
+HETATM  225  HZ AZAE C3002      15.141   9.729  14.135  0.50  6.05           H  
+ANISOU  225  HZ AZAE C3002     1092    713    492    366   -211   -124       H  
+HETATM  226  HZ BZAE C3002      15.130   9.719  14.141  0.50  6.01           H  
+ANISOU  226  HZ BZAE C3002     1110    703    470    375   -203   -135       H  
+HETATM  227  H11AZAE C3002      11.353  10.606   9.658  0.50  5.24           H  
+ANISOU  227  H11AZAE C3002      863    177    951     37   -475    -71       H  
+HETATM  228  H11BZAE C3002      11.242  10.610   9.460  0.50  6.93           H  
+ANISOU  228  H11BZAE C3002     1109    381   1143    -20   -601    -33       H  
+HETATM  229  H12AZAE C3002      12.695   9.974  10.552  0.50  5.46           H  
+ANISOU  229  H12AZAE C3002      940    190    943     48   -435    -67       H  
+HETATM  230  H12BZAE C3002      12.295  10.073  10.722  0.50  7.25           H  
+ANISOU  230  H12BZAE C3002     1146    373   1233      6   -531     14       H  
+HETATM  231  H13AZAE C3002      12.806  10.152   8.833  0.50  5.65           H  
+ANISOU  231  H13AZAE C3002      961    193    992     57   -506    -81       H  
+HETATM  232  H13BZAE C3002      12.870  10.159   9.094  0.50  7.25           H  
+ANISOU  232  H13BZAE C3002     1195    375   1182     16   -654    -35       H  
+HETATM  233  C  ABE2 C3003       9.127   9.157   6.167  0.50  2.92           C  
+ANISOU  233  C  ABE2 C3003      498    136    474     44    -65    -46       C  
+HETATM  234  C  BBE2 C3003       9.129   9.156   6.168  0.50  2.83           C  
+ANISOU  234  C  BBE2 C3003      477    137    458     40    -88    -53       C  
+HETATM  235  O  ABE2 C3003       9.563  10.103   6.869  0.50  3.47           O  
+ANISOU  235  O  ABE2 C3003      572    145    599      0    -74    -93       O  
+HETATM  236  O  BBE2 C3003       9.566  10.097   6.873  0.50  3.14           O  
+ANISOU  236  O  BBE2 C3003      526    149    518     27   -109    -95       O  
+HETATM  237  C1 ABE2 C3003       7.926   8.353   6.587  0.50  2.85           C  
+ANISOU  237  C1 ABE2 C3003      486    191    403     54    -44    -60       C  
+HETATM  238  C1 BBE2 C3003       7.929   8.355   6.590  0.50  2.75           C  
+ANISOU  238  C1 BBE2 C3003      474    182    386     40    -65    -79       C  
+HETATM  239  CA ABE2 C3003       7.844   7.876   7.922  0.50  3.85           C  
+ANISOU  239  CA ABE2 C3003      670    384    409     56    -89    -76       C  
+HETATM  240  CA BBE2 C3003       7.842   7.865   7.918  0.50  3.30           C  
+ANISOU  240  CA BBE2 C3003      549    324    378     32    -89   -120       C  
+HETATM  241  C3 ABE2 C3003       6.750   7.128   8.307  0.50  4.54           C  
+ANISOU  241  C3 ABE2 C3003      687    534    501     32     51    -27       C  
+HETATM  242  C3 BBE2 C3003       6.746   7.134   8.307  0.50  3.99           C  
+ANISOU  242  C3 BBE2 C3003      603    477    433     11     34    -23       C  
+HETATM  243  N  ABE2 C3003       8.934   8.162   8.764  0.50  4.53           N  
+ANISOU  243  N  ABE2 C3003      852    308    561    -49   -222     68       N  
+HETATM  244  N  BBE2 C3003       8.946   8.163   8.755  0.50  3.97           N  
+ANISOU  244  N  BBE2 C3003      664    322    519    -25   -204     -4       N  
+HETATM  245  C4 ABE2 C3003       5.705   6.913   7.408  0.50  4.94           C  
+ANISOU  245  C4 ABE2 C3003      546    583    747     39     54     86       C  
+HETATM  246  C4 BBE2 C3003       5.704   6.899   7.409  0.50  4.43           C  
+ANISOU  246  C4 BBE2 C3003      492    537    654    -22     25     70       C  
+HETATM  247  C5 ABE2 C3003       5.791   7.387   6.125  0.50  4.21           C  
+ANISOU  247  C5 ABE2 C3003      464    468    664     44    -36    -28       C  
+HETATM  248  C5 BBE2 C3003       5.791   7.387   6.121  0.50  3.90           C  
+ANISOU  248  C5 BBE2 C3003      476    418    587      2    -49    -19       C  
+HETATM  249  C6 ABE2 C3003       6.889   8.107   5.696  0.50  3.20           C  
+ANISOU  249  C6 ABE2 C3003      496    259    459     50    -48    -74       C  
+HETATM  250  C6 BBE2 C3003       6.893   8.109   5.692  0.50  3.02           C  
+ANISOU  250  C6 BBE2 C3003      456    235    456     28    -64    -79       C  
+HETATM  251  H3 ABE2 C3003       6.675   6.762   9.324  0.50  4.21           H  
+ANISOU  251  H3 ABE2 C3003      624    462    510     39      6    -16       H  
+HETATM  252  H3 BBE2 C3003       6.679   6.760   9.321  0.50  3.65           H  
+ANISOU  252  H3 BBE2 C3003      542    414    430      9     -8    -31       H  
+HETATM  253  H  ABE2 C3003       9.445   9.022   8.551  0.50  4.17           H  
+ANISOU  253  H  ABE2 C3003      726    336    521     34   -169      6       H  
+HETATM  254  H  BBE2 C3003       9.437   9.011   8.557  0.50  3.67           H  
+ANISOU  254  H  BBE2 C3003      590    323    482     27   -164    -50       H  
+HETATM  255  H4 ABE2 C3003       4.842   6.333   7.710  0.50  4.28           H  
+ANISOU  255  H4 ABE2 C3003      508    485    631     59      7     14       H  
+HETATM  256  H4 BBE2 C3003       4.838   6.326   7.713  0.50  3.82           H  
+ANISOU  256  H4 BBE2 C3003      447    446    557      4    -13      7       H  
+HETATM  257  H5 ABE2 C3003       4.985   7.187   5.430  0.50  3.80           H  
+ANISOU  257  H5 ABE2 C3003      452    406    584     45      1    -13       H  
+HETATM  258  H5 BBE2 C3003       4.986   7.188   5.425  0.50  3.53           H  
+ANISOU  258  H5 BBE2 C3003      436    369    536      7     -8    -12       H  
+HETATM  259  H6 ABE2 C3003       6.936   8.486   4.682  0.50  3.24           H  
+ANISOU  259  H6 ABE2 C3003      483    287    459     49    -44    -66       H  
+HETATM  260  H6 BBE2 C3003       6.941   8.490   4.679  0.50  3.10           H  
+ANISOU  260  H6 BBE2 C3003      458    263    453     25    -61    -73       H  
+HETATM  261  N  ADAL C3004       9.748   8.764   5.025  0.50  2.79           N  
+ANISOU  261  N  ADAL C3004      488    129    443     16     24    -25       N  
+HETATM  262  N  BDAL C3004       9.714   8.763   5.054  0.50  2.78           N  
+ANISOU  262  N  BDAL C3004      435    128    491     11      7    -18       N  
+HETATM  263  CA ADAL C3004      10.911   9.510   4.558  0.50  3.15           C  
+ANISOU  263  CA ADAL C3004      500    131    563     12     66    -41       C  
+HETATM  264  CA BDAL C3004      10.891   9.505   4.600  0.50  2.96           C  
+ANISOU  264  CA BDAL C3004      450    132    541     19     46    -40       C  
+HETATM  265  CB ADAL C3004      11.414   8.913   3.253  0.50  3.87           C  
+ANISOU  265  CB ADAL C3004      639    154    676     -4    159    -60       C  
+HETATM  266  CB BDAL C3004      11.406   8.898   3.321  0.50  3.50           C  
+ANISOU  266  CB BDAL C3004      570    129    628    -23    139    -31       C  
+HETATM  267  C  ADAL C3004      11.982   9.554   5.604  0.50  3.54           C  
+ANISOU  267  C  ADAL C3004      493    147    701      0     33   -110       C  
+HETATM  268  C  BDAL C3004      11.976   9.542   5.703  0.50  3.44           C  
+ANISOU  268  C  BDAL C3004      494    169    641     -1    -11   -149       C  
+HETATM  269  O  ADAL C3004      12.551  10.598   5.917  0.50  4.27           O  
+ANISOU  269  O  ADAL C3004      621    137    864    -39    -31    -71       O  
+HETATM  270  O  BDAL C3004      12.556  10.586   5.993  0.50  3.95           O  
+ANISOU  270  O  BDAL C3004      547    135    817    -32    -17    -65       O  
+HETATM  271  H  ADAL C3004       9.470   8.051   4.514  0.50  2.67           H  
+ANISOU  271  H  ADAL C3004      476    128    408     17     47    -15       H  
+HETATM  272  H  BDAL C3004       9.468   8.047   4.519  0.50  2.65           H  
+ANISOU  272  H  BDAL C3004      429    127    450     18     29     -7       H  
+HETATM  273  HA ADAL C3004      10.591  10.540   4.359  0.50  3.18           H  
+ANISOU  273  HA ADAL C3004      508    133    567     21     65    -47       H  
+HETATM  274  HA BDAL C3004      10.584  10.537   4.388  0.50  3.02           H  
+ANISOU  274  HA BDAL C3004      461    133    553     22     42    -43       H  
+HETATM  275  HB1ADAL C3004      11.393   7.864   3.311  0.50  3.56           H  
+ANISOU  275  HB1ADAL C3004      572    150    630      7    123    -61       H  
+HETATM  276  HB1BDAL C3004      11.332   7.851   3.372  0.50  3.26           H  
+ANISOU  276  HB1BDAL C3004      513    128    595     -9    106    -30       H  
+HETATM  277  HB2ADAL C3004      10.787   9.222   2.461  0.50  3.72           H  
+ANISOU  277  HB2ADAL C3004      597    154    662     -9    154    -74       H  
+HETATM  278  HB2BDAL C3004      10.819   9.241   2.512  0.50  3.39           H  
+ANISOU  278  HB2BDAL C3004      533    132    622    -14    130    -53       H  
+HETATM  279  HB3ADAL C3004      12.403   9.244   3.080  0.50  3.61           H  
+ANISOU  279  HB3ADAL C3004      579    157    633     35    109    -64       H  
+HETATM  280  HB3BDAL C3004      12.415   9.184   3.179  0.50  3.28           H  
+ANISOU  280  HB3BDAL C3004      517    133    597     22     93    -42       H  
+TER     281      DAL C3004                                                      
+HETATM  282  N   DLE D4001       3.417  10.835  15.177  1.00  3.85           N  
+ANISOU  282  N   DLE D4001      784    132    547    -62    -65     -3       N  
+HETATM  283  CA  DLE D4001       4.221  10.920  13.977  1.00  4.38           C  
+ANISOU  283  CA  DLE D4001      957    152    554     18   -150     82       C  
+HETATM  284  CB  DLE D4001       3.685   9.931  12.906  1.00  6.43           C  
+ANISOU  284  CB  DLE D4001     1551    371    521   -101   -156    -21       C  
+HETATM  285  CG  DLE D4001       4.350  10.163  11.568  1.00  8.14           C  
+ANISOU  285  CG  DLE D4001     1491   1088    511      4    -95    131       C  
+HETATM  286  CD1 DLE D4001       4.127   8.940  10.673  1.00 14.15           C  
+ANISOU  286  CD1 DLE D4001     3802    877    697      9    222   -159       C  
+HETATM  287  CD2 DLE D4001       3.873  11.446  10.918  1.00 14.74           C  
+ANISOU  287  CD2 DLE D4001     3601   1091    908    -84   -535    143       C  
+HETATM  288  C   DLE D4001       5.620  10.549  14.408  1.00  4.16           C  
+ANISOU  288  C   DLE D4001      945    202    433     99    -35     11       C  
+HETATM  289  O   DLE D4001       5.835   9.430  14.862  1.00  5.25           O  
+ANISOU  289  O   DLE D4001     1081    287    626    119   -103    113       O  
+HETATM  290  H   DLE D4001       3.383   9.972  15.631  1.00  3.95           H  
+ANISOU  290  H   DLE D4001      827    127    546    -16    -89     14       H  
+HETATM  291  HA  DLE D4001       4.180  11.925  13.545  1.00  4.54           H  
+ANISOU  291  HA  DLE D4001     1003    181    537    -21   -108    122       H  
+HETATM  292  HB2 DLE D4001       2.607  10.070  12.800  1.00  6.44           H  
+ANISOU  292  HB2 DLE D4001     1490    422    532    -75   -119     39       H  
+HETATM  293  HB3 DLE D4001       3.857   8.906  13.226  1.00  6.18           H  
+ANISOU  293  HB3 DLE D4001     1384    415    547    -65   -124     41       H  
+HETATM  294  HG  DLE D4001       5.416  10.277  11.735  1.00  7.94           H  
+ANISOU  294  HG  DLE D4001     1654    794    567    -82   -200     33       H  
+HETATM  295 HD11 DLE D4001       4.276   9.201   9.658  1.00 11.88           H  
+ANISOU  295 HD11 DLE D4001     2706   1008    799     -8    134     51       H  
+HETATM  296 HD12 DLE D4001       4.816   8.182  10.942  1.00 12.43           H  
+ANISOU  296 HD12 DLE D4001     2853   1184    684   -211    163   -108       H  
+HETATM  297 HD13 DLE D4001       3.142   8.579  10.810  1.00 12.95           H  
+ANISOU  297 HD13 DLE D4001     3189   1072    658    245     -8    -69       H  
+HETATM  298 HD21 DLE D4001       3.256  11.220  10.089  1.00 11.61           H  
+ANISOU  298 HD21 DLE D4001     2567   1062    781      0   -274    204       H  
+HETATM  299 HD22 DLE D4001       3.306  12.036  11.589  1.00 11.75           H  
+ANISOU  299 HD22 DLE D4001     2493   1091    879   -193   -507    333       H  
+HETATM  300 HD23 DLE D4001       4.712  11.996  10.590  1.00 12.94           H  
+ANISOU  300 HD23 DLE D4001     2896   1230    788    185   -505     90       H  
+HETATM  301  N   ZAE D4002       6.624  11.482  14.379  1.00  3.96           N  
+ANISOU  301  N   ZAE D4002      828    294    383     57     42     92       N  
+HETATM  302  CA  ZAE D4002       7.944  11.065  14.780  1.00  4.38           C  
+ANISOU  302  CA  ZAE D4002      802    410    450    166     77     80       C  
+HETATM  303  C   ZAE D4002       7.983  10.425  16.191  1.00  4.18           C  
+ANISOU  303  C   ZAE D4002      747    296    544     93     41    127       C  
+HETATM  304  O   ZAE D4002       8.799   9.608  16.477  1.00  5.61           O  
+ANISOU  304  O   ZAE D4002      901    593    637    329     93    107       O  
+HETATM  305  CB  ZAE D4002       8.631  10.069  13.775  1.00  6.61           C  
+ANISOU  305  CB  ZAE D4002     1091    804    614    502    136     48       C  
+HETATM  306  CG  ZAE D4002       8.716  10.719  12.405  1.00  5.69           C  
+ANISOU  306  CG  ZAE D4002      798    911    451    225     86   -117       C  
+HETATM  307  CD1 ZAE D4002       9.503  11.819  12.164  1.00  6.42           C  
+ANISOU  307  CD1 ZAE D4002      687   1348    404      9     35   -112       C  
+HETATM  308  CD2 ZAE D4002       7.914  10.264  11.374  1.00  6.16           C  
+ANISOU  308  CD2 ZAE D4002      937    704    698     69     80   -189       C  
+HETATM  309  CE1 ZAE D4002       9.538  12.476  10.930  1.00  7.00           C  
+ANISOU  309  CE1 ZAE D4002      656   1517    485   -150      8     21       C  
+HETATM  310  CE2 ZAE D4002       7.934  10.892  10.124  1.00  5.83           C  
+ANISOU  310  CE2 ZAE D4002      803    858    553     71    -15   -272       C  
+HETATM  311  CZ  ZAE D4002       8.702  11.987   9.918  1.00  6.01           C  
+ANISOU  311  CZ  ZAE D4002      735   1203    345      5     37    -84       C  
+HETATM  312  C10 ZAE D4002       6.504  12.787  13.696  1.00  4.14           C  
+ANISOU  312  C10 ZAE D4002      911    255    406     10     40     82       C  
+HETATM  313  HA  ZAE D4002       8.568  11.957  14.817  1.00  4.49           H  
+ANISOU  313  HA  ZAE D4002      821    398    484    170     64     85       H  
+HETATM  314  HB2 ZAE D4002       8.116   9.108  13.729  1.00  6.14           H  
+ANISOU  314  HB2 ZAE D4002      999    810    523    435    106     26       H  
+HETATM  315  HB3 ZAE D4002       9.631   9.916  14.153  1.00  5.91           H  
+ANISOU  315  HB3 ZAE D4002     1020    685    539    327    127      4       H  
+HETATM  316  HD1 ZAE D4002      10.110  12.217  12.955  1.00  6.08           H  
+ANISOU  316  HD1 ZAE D4002      669   1205    435     43     21   -100       H  
+HETATM  317  HD2 ZAE D4002       7.276   9.405  11.535  1.00  5.67           H  
+ANISOU  317  HD2 ZAE D4002      837    733    583     98     55   -162       H  
+HETATM  318  HE1 ZAE D4002      10.173  13.338  10.768  1.00  6.28           H  
+ANISOU  318  HE1 ZAE D4002      689   1259    437     -8     19    -50       H  
+HETATM  319  HE2 ZAE D4002       7.310  10.514   9.323  1.00  5.55           H  
+ANISOU  319  HE2 ZAE D4002      747    904    457     55     22   -193       H  
+HETATM  320  HZ  ZAE D4002       8.731  12.442   8.936  1.00  5.88           H  
+ANISOU  320  HZ  ZAE D4002      728   1106    398      0     24    -50       H  
+HETATM  321  H11 ZAE D4002       7.410  13.331  13.751  1.00  4.01           H  
+ANISOU  321  H11 ZAE D4002      854    255    412     51     32     86       H  
+HETATM  322  H12 ZAE D4002       6.266  12.639  12.674  1.00  4.04           H  
+ANISOU  322  H12 ZAE D4002      866    244    422     28     15     78       H  
+HETATM  323  H13 ZAE D4002       5.744  13.367  14.148  1.00  4.04           H  
+ANISOU  323  H13 ZAE D4002      868    245    421     17     11     95       H  
+HETATM  324  C   BE2 D4003       4.550  11.522  18.119  1.00  2.84           C  
+ANISOU  324  C   BE2 D4003      601    129    349    -34    -40      1       C  
+HETATM  325  O   BE2 D4003       4.850  12.534  17.480  1.00  2.77           O  
+ANISOU  325  O   BE2 D4003      568    129    354    -37    -40      4       O  
+HETATM  326  C1  BE2 D4003       5.585  10.798  18.935  1.00  2.72           C  
+ANISOU  326  C1  BE2 D4003      569    131    334    -40    -51     -9       C  
+HETATM  327  CA  BE2 D4003       6.880  10.599  18.405  1.00  3.17           C  
+ANISOU  327  CA  BE2 D4003      627    166    409    -46    -20     45       C  
+HETATM  328  C3  BE2 D4003       7.837   9.958  19.176  1.00  3.84           C  
+ANISOU  328  C3  BE2 D4003      668    331    459    -25    -65     89       C  
+HETATM  329  N   BE2 D4003       7.135  11.040  17.098  1.00  3.53           N  
+ANISOU  329  N   BE2 D4003      640    267    433     72     27     89       N  
+HETATM  330  C4  BE2 D4003       7.545   9.568  20.484  1.00  3.94           C  
+ANISOU  330  C4  BE2 D4003      778    323    392    -33   -116     95       C  
+HETATM  331  C5  BE2 D4003       6.296   9.786  21.017  1.00  3.45           C  
+ANISOU  331  C5  BE2 D4003      789    162    357    -83    -59     82       C  
+HETATM  332  C6  BE2 D4003       5.272  10.396  20.229  1.00  3.06           C  
+ANISOU  332  C6  BE2 D4003      687    132    343    -51    -22     15       C  
+HETATM  333  H3  BE2 D4003       8.840   9.792  18.812  1.00  3.55           H  
+ANISOU  333  H3  BE2 D4003      663    260    424    -29    -71     76       H  
+HETATM  334  H   BE2 D4003       6.574  11.769  16.770  1.00  3.22           H  
+ANISOU  334  H   BE2 D4003      594    212    416     16     14     66       H  
+HETATM  335  H4  BE2 D4003       8.300   9.065  21.074  1.00  3.48           H  
+ANISOU  335  H4  BE2 D4003      688    248    386    -44    -62     69       H  
+HETATM  336  H5  BE2 D4003       6.074   9.435  22.016  1.00  3.25           H  
+ANISOU  336  H5  BE2 D4003      733    189    310    -54    -75     38       H  
+HETATM  337  H6  BE2 D4003       4.289  10.579  20.646  1.00  2.99           H  
+ANISOU  337  H6  BE2 D4003      648    140    349    -58    -51     28       H  
+HETATM  338  N   DAL D4004       3.322  10.984  18.024  1.00  3.00           N  
+ANISOU  338  N   DAL D4004      524    129    487      8    -15     28       N  
+HETATM  339  CA  DAL D4004       2.344  11.647  17.170  1.00  3.49           C  
+ANISOU  339  CA  DAL D4004      602    127    596     -1   -120     21       C  
+HETATM  340  CB  DAL D4004       1.052  10.821  17.123  1.00  4.62           C  
+ANISOU  340  CB  DAL D4004      682    131    941    -47    -73     36       C  
+HETATM  341  C   DAL D4004       2.902  11.907  15.773  1.00  3.70           C  
+ANISOU  341  C   DAL D4004      702    131    570    -51   -135      4       C  
+HETATM  342  O   DAL D4004       2.821  13.043  15.270  1.00  3.99           O  
+ANISOU  342  O   DAL D4004      799    140    577    -91   -204     48       O  
+HETATM  343  H   DAL D4004       3.067  10.153  18.467  1.00  3.06           H  
+ANISOU  343  H   DAL D4004      528    129    504    -15    -43     27       H  
+HETATM  344  HA  DAL D4004       2.084  12.614  17.614  1.00  3.59           H  
+ANISOU  344  HA  DAL D4004      608    130    624    -30    -85      1       H  
+HETATM  345  HB1 DAL D4004       1.263   9.861  16.743  1.00  4.28           H  
+ANISOU  345  HB1 DAL D4004      647    174    803    -42    -85      6       H  
+HETATM  346  HB2 DAL D4004       0.635  10.744  18.091  1.00  4.34           H  
+ANISOU  346  HB2 DAL D4004      653    135    860    -32   -129     10       H  
+HETATM  347  HB3 DAL D4004       0.357  11.301  16.484  1.00  4.30           H  
+ANISOU  347  HB3 DAL D4004      657    149    825    -57    -59     -4       H  
+TER     348      DAL D4004                                                      
+HETATM  349  N   DLE E5001       2.431   6.220  18.726  1.00  2.78           N  
+ANISOU  349  N   DLE E5001      459    130    467      0     32     34       N  
+HETATM  350  CA ADLE E5001       1.011   6.104  18.966  0.70  3.08           C  
+ANISOU  350  CA ADLE E5001      479    132    559     22     26     43       C  
+HETATM  351  CA BDLE E5001       0.997   6.108  18.989  0.30  3.20           C  
+ANISOU  351  CA BDLE E5001      505    129    580     19     37     33       C  
+HETATM  352  CB ADLE E5001       0.646   5.053  20.037  0.70  3.71           C  
+ANISOU  352  CB ADLE E5001      591    169    648    -58     18     -7       C  
+HETATM  353  CB BDLE E5001       0.666   5.048  20.059  0.30  3.85           C  
+ANISOU  353  CB BDLE E5001      627    167    669    -56     38     33       C  
+HETATM  354  CG ADLE E5001       1.201   5.401  21.413  0.70  5.11           C  
+ANISOU  354  CG ADLE E5001      791    382    765   -188     50    157       C  
+HETATM  355  CG BDLE E5001       1.086   5.451  21.507  0.30  5.41           C  
+ANISOU  355  CG BDLE E5001      895    376    784   -207    -18     85       C  
+HETATM  356  CD1ADLE E5001       0.487   6.515  21.959  0.70  8.45           C  
+ANISOU  356  CD1ADLE E5001     1707    598    902     50     91   -235       C  
+HETATM  357  CD1BDLE E5001      -0.006   5.022  22.657  0.30  6.11           C  
+ANISOU  357  CD1BDLE E5001     1186    434    702    -87     32    143       C  
+HETATM  358  CD2ADLE E5001       0.985   4.198  22.288  0.70  5.70           C  
+ANISOU  358  CD2ADLE E5001     1130    317    717   -175   -148    127       C  
+HETATM  359  CD2BDLE E5001       2.469   4.918  21.834  0.30  6.62           C  
+ANISOU  359  CD2BDLE E5001     1016    728    769    -47   -224    277       C  
+HETATM  360  C   DLE E5001       0.398   5.616  17.651  1.00  3.70           C  
+ANISOU  360  C   DLE E5001      511    127    768     10   -101     14       C  
+HETATM  361  O   DLE E5001       0.721   4.506  17.214  1.00  4.47           O  
+ANISOU  361  O   DLE E5001      730    130    837     49   -154    -20       O  
+HETATM  362  HA  DLE E5001       0.564   7.066  19.281  1.00  3.30           H  
+ANISOU  362  HA  DLE E5001      517    127    610     12     17     10       H  
+HETATM  363  HB2ADLE E5001       1.045   4.085  19.735  0.70  3.72           H  
+ANISOU  363  HB2ADLE E5001      599    154    658    -44     19     28       H  
+HETATM  364  HB2BDLE E5001       1.167   4.115  19.803  0.30  3.82           H  
+ANISOU  364  HB2BDLE E5001      616    164    672    -49     19     39       H  
+HETATM  365  HB3ADLE E5001      -0.440   4.955  20.091  0.70  3.75           H  
+ANISOU  365  HB3ADLE E5001      579    190    653    -42     19     29       H  
+HETATM  366  HB3BDLE E5001      -0.408   4.855  20.045  0.30  3.81           H  
+ANISOU  366  HB3BDLE E5001      597    184    665    -24     23     36       H  
+HETATM  367  HG ADLE E5001       2.274   5.629  21.354  0.70  4.81           H  
+ANISOU  367  HG ADLE E5001      758    326    743   -116      6     57       H  
+HETATM  368  HG BDLE E5001       1.152   6.548  21.530  0.30  5.21           H  
+ANISOU  368  HG BDLE E5001      872    361    745   -115    -22    100       H  
+HETATM  369 HD11ADLE E5001       0.803   6.664  22.955  0.70  7.15           H  
+ANISOU  369 HD11ADLE E5001     1239    511    965    -21     23    -82       H  
+HETATM  370 HD11BDLE E5001       0.420   5.158  23.617  0.30  6.26           H  
+ANISOU  370 HD11BDLE E5001     1041    466    871   -107    -46     38       H  
+HETATM  371 HD12ADLE E5001       0.691   7.396  21.413  0.70  7.38           H  
+ANISOU  371 HD12ADLE E5001     1186    664    953     27     20   -160       H  
+HETATM  372 HD12BDLE E5001      -0.872   5.624  22.565  0.30  6.62           H  
+ANISOU  372 HD12BDLE E5001     1147    543    824    -62     28     51       H  
+HETATM  373 HD13ADLE E5001      -0.554   6.322  21.948  0.70  7.73           H  
+ANISOU  373 HD13ADLE E5001     1554    503    877     85     43    -80       H  
+HETATM  374 HD13BDLE E5001      -0.268   4.004  22.529  0.30  6.24           H  
+ANISOU  374 HD13BDLE E5001     1069    480    820    -63      0    -13       H  
+HETATM  375 HD21ADLE E5001      -0.044   3.948  22.295  0.70  5.68           H  
+ANISOU  375 HD21ADLE E5001     1071    356    729   -116    -74    146       H  
+HETATM  376 HD21BDLE E5001       2.534   3.903  21.536  0.30  6.45           H  
+ANISOU  376 HD21BDLE E5001      998    610    841   -134   -135    348       H  
+HETATM  377 HD22ADLE E5001       1.543   3.380  21.913  0.70  5.57           H  
+ANISOU  377 HD22ADLE E5001     1007    374    735   -165    -85    163       H  
+HETATM  378 HD22BDLE E5001       3.197   5.486  21.316  0.30  6.44           H  
+ANISOU  378 HD22BDLE E5001     1061    553    833    -63   -165    181       H  
+HETATM  379 HD23ADLE E5001       1.302   4.411  23.275  0.70  5.35           H  
+ANISOU  379 HD23ADLE E5001     1008    347    676   -165    -67    147       H  
+HETATM  380 HD23BDLE E5001       2.639   4.992  22.876  0.30  6.04           H  
+ANISOU  380 HD23BDLE E5001      995    547    751   -103   -113    227       H  
+HETATM  381  N   ZAE E5002      -0.392   6.446  16.917  1.00  4.15           N  
+ANISOU  381  N   ZAE E5002      665    144    764      1   -214     -8       N  
+HETATM  382  CA  ZAE E5002      -0.930   5.938  15.652  1.00  5.45           C  
+ANISOU  382  CA  ZAE E5002      838    284    947     11   -407   -130       C  
+HETATM  383  C   ZAE E5002       0.152   5.475  14.711  1.00  6.02           C  
+ANISOU  383  C   ZAE E5002     1211    273    801    114   -373    -64       C  
+HETATM  384  O   ZAE E5002      -0.028   4.536  13.942  1.00  8.19           O  
+ANISOU  384  O   ZAE E5002     1554    444   1111     64   -353   -291       O  
+HETATM  385  CB  ZAE E5002      -2.047   4.883  15.913  1.00  7.01           C  
+ANISOU  385  CB  ZAE E5002      969    231   1462    -66   -436   -149       C  
+HETATM  386  CG  ZAE E5002      -3.080   5.317  16.911  1.00  6.33           C  
+ANISOU  386  CG  ZAE E5002      812    167   1425    -94   -465    -28       C  
+HETATM  387  CD1 ZAE E5002      -4.108   6.191  16.491  1.00  7.20           C  
+ANISOU  387  CD1 ZAE E5002      829    482   1424   -141   -467    331       C  
+HETATM  388  CD2 ZAE E5002      -3.009   4.958  18.205  1.00  6.89           C  
+ANISOU  388  CD2 ZAE E5002      754    241   1620   -169   -447    130       C  
+HETATM  389  CE1 ZAE E5002      -5.015   6.643  17.451  1.00  7.50           C  
+ANISOU  389  CE1 ZAE E5002      679    444   1723    -40   -324    242       C  
+HETATM  390  CE2 ZAE E5002      -3.915   5.405  19.161  1.00  7.03           C  
+ANISOU  390  CE2 ZAE E5002      759    428   1482   -229   -384    256       C  
+HETATM  391  CZ  ZAE E5002      -4.929   6.274  18.764  1.00  7.38           C  
+ANISOU  391  CZ  ZAE E5002      825    360   1620   -138   -289    146       C  
+HETATM  392  C10 ZAE E5002      -0.935   7.711  17.448  1.00  4.10           C  
+ANISOU  392  C10 ZAE E5002      623    144    790     46    -90     51       C  
+HETATM  393  HA  ZAE E5002      -1.430   6.765  15.138  1.00  5.46           H  
+ANISOU  393  HA  ZAE E5002      871    238    965      7   -332    -97       H  
+HETATM  394  HB2 ZAE E5002      -1.599   3.946  16.248  1.00  6.54           H  
+ANISOU  394  HB2 ZAE E5002      890    309   1287    -46   -401   -103       H  
+HETATM  395  HB3 ZAE E5002      -2.549   4.673  14.966  1.00  6.51           H  
+ANISOU  395  HB3 ZAE E5002      915    247   1309    -34   -336    -74       H  
+HETATM  396  HD1 ZAE E5002      -4.177   6.518  15.460  1.00  6.56           H  
+ANISOU  396  HD1 ZAE E5002      780    361   1350   -106   -425    201       H  
+HETATM  397  HD2 ZAE E5002      -2.203   4.307  18.521  1.00  6.67           H  
+ANISOU  397  HD2 ZAE E5002      702    303   1527   -113   -360     63       H  
+HETATM  398  HE1 ZAE E5002      -5.819   7.299  17.147  1.00  7.06           H  
+ANISOU  398  HE1 ZAE E5002      667    408   1606    -30   -292    176       H  
+HETATM  399  HE2 ZAE E5002      -3.833   5.086  20.193  1.00  6.77           H  
+ANISOU  399  HE2 ZAE E5002      759    345   1465   -181   -377    200       H  
+HETATM  400  HZ  ZAE E5002      -5.671   6.612  19.478  1.00  7.17           H  
+ANISOU  400  HZ  ZAE E5002      755    381   1587   -136   -318    181       H  
+HETATM  401  H11 ZAE E5002      -1.568   8.163  16.730  1.00  4.02           H  
+ANISOU  401  H11 ZAE E5002      627    135    765     29   -117     12       H  
+HETATM  402  H12 ZAE E5002      -1.517   7.535  18.318  1.00  3.93           H  
+ANISOU  402  H12 ZAE E5002      613    131    747     35   -121     23       H  
+HETATM  403  H13 ZAE E5002      -0.164   8.399  17.666  1.00  4.00           H  
+ANISOU  403  H13 ZAE E5002      617    141    760     59   -107     30       H  
+HETATM  404  C   BE2 E5003       3.630   7.152  15.879  1.00  3.91           C  
+ANISOU  404  C   BE2 E5003      822    136    526    -15     63     60       C  
+HETATM  405  O   BE2 E5003       2.858   8.084  16.086  1.00  3.90           O  
+ANISOU  405  O   BE2 E5003      876    137    468     69     80     47       O  
+HETATM  406  C1  BE2 E5003       3.636   6.457  14.537  1.00  4.71           C  
+ANISOU  406  C1  BE2 E5003     1189    155    446    124    114     78       C  
+HETATM  407  CA  BE2 E5003       2.447   6.042  13.969  1.00  5.12           C  
+ANISOU  407  CA  BE2 E5003     1289    165    490    144    -47     64       C  
+HETATM  408  C3  BE2 E5003       2.433   5.456  12.696  1.00  6.96           C  
+ANISOU  408  C3  BE2 E5003     1671    441    532    301   -270     -1       C  
+HETATM  409  N   BE2 E5003       1.311   6.220  14.704  1.00  5.15           N  
+ANISOU  409  N   BE2 E5003     1100    221    632    146   -191    -18       N  
+HETATM  410  C4  BE2 E5003       3.639   5.321  12.016  1.00  8.07           C  
+ANISOU  410  C4  BE2 E5003     2139    480    447    393    124     -3       C  
+HETATM  411  C5  BE2 E5003       4.815   5.714  12.584  1.00  7.92           C  
+ANISOU  411  C5  BE2 E5003     1775    657    574    362    350    126       C  
+HETATM  412  C6  BE2 E5003       4.854   6.326  13.859  1.00  6.24           C  
+ANISOU  412  C6  BE2 E5003     1544    207    619    148    253     61       C  
+HETATM  413  H3  BE2 E5003       1.522   5.107  12.230  1.00  6.36           H  
+ANISOU  413  H3  BE2 E5003     1535    347    534    257   -104     17       H  
+HETATM  414  H   BE2 E5003       1.284   6.965  15.327  1.00  4.94           H  
+ANISOU  414  H   BE2 E5003     1097    203    574    143   -133     20       H  
+HETATM  415  H4  BE2 E5003       3.644   4.838  11.049  1.00  7.11           H  
+ANISOU  415  H4  BE2 E5003     1803    374    525    331     67    -54       H  
+HETATM  416  H5  BE2 E5003       5.737   5.599  12.039  1.00  6.90           H  
+ANISOU  416  H5  BE2 E5003     1597    431    592    280    216     72       H  
+HETATM  417  H6  BE2 E5003       5.784   6.669  14.294  1.00  6.10           H  
+ANISOU  417  H6  BE2 E5003     1469    283    563    215    231     84       H  
+HETATM  418  N   DAL E5004       4.471   6.701  16.805  1.00  3.34           N  
+ANISOU  418  N   DAL E5004      591    126    551     -4    100     -9       N  
+HETATM  419  CA  DAL E5004       4.500   7.341  18.122  1.00  3.20           C  
+ANISOU  419  CA  DAL E5004      528    131    557    -27     89    -40       C  
+HETATM  420  CB  DAL E5004       5.472   6.590  19.053  1.00  3.95           C  
+ANISOU  420  CB  DAL E5004      534    222    745     27    -33   -100       C  
+HETATM  421  C   DAL E5004       3.096   7.386  18.736  1.00  2.67           C  
+ANISOU  421  C   DAL E5004      467    128    420    -21     21      7       C  
+HETATM  422  O   DAL E5004       2.634   8.425  19.213  1.00  3.06           O  
+ANISOU  422  O   DAL E5004      518    126    517     10     39     -3       O  
+HETATM  423  H   DAL E5004       5.107   6.027  16.656  1.00  3.22           H  
+ANISOU  423  H   DAL E5004      510    151    562    -29     82    -19       H  
+HETATM  424  HA  DAL E5004       4.870   8.368  18.020  1.00  3.15           H  
+ANISOU  424  HA  DAL E5004      512    131    551    -29     49    -39       H  
+HETATM  425  HB1 DAL E5004       5.198   5.570  19.112  1.00  3.71           H  
+ANISOU  425  HB1 DAL E5004      528    207    672     46     -3    -83       H  
+HETATM  426  HB2 DAL E5004       6.458   6.670  18.674  1.00  3.67           H  
+ANISOU  426  HB2 DAL E5004      523    185    685     24    -38    -74       H  
+HETATM  427  HB3 DAL E5004       5.433   7.019  20.020  1.00  3.69           H  
+ANISOU  427  HB3 DAL E5004      515    195    690     15     -4    -44       H  
+TER     428      DAL E5004                                                      
+HETATM  429  C1  EOH A1101      18.757   2.186   6.550  1.00 15.84           C  
+ANISOU  429  C1  EOH A1101     1714   2052   2250    583   -189    543       C  
+HETATM  430  C2  EOH A1101      17.863   1.630   7.430  1.00  9.69           C  
+ANISOU  430  C2  EOH A1101     1043   1736    902    402   -333    156       C  
+HETATM  431  O   EOH A1101      19.789   3.309   6.712  1.00 23.08           O  
+ANISOU  431  O   EOH A1101     3433   1661   3675   -363    -12   -185       O  
+HETATM  432  H11 EOH A1101      19.273   1.361   6.060  1.00 16.58           H  
+ANISOU  432  H11 EOH A1101     1902   2268   2129    193    -96     21       H  
+HETATM  433  H12 EOH A1101      18.123   2.594   5.770  1.00 12.97           H  
+ANISOU  433  H12 EOH A1101     1566   1568   1793    294   -169    120       H  
+HETATM  434  H21 EOH A1101      18.316   0.820   7.927  1.00 11.81           H  
+ANISOU  434  H21 EOH A1101     1366   1736   1384    490   -384    278       H  
+HETATM  435  H22 EOH A1101      17.028   1.250   6.912  1.00 11.81           H  
+ANISOU  435  H22 EOH A1101     1627   1544   1316   -137   -440     52       H  
+HETATM  436  H23 EOH A1101      17.553   2.357   8.134  1.00 12.25           H  
+ANISOU  436  H23 EOH A1101     1277   1827   1549    314   -162   -176       H  
+HETATM  437  HO  EOH A1101      19.355   4.168   6.569  1.00 20.86           H  
+ANISOU  437  HO  EOH A1101     2540   2443   2943     12    -90     56       H  
+HETATM  438  C1  EOH B2101       9.970  11.826  -2.182  1.00  7.53           C  
+ANISOU  438  C1  EOH B2101      769    986   1103     25   -197    148       C  
+HETATM  439  C2  EOH B2101       9.963  13.269  -1.614  1.00  9.65           C  
+ANISOU  439  C2  EOH B2101     1384   1101   1179   -379   -397    125       C  
+HETATM  440  O   EOH B2101       9.122  11.751  -3.253  1.00  6.43           O  
+ANISOU  440  O   EOH B2101      924    894    623    -67    -41     66       O  
+HETATM  441  H11 EOH B2101      10.982  11.544  -2.482  1.00  7.11           H  
+ANISOU  441  H11 EOH B2101      762    960    977    -66   -165    107       H  
+HETATM  442  H12 EOH B2101       9.624  11.126  -1.422  1.00  7.52           H  
+ANISOU  442  H12 EOH B2101      878    959   1016    -62   -191     71       H  
+HETATM  443  H21 EOH B2101      10.169  13.956  -2.392  1.00  9.14           H  
+ANISOU  443  H21 EOH B2101     1203   1088   1180   -232   -346    140       H  
+HETATM  444  H22 EOH B2101       9.012  13.480  -1.198  1.00  9.47           H  
+ANISOU  444  H22 EOH B2101     1341   1066   1189   -280   -427    158       H  
+HETATM  445  H23 EOH B2101      10.704  13.356  -0.862  1.00  8.94           H  
+ANISOU  445  H23 EOH B2101     1195   1028   1172   -225   -326    135       H  
+HETATM  446  HO  EOH B2101       8.218  11.924  -2.957  1.00  6.70           H  
+ANISOU  446  HO  EOH B2101      834    919    792    -83   -115     98       H  
+HETATM  447  C1  EOH D4101       6.147  14.603  10.229  1.00 10.98           C  
+ANISOU  447  C1  EOH D4101     1417    481   2273     -3   -151   -100       C  
+HETATM  448  C2  EOH D4101       6.198  15.467   8.938  1.00 11.09           C  
+ANISOU  448  C2  EOH D4101     1494    824   1895    -49   -387     54       C  
+HETATM  449  O   EOH D4101       5.108  14.806  11.205  1.00 15.95           O  
+ANISOU  449  O   EOH D4101     1998   1318   2742   -505    159    -72       O  
+HETATM  450  H11 EOH D4101       6.054  13.574   9.884  1.00 11.50           H  
+ANISOU  450  H11 EOH D4101     1517    670   2181   -121   -193   -328       H  
+HETATM  451  H12 EOH D4101       7.129  14.646  10.692  1.00 11.41           H  
+ANISOU  451  H12 EOH D4101     1421    679   2235   -104   -143   -110       H  
+HETATM  452  H21 EOH D4101       5.254  15.439   8.458  1.00 10.76           H  
+ANISOU  452  H21 EOH D4101     1321    742   2024    -63   -249     -8       H  
+HETATM  453  H22 EOH D4101       6.436  16.467   9.192  1.00 11.41           H  
+ANISOU  453  H22 EOH D4101     1438    858   2037    -62   -303    -45       H  
+HETATM  454  H23 EOH D4101       6.937  15.082   8.285  1.00 11.36           H  
+ANISOU  454  H23 EOH D4101     1480    756   2078   -103   -303     -4       H  
+HETATM  455  HO  EOH D4101       4.309  15.124  10.763  1.00 15.34           H  
+ANISOU  455  HO  EOH D4101     2098   1082   2647   -359    157   -135       H  
+HETATM  456  O   HOH A1201      14.709   3.301  -1.686  1.00  5.95           O  
+ANISOU  456  O   HOH A1201      877    520    863     96    248    127       O  
+HETATM  457  O   HOH B2201       6.605  11.786  -2.073  1.00  5.78           O  
+ANISOU  457  O   HOH B2201      854    249   1092     17    -15     61       O  
+HETATM  458  O   HOH D4201       9.517  15.157  13.388  1.00 16.16           O  
+ANISOU  458  O   HOH D4201     2802   1037   2299   -131    455    223       O  
+HETATM  459  O   HOH E5101      -3.020  10.481  16.829  1.00  7.76           O  
+ANISOU  459  O   HOH E5101      905   1362    678    159    -72   -113       O  
+CONECT    1    3   77                                                           
+CONECT    2    4   77                                                           
+CONECT    3    1    5   13   17                                                 
+CONECT    4    2    6   14   18                                                 
+CONECT    5    3    7   19   21                                                 
+CONECT    6    4    8   20   22                                                 
+CONECT    7    5    9   11   23                                                 
+CONECT    8    6   10   12   24                                                 
+CONECT    9    7   25   27   29                                                 
+CONECT   10    8   26   28   30                                                 
+CONECT   11    7   31   33   35                                                 
+CONECT   12    8   32   34   36                                                 
+CONECT   13    3   15   37                                                      
+CONECT   14    4   16   37                                                      
+CONECT   15   13                                                                
+CONECT   16   14                                                                
+CONECT   17    3                                                                
+CONECT   18    4                                                                
+CONECT   19    5                                                                
+CONECT   20    6                                                                
+CONECT   21    5                                                                
+CONECT   22    6                                                                
+CONECT   23    7                                                                
+CONECT   24    8                                                                
+CONECT   25    9                                                                
+CONECT   26   10                                                                
+CONECT   27    9                                                                
+CONECT   28   10                                                                
+CONECT   29    9                                                                
+CONECT   30   10                                                                
+CONECT   31   11                                                                
+CONECT   32   12                                                                
+CONECT   33   11                                                                
+CONECT   34   12                                                                
+CONECT   35   11                                                                
+CONECT   36   12                                                                
+CONECT   37   13   14   38   48                                                 
+CONECT   38   37   39   41   49                                                 
+CONECT   39   38   40   65                                                      
+CONECT   40   39                                                                
+CONECT   41   38   42   50   51                                                 
+CONECT   42   41   43   44                                                      
+CONECT   43   42   45   52                                                      
+CONECT   44   42   46   53                                                      
+CONECT   45   43   47   54                                                      
+CONECT   46   44   47   55                                                      
+CONECT   47   45   46   56                                                      
+CONECT   48   37   57   58   59                                                 
+CONECT   49   38                                                                
+CONECT   50   41                                                                
+CONECT   51   41                                                                
+CONECT   52   43                                                                
+CONECT   53   44                                                                
+CONECT   54   45                                                                
+CONECT   55   46                                                                
+CONECT   56   47                                                                
+CONECT   57   48                                                                
+CONECT   58   48                                                                
+CONECT   59   48                                                                
+CONECT   60   61   62   74                                                      
+CONECT   61   60                                                                
+CONECT   62   60   63   68                                                      
+CONECT   63   62   64   65                                                      
+CONECT   64   63   66   69                                                      
+CONECT   65   39   63   70                                                      
+CONECT   66   64   67   71                                                      
+CONECT   67   66   68   72                                                      
+CONECT   68   62   67   73                                                      
+CONECT   69   64                                                                
+CONECT   70   65                                                                
+CONECT   71   66                                                                
+CONECT   72   67                                                                
+CONECT   73   68                                                                
+CONECT   74   60   75   79                                                      
+CONECT   75   74   76   77   80                                                 
+CONECT   76   75   81   82   83                                                 
+CONECT   77    1    2   75   78                                                 
+CONECT   78   77                                                                
+CONECT   79   74                                                                
+CONECT   80   75                                                                
+CONECT   81   76                                                                
+CONECT   82   76                                                                
+CONECT   83   76                                                                
+CONECT   85   86   93  143                                                      
+CONECT   86   85   87   91   94                                                 
+CONECT   87   86   88   95   96                                                 
+CONECT   88   87   89   90   97                                                 
+CONECT   89   88   98   99  100                                                 
+CONECT   90   88  101  102  103                                                 
+CONECT   91   86   92  104                                                      
+CONECT   92   91                                                                
+CONECT   93   85                                                                
+CONECT   94   86                                                                
+CONECT   95   87                                                                
+CONECT   96   87                                                                
+CONECT   97   88                                                                
+CONECT   98   89                                                                
+CONECT   99   89                                                                
+CONECT  100   89                                                                
+CONECT  101   90                                                                
+CONECT  102   90                                                                
+CONECT  103   90                                                                
+CONECT  104   91  105  115                                                      
+CONECT  105  104  106  108  116                                                 
+CONECT  106  105  107  132                                                      
+CONECT  107  106                                                                
+CONECT  108  105  109  117  118                                                 
+CONECT  109  108  110  111                                                      
+CONECT  110  109  112  119                                                      
+CONECT  111  109  113  120                                                      
+CONECT  112  110  114  121                                                      
+CONECT  113  111  114  122                                                      
+CONECT  114  112  113  123                                                      
+CONECT  115  104  124  125  126                                                 
+CONECT  116  105                                                                
+CONECT  117  108                                                                
+CONECT  118  108                                                                
+CONECT  119  110                                                                
+CONECT  120  111                                                                
+CONECT  121  112                                                                
+CONECT  122  113                                                                
+CONECT  123  114                                                                
+CONECT  124  115                                                                
+CONECT  125  115                                                                
+CONECT  126  115                                                                
+CONECT  127  128  129  140                                                      
+CONECT  128  127                                                                
+CONECT  129  127  130  135                                                      
+CONECT  130  129  131  132                                                      
+CONECT  131  130  133  136                                                      
+CONECT  132  106  130                                                           
+CONECT  133  131  134  137                                                      
+CONECT  134  133  135  138                                                      
+CONECT  135  129  134  139                                                      
+CONECT  136  131                                                                
+CONECT  137  133                                                                
+CONECT  138  134                                                                
+CONECT  139  135                                                                
+CONECT  140  127  141  145                                                      
+CONECT  141  140  142  143  146                                                 
+CONECT  142  141  147  148  149                                                 
+CONECT  143   85  141  144                                                      
+CONECT  144  143                                                                
+CONECT  145  140                                                                
+CONECT  146  141                                                                
+CONECT  147  142                                                                
+CONECT  148  142                                                                
+CONECT  149  142                                                                
+CONECT  151  153  267                                                           
+CONECT  152  154  268                                                           
+CONECT  153  151  155  163  167                                                 
+CONECT  154  152  156  164  168                                                 
+CONECT  155  153  157  169  171                                                 
+CONECT  156  154  158  170  172                                                 
+CONECT  157  155  159  161  173                                                 
+CONECT  158  156  160  162  174                                                 
+CONECT  159  157  175  177  179                                                 
+CONECT  160  158  176  178  180                                                 
+CONECT  161  157  181  183  185                                                 
+CONECT  162  158  182  184  186                                                 
+CONECT  163  153  165  187                                                      
+CONECT  164  154  166  188                                                      
+CONECT  165  163                                                                
+CONECT  166  164                                                                
+CONECT  167  153                                                                
+CONECT  168  154                                                                
+CONECT  169  155                                                                
+CONECT  170  156                                                                
+CONECT  171  155                                                                
+CONECT  172  156                                                                
+CONECT  173  157                                                                
+CONECT  174  158                                                                
+CONECT  175  159                                                                
+CONECT  176  160                                                                
+CONECT  177  159                                                                
+CONECT  178  160                                                                
+CONECT  179  159                                                                
+CONECT  180  160                                                                
+CONECT  181  161                                                                
+CONECT  182  162                                                                
+CONECT  183  161                                                                
+CONECT  184  162                                                                
+CONECT  185  161                                                                
+CONECT  186  162                                                                
+CONECT  187  163  189  209                                                      
+CONECT  188  164  190  210                                                      
+CONECT  189  187  191  195  211                                                 
+CONECT  190  188  192  196  212                                                 
+CONECT  191  189  193  243                                                      
+CONECT  192  190  194  244                                                      
+CONECT  193  191                                                                
+CONECT  194  192                                                                
+CONECT  195  189  197  213  215                                                 
+CONECT  196  190  198  214  216                                                 
+CONECT  197  195  199  201                                                      
+CONECT  198  196  200  202                                                      
+CONECT  199  197  203  217                                                      
+CONECT  200  198  204  218                                                      
+CONECT  201  197  205  219                                                      
+CONECT  202  198  206  220                                                      
+CONECT  203  199  207  221                                                      
+CONECT  204  200  208  222                                                      
+CONECT  205  201  207  223                                                      
+CONECT  206  202  208  224                                                      
+CONECT  207  203  205  225                                                      
+CONECT  208  204  206  226                                                      
+CONECT  209  187  227  229  231                                                 
+CONECT  210  188  228  230  232                                                 
+CONECT  211  189                                                                
+CONECT  212  190                                                                
+CONECT  213  195                                                                
+CONECT  214  196                                                                
+CONECT  215  195                                                                
+CONECT  216  196                                                                
+CONECT  217  199                                                                
+CONECT  218  200                                                                
+CONECT  219  201                                                                
+CONECT  220  202                                                                
+CONECT  221  203                                                                
+CONECT  222  204                                                                
+CONECT  223  205                                                                
+CONECT  224  206                                                                
+CONECT  225  207                                                                
+CONECT  226  208                                                                
+CONECT  227  209                                                                
+CONECT  228  210                                                                
+CONECT  229  209                                                                
+CONECT  230  210                                                                
+CONECT  231  209                                                                
+CONECT  232  210                                                                
+CONECT  233  235  237  261                                                      
+CONECT  234  236  238  262                                                      
+CONECT  235  233                                                                
+CONECT  236  234                                                                
+CONECT  237  233  239  249                                                      
+CONECT  238  234  240  250                                                      
+CONECT  239  237  241  243                                                      
+CONECT  240  238  242  244                                                      
+CONECT  241  239  245  251                                                      
+CONECT  242  240  246  252                                                      
+CONECT  243  191  239  253                                                      
+CONECT  244  192  240  254                                                      
+CONECT  245  241  247  255                                                      
+CONECT  246  242  248  256                                                      
+CONECT  247  245  249  257                                                      
+CONECT  248  246  250  258                                                      
+CONECT  249  237  247  259                                                      
+CONECT  250  238  248  260                                                      
+CONECT  251  241                                                                
+CONECT  252  242                                                                
+CONECT  253  243                                                                
+CONECT  254  244                                                                
+CONECT  255  245                                                                
+CONECT  256  246                                                                
+CONECT  257  247                                                                
+CONECT  258  248                                                                
+CONECT  259  249                                                                
+CONECT  260  250                                                                
+CONECT  261  233  263  271                                                      
+CONECT  262  234  264  272                                                      
+CONECT  263  261  265  267  273                                                 
+CONECT  264  262  266  268  274                                                 
+CONECT  265  263  275  277  279                                                 
+CONECT  266  264  276  278  280                                                 
+CONECT  267  151  263  269                                                      
+CONECT  268  152  264  270                                                      
+CONECT  269  267                                                                
+CONECT  270  268                                                                
+CONECT  271  261                                                                
+CONECT  272  262                                                                
+CONECT  273  263                                                                
+CONECT  274  264                                                                
+CONECT  275  265                                                                
+CONECT  276  266                                                                
+CONECT  277  265                                                                
+CONECT  278  266                                                                
+CONECT  279  265                                                                
+CONECT  280  266                                                                
+CONECT  282  283  290  341                                                      
+CONECT  283  282  284  288  291                                                 
+CONECT  284  283  285  292  293                                                 
+CONECT  285  284  286  287  294                                                 
+CONECT  286  285  295  296  297                                                 
+CONECT  287  285  298  299  300                                                 
+CONECT  288  283  289  301                                                      
+CONECT  289  288                                                                
+CONECT  290  282                                                                
+CONECT  291  283                                                                
+CONECT  292  284                                                                
+CONECT  293  284                                                                
+CONECT  294  285                                                                
+CONECT  295  286                                                                
+CONECT  296  286                                                                
+CONECT  297  286                                                                
+CONECT  298  287                                                                
+CONECT  299  287                                                                
+CONECT  300  287                                                                
+CONECT  301  288  302  312                                                      
+CONECT  302  301  303  305  313                                                 
+CONECT  303  302  304  329                                                      
+CONECT  304  303                                                                
+CONECT  305  302  306  314  315                                                 
+CONECT  306  305  307  308                                                      
+CONECT  307  306  309  316                                                      
+CONECT  308  306  310  317                                                      
+CONECT  309  307  311  318                                                      
+CONECT  310  308  311  319                                                      
+CONECT  311  309  310  320                                                      
+CONECT  312  301  321  322  323                                                 
+CONECT  313  302                                                                
+CONECT  314  305                                                                
+CONECT  315  305                                                                
+CONECT  316  307                                                                
+CONECT  317  308                                                                
+CONECT  318  309                                                                
+CONECT  319  310                                                                
+CONECT  320  311                                                                
+CONECT  321  312                                                                
+CONECT  322  312                                                                
+CONECT  323  312                                                                
+CONECT  324  325  326  338                                                      
+CONECT  325  324                                                                
+CONECT  326  324  327  332                                                      
+CONECT  327  326  328  329                                                      
+CONECT  328  327  330  333                                                      
+CONECT  329  303  327  334                                                      
+CONECT  330  328  331  335                                                      
+CONECT  331  330  332  336                                                      
+CONECT  332  326  331  337                                                      
+CONECT  333  328                                                                
+CONECT  334  329                                                                
+CONECT  335  330                                                                
+CONECT  336  331                                                                
+CONECT  337  332                                                                
+CONECT  338  324  339  343                                                      
+CONECT  339  338  340  341  344                                                 
+CONECT  340  339  345  346  347                                                 
+CONECT  341  282  339  342                                                      
+CONECT  342  341                                                                
+CONECT  343  338                                                                
+CONECT  344  339                                                                
+CONECT  345  340                                                                
+CONECT  346  340                                                                
+CONECT  347  340                                                                
+CONECT  349  350  351  421                                                      
+CONECT  350  349  352  360  362                                                 
+CONECT  351  349  353  360  362                                                 
+CONECT  352  350  354  363  365                                                 
+CONECT  353  351  355  364  366                                                 
+CONECT  354  352  356  358  367                                                 
+CONECT  355  353  357  359  368                                                 
+CONECT  356  354  369  371  373                                                 
+CONECT  357  355  370  372  374                                                 
+CONECT  358  354  375  377  379                                                 
+CONECT  359  355  376  378  380                                                 
+CONECT  360  350  351  361  381                                                 
+CONECT  361  360                                                                
+CONECT  362  350  351                                                           
+CONECT  363  352                                                                
+CONECT  364  353                                                                
+CONECT  365  352                                                                
+CONECT  366  353                                                                
+CONECT  367  354                                                                
+CONECT  368  355                                                                
+CONECT  369  356                                                                
+CONECT  370  357                                                                
+CONECT  371  356                                                                
+CONECT  372  357                                                                
+CONECT  373  356                                                                
+CONECT  374  357                                                                
+CONECT  375  358                                                                
+CONECT  376  359                                                                
+CONECT  377  358                                                                
+CONECT  378  359                                                                
+CONECT  379  358                                                                
+CONECT  380  359                                                                
+CONECT  381  360  382  392                                                      
+CONECT  382  381  383  385  393                                                 
+CONECT  383  382  384  409                                                      
+CONECT  384  383                                                                
+CONECT  385  382  386  394  395                                                 
+CONECT  386  385  387  388                                                      
+CONECT  387  386  389  396                                                      
+CONECT  388  386  390  397                                                      
+CONECT  389  387  391  398                                                      
+CONECT  390  388  391  399                                                      
+CONECT  391  389  390  400                                                      
+CONECT  392  381  401  402  403                                                 
+CONECT  393  382                                                                
+CONECT  394  385                                                                
+CONECT  395  385                                                                
+CONECT  396  387                                                                
+CONECT  397  388                                                                
+CONECT  398  389                                                                
+CONECT  399  390                                                                
+CONECT  400  391                                                                
+CONECT  401  392                                                                
+CONECT  402  392                                                                
+CONECT  403  392                                                                
+CONECT  404  405  406  418                                                      
+CONECT  405  404                                                                
+CONECT  406  404  407  412                                                      
+CONECT  407  406  408  409                                                      
+CONECT  408  407  410  413                                                      
+CONECT  409  383  407  414                                                      
+CONECT  410  408  411  415                                                      
+CONECT  411  410  412  416                                                      
+CONECT  412  406  411  417                                                      
+CONECT  413  408                                                                
+CONECT  414  409                                                                
+CONECT  415  410                                                                
+CONECT  416  411                                                                
+CONECT  417  412                                                                
+CONECT  418  404  419  423                                                      
+CONECT  419  418  420  421  424                                                 
+CONECT  420  419  425  426  427                                                 
+CONECT  421  349  419  422                                                      
+CONECT  422  421                                                                
+CONECT  423  418                                                                
+CONECT  424  419                                                                
+CONECT  425  420                                                                
+CONECT  426  420                                                                
+CONECT  427  420                                                                
+CONECT  429  430  431  432  433                                                 
+CONECT  430  429  434  435  436                                                 
+CONECT  431  429  437                                                           
+CONECT  432  429                                                                
+CONECT  433  429                                                                
+CONECT  434  430                                                                
+CONECT  435  430                                                                
+CONECT  436  430                                                                
+CONECT  437  431                                                                
+CONECT  438  439  440  441  442                                                 
+CONECT  439  438  443  444  445                                                 
+CONECT  440  438  446                                                           
+CONECT  441  438                                                                
+CONECT  442  438                                                                
+CONECT  443  439                                                                
+CONECT  444  439                                                                
+CONECT  445  439                                                                
+CONECT  446  440                                                                
+CONECT  447  448  449  450  451                                                 
+CONECT  448  447  452  453  454                                                 
+CONECT  449  447  455                                                           
+CONECT  450  447                                                                
+CONECT  451  447                                                                
+CONECT  452  448                                                                
+CONECT  453  448                                                                
+CONECT  454  448                                                                
+CONECT  455  449                                                                
+MASTER      396    0   23    0    0    0   54    6  183    5  450    5          
+END                                                                             

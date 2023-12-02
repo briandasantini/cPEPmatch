@@ -1,0 +1,436 @@
+,PDB,type,aminoacid_length,secondary_structure,non-standard_a.a.,CAPS,other features
+0,1GM2,1x disulfide bridge,11,"hairpin: 2, random coil: 9",None,None,None
+1,6UG6,head to tail,12,random coil: 12,"DVA, DVA, DVA",None,None
+2,6U8I,ACE STAPLE,12,"NA: 1, alpha helix: 9, random coil: 3",ALY,None,None
+3,4TTK,"1x disulfide bridge, head to tail",14,"hairpin: 2, random coil: 12","DAR, DC, DTH, DLY, DSN, DIL, DPR, DPR, DIL, DC, DPN, DPR, DAS",None,None
+4,8EJR,head to tail,8,random coil: 8,"DAL, DPR, MLU, DVA, DAL, DPR, MLU, DVA",None,"MLU(methylated at N), MLU(methylated at N)"
+5,8CTO,"1x disulfide bridge, head to tail",14,random coil: 14,"DPN, MMO, E9M",None,"MMO(methylated at N), E9M(methylated at N)"
+6,8ACR,48V STAPLE,13,"NA: 1, random coil: 13",DTY,None,None
+7,3G61,ACE STAPLE,15,"NA: 2, alpha helix: 6, random coil: 9",DTY,NH2,None
+8,6BVW,48V STAPLE,13,"NA: 1, hairpin: 8, random coil: 5",DTY,None,None
+9,6YW4,side-chain to side chain,20,random coil: 20,"DBU, DBB, DAL, DBB, DBU",None,None
+10,7L4Z,"2x disulfide bridge, head to tail",29,"hairpin: 10, random coil: 19",None,None,None
+11,5LY1,ACE STAPLE,12,"NA: 1, alpha helix: 9, random coil: 3",ALY,None,None
+12,7JU9,Y1V STAPLE,15,"hairpin: 10, random coil: 6","ORN, PHI, MVA",None,MVA(methylated at N)
+13,1N1U,ACE STAPLE,14,"NA: 2, hairpin: 4, random coil: 10","ALY, ALY, ALY",NH2,None
+14,2RTA,side-chain to backbone,11,random coil: 11,"MAA, SAR, SAR, 7T2, SAR, IAE, MEA, MLE, 7TK",None,"MAA(methylated at N), SAR(methylated at N), SAR(methylated at N), 7T2(methylated at N), SAR(methylated at N), MEA(methylated at N), MLE(methylated at N)"
+15,6HZA,BAL STAPLE,10,"NA: 1, random coil: 11","PH8, ORN, MLE",ACE,MLE(methylated at N)
+16,6U8H,1x disulfide bridge,8,"alpha helix: 5, random coil: 3",None,None,None
+17,7LIB,48V STAPLE,13,"NA: 1, hairpin: 8, random coil: 5","DTY, M3L",None,None
+18,6U74,"3x disulfide bridge, head to tail",29,"hairpin: 6, random coil: 23",None,None,None
+19,8JJS,1x disulfide bridge,7,random coil: 7,"HYP, DTR",None,None
+20,3G60,1x disulfide bridge,18,random coil: 18,None,None,None
+21,5W5U,"1x disulfide bridge, head to tail",14,"hairpin: 2, random coil: 12",DPN,None,None
+22,5OUF,1x disulfide bridge,14,random coil: 14,None,None,None
+23,2RTB,"3x disulfide bridge, head to tail",29,"hairpin: 10, random coil: 19",None,None,None
+24,5WTT,side-chain to side chain,10,"alpha helix: 5, random coil: 5","MKD, MKD",None,None
+25,8F4B,2x disulfide bridge,11,random coil: 11,None,None,None
+26,6HLE,1x disulfide bridge,12,"hairpin: 2, random coil: 10",NLY,None,None
+27,6HZB,"DAV STAPLE, head to tail",6,"NA: 1, random coil: 6",None,None,None
+28,5LY2,"3x disulfide bridge, head to tail",18,"hairpin: 10, random coil: 8",None,None,None
+29,7FBP,side-chain to side chain,13,"NA: 1, random coil: 13",DPP,ACE,None
+30,7K7X,1x disulfide bridge,8,"hairpin: 2, random coil: 6",DTR,None,None
+31,5N0O,head to tail,8,random coil: 8,None,None,None
+32,1DG0,"1x disulfide bridge, head to tail",14,"hairpin: 2, random coil: 12",None,None,None
+33,1JDP,ACE STAPLE,17,"NA: 1, hairpin: 10, random coil: 7","ALY, ALY",None,None
+34,6BVU,"ITZ STAPLE, head to tail",5,random coil: 6,None,None,None
+35,2MI1,1x disulfide bridge,13,"NA: 1, random coil: 13",None,NH2,None
+36,7K28,"3x disulfide bridge, head to tail",29,"hairpin: 9, random coil: 20",None,None,None
+37,1ZNU,ACE STAPLE,11,"NA: 2, hairpin: 5, random coil: 6","ALY, ALY",NH2,None
+38,4N84,side-chain to backbone,11,"hairpin: 2, random coil: 9","DSN, DGL, AIB, DSN, DGL, AIB",None,None
+39,6HZC,3x disulfide bridge,18,"hairpin: 8, random coil: 10",None,None,None
+40,6HLD,48V STAPLE,12,"NA: 1, hairpin: 2, random coil: 10",DTY,None,None
+41,2RTC,"3x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+42,5N0N,head to tail,14,"hairpin: 8, random coil: 6",DPR,None,None
+43,1FUL,head to tail,23,"hairpin: 14, random coil: 9",DPR,None,None
+44,7K29,side-chain to backbone,5,"NA: 1, random coil: 5",RTY,NH2,None
+45,4HGC,head to tail,8,random coil: 8,None,None,None
+46,7K2P,"ACA STAPLE, head to tail",6,"NA: 1, random coil: 6",None,None,None
+47,2LZI,1x disulfide bridge,14,"hairpin: 4, random coil: 10",None,None,None
+48,1JD8,48V STAPLE,13,"NA: 1, random coil: 13",DTY,None,None
+49,2M6H,side-chain to side chain,11,"alpha helix: 4, random coil: 7","MKD, A1G, MKD, 6L9",None,None
+50,6NDY,head to tail,8,random coil: 8,None,None,None
+51,3OE6,48V STAPLE,14,"NA: 1, hairpin: 2, random coil: 12",None,None,None
+52,6DL1,head to tail,18,"hairpin: 6, random coil: 12","ABA, ABA, ABA, ABA, ABA, ABA",None,None
+53,6HZD,head to tail,12,random coil: 12,"DVA, DVA, DVA",None,None
+54,1SFI,side-chain to side chain,8,random coil: 8,"GZJ, CY3",None,None
+55,6U8M,"3x disulfide bridge, head to tail",29,"hairpin: 9, random coil: 20",None,None,None
+56,7L9D,NAG STAPLE,0,NA: 5,None,"NAG, BMA",None
+57,1A1P,head to tail,8,"alpha helix: 3, random coil: 5","DC, LWI, HYP, DPR, DLY, NLE",None,None
+58,4TTO,head to tail,23,"hairpin: 14, random coil: 9",DPR,None,None
+59,6U71,"3x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+60,6UG2,side-chain to backbone,7,random coil: 7,None,None,None
+61,2M2Y,"B3A STAPLE, head to tail",6,random coil: 7,None,None,None
+62,2RTD,48V STAPLE,13,"NA: 1, random coil: 13",DTY,None,None
+63,6XS8,"1x disulfide bridge, head to tail",14,"hairpin: 4, random coil: 10",None,None,None
+64,2M79,1x disulfide bridge,16,"hairpin: 6, random coil: 10",None,None,None
+65,5UZZ,"3x disulfide bridge, head to tail",29,"hairpin: 9, random coil: 20",None,None,None
+66,8BI8,BAL STAPLE,10,"NA: 1, random coil: 11","PH8, ORN, ZCL",ACE,None
+67,1B6J,48V STAPLE,13,"NA: 1, random coil: 13",DTY,None,None
+68,6DKY,"B3A STAPLE, head to tail",6,random coil: 7,None,None,None
+69,1FQ4,"ACE STAPLE, WCM STAPLE, WCM STAPLE",9,"NA: 4, random coil: 9",None,NEH,None
+70,7K2Q,ACE STAPLE,10,"NA: 4, random coil: 10",ALO,NH2,None
+71,1JBN,head to tail,8,random coil: 8,None,None,None
+72,8AC9,side-chain to side chain,21,random coil: 21,"DBU, DAL, DBB, DBU",None,None
+73,6YW1,ACE STAPLE,14,"NA: 2, random coil: 14","ALY, ALY, ALY",NH2,None
+74,5JM4,ACE STAPLE,14,"NA: 1, hairpin: 6, random coil: 8","ALY, ALY",None,None
+75,6DL0,"2x disulfide bridge, head to tail",22,"alpha helix: 13, random coil: 9",None,None,None
+76,2RTE,ACE STAPLE,14,"NA: 2, random coil: 14",DTY,NH2,None
+77,6XS9,"3x disulfide bridge, head to tail",29,"hairpin: 5, random coil: 24",None,None,None
+78,6HLB,1x disulfide bridge,8,random coil: 8,DLE,None,None
+79,2M2X,side-chain to backbone,11,random coil: 11,"MAA, SAR, SAR, 7T2, SAR, FCL, MEA, MVA, 7TK",None,"MAA(methylated at N), SAR(methylated at N), SAR(methylated at N), 7T2(methylated at N), SAR(methylated at N), MEA(methylated at N), MVA(methylated at N)"
+80,6UG3,side-chain to side chain,16,"alpha helix: 3, hairpin: 2, random coil: 11",None,None,None
+81,6DN8,"1x disulfide bridge, head to tail",18,"hairpin: 12, random coil: 6",DPR,None,None
+82,4TTN,head to tail,6,random coil: 6,None,None,None
+83,1FQ5,48V STAPLE,16,"NA: 1, hairpin: 8, random coil: 8",DTY,None,None
+84,6XCI,1x disulfide bridge,8,"hairpin: 2, random coil: 6",DLE,None,None
+85,8BI9,ACE STAPLE,14,"NA: 1, hairpin: 6, random coil: 8","ALY, ALY, ALY",None,None
+86,2M78,head to tail,6,random coil: 6,None,None,None
+87,1E4W,"2x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+88,6UFA,ACE STAPLE,12,"NA: 2, hairpin: 6, random coil: 6","DPN, XC0, MAA, SAR",NH2,"MAA(methylated at N), SAR(methylated at N)"
+89,7K2R,"BAL STAPLE, head to tail",6,"hairpin: 2, random coil: 5",None,None,None
+90,6YW2,ACE STAPLE,15,"NA: 2, alpha helix: 3, random coil: 12","ALY, ALY",NH2,None
+91,6NOX,1x disulfide bridge,8,random coil: 8,DTR,None,None
+92,3ZL4,ACE STAPLE,12,"NA: 2, hairpin: 2, random coil: 10","ALY, ALY",NH2,None
+93,2LWQ,1x disulfide bridge,8,random coil: 8,"HYP, DTY",None,None
+94,1FQ6,head to tail,14,"hairpin: 10, random coil: 4",DPR,None,None
+95,5JZA,48V STAPLE,16,"NA: 1, hairpin: 8, random coil: 8",DTY,None,None
+96,2RTF,"ABU STAPLE, head to tail",4,"NA: 1, random coil: 4",None,None,None
+97,4TTM,1x disulfide bridge,12,random coil: 12,None,None,None
+98,2F58,head to tail,14,"hairpin: 8, random coil: 6",DPR,None,None
+99,4MNX,1x disulfide bridge,14,"hairpin: 4, random coil: 10",None,None,None
+100,5W5S,side-chain to backbone,13,"NA: 1, alpha helix: 10, random coil: 3",UN1,NH2,None
+101,6YW3,1x disulfide bridge,8,"NA: 1, random coil: 8","HYP, DTR",NH2,None
+102,3F58,BAL STAPLE,10,"NA: 1, random coil: 11","PH8, ORN",ACE,None
+103,7K2S,ACE STAPLE,15,"NA: 1, alpha helix: 10, random coil: 5","ALY, ALY",None,None
+104,5ISW,"BAL STAPLE, head to tail",6,"hairpin: 2, random coil: 5",None,None,None
+105,1AMU,"3x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+106,7KFA,"0QZ STAPLE, head to tail",6,random coil: 7,"2RA, DSN, DVA, R2T, 2TL, FGL",None,None
+107,7KEV,ACE STAPLE,11,"NA: 2, hairpin: 5, random coil: 6","ALY, ALY",NH2,None
+108,1FQ7,side-chain to side chain,19,random coil: 19,"DAL, DAL",None,None
+109,6DKZ,ACE STAPLE,14,"NA: 2, alpha helix: 11, random coil: 3","ALY, ALY, ALY",NH2,None
+110,4MNY,"0QZ STAPLE, head to tail",6,"NA: 5, random coil: 7","2RA, DSN, DVA, R2T, 2TL, FGL",None,None
+111,7JVF,1x disulfide bridge,9,random coil: 9,None,None,None
+112,6UXS,side-chain to side chain,13,"NA: 1, random coil: 13",060,ALA,None
+113,6U72,head to tail,10,"hairpin: 2, random coil: 8","DPN, DPN, ORN",None,None
+114,4TTL,"B3A STAPLE, BAL STAPLE, head to tail",5,random coil: 7,None,None,None
+115,7BPH,side-chain to side chain,28,"alpha helix: 3, random coil: 25","DBB, DAL, DBB, DBB",None,None
+116,2RTG,side-chain to backbone,10,"NA: 1, random coil: 10","DAB, DAB, DAB, DAB, DLE, DAB, DAB",RE6,None
+117,1KAL,"0QZ STAPLE, head to tail",6,random coil: 7,"2RA, DSN, DVA, R2T, 2TL, FGL",None,None
+118,5OL5,1x disulfide bridge,24,"alpha helix: 11, random coil: 13",None,None,None
+119,1STR,1x disulfide bridge,18,"hairpin: 6, random coil: 12",None,None,None
+120,2M6E,1x disulfide bridge,8,random coil: 8,DLE,None,None
+121,7YUZ,ACE STAPLE,12,"NA: 1, alpha helix: 5, random coil: 7","ALY, ALY",None,None
+122,1E4X,ACE STAPLE,11,"NA: 2, hairpin: 5, random coil: 6","ALY, ALY",NH2,None
+123,7YFS,"BAL STAPLE, 1x disulfide bridge",10,"NA: 1, random coil: 12",None,"BAL, NH2",None
+124,4GUX,"1x disulfide bridge, head to tail",14,random coil: 14,"DPN, MMO",None,MMO(methylated at N)
+125,2KX5,side-chain to side chain,9,"NA: 1, random coil: 9",MK8,None,None
+126,6AZG,head to tail,14,"hairpin: 2, random coil: 12","ABA, ABA",None,None
+127,6XS5,ACE STAPLE,14,"NA: 2, hairpin: 6, random coil: 8","ALY, ALY",NH2,None
+128,2RTI,"3x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+129,1STS,1x disulfide bridge,8,"NA: 2, random coil: 8",None,"ACE, NH2",None
+130,2M6D,ACE STAPLE,15,"NA: 2, alpha helix: 5, random coil: 10",DTY,NH2,None
+131,1Y5C,"1x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4","ABA, ABA, ABA, ABA",None,None
+132,6U6L,side-chain to side chain,11,random coil: 11,DAB,None,None
+133,5ISX,"1x disulfide bridge, head to tail",14,random coil: 14,"E9V, DPN, MMO",None,"E9V(methylated at N), MMO(methylated at N)"
+134,5V1T,head to tail,8,random coil: 8,None,None,None
+135,4HY2,1x disulfide bridge,11,"NA: 1, alpha helix: 3, hairpin: 2, random coil: 6",None,NH2,None
+136,1FQ8,48V STAPLE,15,"NA: 1, hairpin: 4, random coil: 11",None,None,None
+137,6AZF,"0QZ STAPLE, head to tail",6,"NA: 5, random coil: 7","2RA, DSN, DVA, R2T, 2TL, FGL",None,None
+138,2RTH,1x disulfide bridge,6,"NA: 2, random coil: 6",None,"ACE, NH2",None
+139,6PIO,48V STAPLE,6,"NA: 1, random coil: 6","SEP, PTR",None,None
+140,8F1F,head to tail,8,random coil: 8,"DAL, DPR, MLU, DVA, DAL, DPR, MLU, DVA",None,"MLU(methylated at N), MLU(methylated at N)"
+141,6DN5,head to tail,7,random coil: 7,None,None,None
+142,4UVQ,head to tail,7,random coil: 7,None,None,None
+143,8AC7,1x disulfide bridge,13,random coil: 13,None,None,None
+144,8DNQ,1x disulfide bridge,11,random coil: 11,None,None,None
+145,7OS8,1x disulfide bridge,11,"alpha helix: 6, random coil: 5",None,None,None
+146,2M6G,"B74 STAPLE, CYS STAPLE",9,"NA: 3, random coil: 9","FTR, FTR, 3WX",ALA,None
+147,3OE9,"3x disulfide bridge, head to tail",18,"hairpin: 2, random coil: 16",None,None,None
+148,5OL7,head to tail,8,random coil: 8,"DVA, MLE, DPR, DVA, MLE, DPR",None,"MLE(methylated at N), MLE(methylated at N)"
+149,6MJG,side-chain to backbone,6,"NA: 1, random coil: 6","SLZ, PTR",ACE,None
+150,6ULP,head to tail,10,"alpha helix: 3, random coil: 7","DSN, DGL, AIB, DSN, DGL, AIB",None,None
+151,1D7T,head to tail,7,random coil: 7,None,None,None
+152,6DZ9,1x disulfide bridge,18,random coil: 18,None,None,None
+153,2RTK,1x disulfide bridge,8,"NA: 2, random coil: 8",None,"ACE, NH2",None
+154,6XS7,head to tail,9,random coil: 9,"DPR, MAA, DVA, MLE, DLE",None,"MAA(methylated at N), MLE(methylated at N)"
+155,6DN6,head to tail,9,random coil: 9,None,None,None
+156,5OBT,48V STAPLE,10,"NA: 1, random coil: 10",1PA,None,None
+157,4W50,head to tail,11,random coil: 11,"DAL, MLE, MLE, MVA, BMT, ABA, SAR, MLE, MLE",None,"MLE(methylated at N), MLE(methylated at N), MVA(methylated at N), BMT(methylated at N), SAR(methylated at N), MLE(methylated at N), MLE(methylated at N)"
+158,5J0M,head to tail,22,"alpha helix: 11, random coil: 11",None,None,None
+159,4M1D,1x disulfide bridge,17,"hairpin: 6, random coil: 11",None,None,None
+160,5TWW,head to tail,8,random coil: 8,"DGL, DLY, DPR, DVA",None,None
+161,1QFB,head to tail,8,random coil: 8,"DVA, MLE, DPR, DVA, MLE, DPR",None,"MLE(methylated at N), MLE(methylated at N)"
+162,5W6I,ACY STAPLE,14,"NA: 2, random coil: 14",FAK,NH2,None
+163,6ULQ,9WV STAPLE,10,"NA: 1, random coil: 11","PH8, ORN",ACE,None
+164,6MJF,1x disulfide bridge,14,"alpha helix: 4, random coil: 10",None,None,None
+165,2M6F,1x disulfide bridge,6,"NA: 2, random coil: 6",None,"ACE, NH2",None
+166,3OE8,1x disulfide bridge,12,"NA: 2, hairpin: 6, random coil: 6",None,"ACE, NH2",None
+167,5OL6,head to tail,9,random coil: 9,"DPR, MAA, DVA, MLE, DLE",None,"MAA(methylated at N), MLE(methylated at N)"
+168,6DN7,ACE STAPLE,14,"NA: 2, random coil: 14","MEA, 9KK, SAR, MEA, SAR",NH2,"MEA(methylated at N), 9KK(methylated at N), SAR(methylated at N), MEA(methylated at N), SAR(methylated at N)"
+169,2RTJ,"1x disulfide bridge, head to tail",16,"hairpin: 8, random coil: 8",None,None,None
+170,2M77,9WV STAPLE,10,"NA: 1, random coil: 11","PH8, ORN, MLE, ZCL",ACE,MLE(methylated at N)
+171,5UZT,head to tail,22,"alpha helix: 12, random coil: 10",None,None,None
+172,4OIP,side-chain to backbone,5,"NA: 1, random coil: 5","TPO, ZNY, MLL",ZO1,None
+173,2RTM,"1x disulfide bridge, head to tail",13,random coil: 13,None,None,None
+174,6U4A,head to tail,8,"hairpin: 2, random coil: 6","DAR, DAR, DC",None,None
+175,6QZZ,head to tail,14,"hairpin: 8, random coil: 6",DPR,None,None
+176,5V1Q,BAL STAPLE,10,"NA: 1, random coil: 11",ORN,ACE,None
+177,6VLJ,"ITZ STAPLE, head to tail",5,random coil: 6,MEA,None,MEA(methylated at N)
+178,2MSR,ACE STAPLE,14,"NA: 8, alpha helix: 3, random coil: 11",DTY,NH2,None
+179,6ULV,"1x disulfide bridge, head to tail",16,"hairpin: 6, random coil: 10",None,None,None
+180,5OL1,head to tail,8,"hairpin: 2, random coil: 6","DAR, DAR, DC",None,None
+181,6TSC,head to tail,10,random coil: 10,"DPR, DPR, DVA, DGL, DLY",None,None
+182,2RTL,"1x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4","ABA, ABA, ABA, ABA",None,None
+183,1VWR,"1x disulfide bridge, head to tail",18,"hairpin: 2, random coil: 16",None,None,None
+184,4OIQ,head to tail,9,random coil: 9,"DPR, MAA, DVA, MLE, DLE",None,"MAA(methylated at N), MLE(methylated at N)"
+185,8DEU,ACE STAPLE,13,"NA: 2, alpha helix: 4, random coil: 9",DTY,HOA,None
+186,7ROV,1x disulfide bridge,12,"hairpin: 6, random coil: 6",None,None,None
+187,7UOA,"MPT STAPLE, DHL STAPLE",8,"NA: 3, random coil: 8","DNP, DAL, FTR, 0A1, 3WX",None,None
+188,4M6E,side-chain to side chain,16,random coil: 16,HCS,None,None
+189,8EHV,"V7M STAPLE, CYS STAPLE",9,"NA: 3, random coil: 9","DAL, FTR, FTR, 3WX",ALA,None
+190,1VSC,"1x disulfide bridge, head to tail",16,random coil: 16,None,None,None
+191,5V1S,"B3S STAPLE, 1x disulfide bridge",12,"NA: 1, random coil: 13",None,ACE,None
+192,6VJQ,1x disulfide bridge,16,"hairpin: 6, random coil: 10",None,None,None
+193,2RTO,"BAL STAPLE, head to tail",6,random coil: 7,None,None,None
+194,8DEV,1x disulfide bridge,7,"NA: 1, random coil: 7",DC,ACE,None
+195,1E68,1x disulfide bridge,6,"NA: 2, random coil: 6",None,"ACE, NH2",None
+196,4OIR,1x disulfide bridge,8,random coil: 8,"HYP, DTR",None,None
+197,1VWQ,"2x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4","ABA, ABA",None,None
+198,3PP4,head to tail,14,"hairpin: 2, random coil: 12",None,None,None
+199,6H41,side-chain to backbone,5,"NA: 1, random coil: 5",RTY,NH2,None
+200,2M6C,side-chain to backbone,11,random coil: 11,"MLE, MAA, 02A, 7VU, SAR, 7W2, AC5, 7VN, 7WC",None,"MLE(methylated at N), MAA(methylated at N), SAR(methylated at N), 7VN(methylated at N), 7WC(methylated at N)"
+201,6ULT,ACE STAPLE,11,"NA: 2, hairpin: 5, random coil: 6","ALY, ALY",NH2,None
+202,6U6K,head to tail,6,"NA: 1, random coil: 6",None,None,None
+203,6ANN,"3x disulfide bridge, head to tail",18,"hairpin: 10, random coil: 8",None,None,None
+204,5JR2,head to tail,6,random coil: 6,"NAL, NAL",None,None
+205,6BVX,side-chain to side chain,21,"alpha helix: 13, random coil: 8","ABA, DBU, DBU, DAL",None,None
+206,5J31,head to tail,9,"NA: 6, random coil: 9",None,None,None
+207,5GKM,1x disulfide bridge,6,"NA: 2, random coil: 6",None,"ACE, NH2",None
+208,1T9E,1x disulfide bridge,8,"NA: 1, random coil: 8","DAL, DPN",ACE,None
+209,6QZY,side-chain to side chain,7,"NA: 1, random coil: 7","5PG, HCL, D4P, D4P, OMZ, D3P",DIB,5PG(methylated at N)
+210,8DEW,head to tail,6,random coil: 7,None,None,None
+211,6U8G,side-chain to backbone,16,"hairpin: 9, random coil: 7","MLE, ORN, ORN",None,MLE(methylated at N)
+212,5INZ,1x disulfide bridge,8,"NA: 2, random coil: 8","ASA, 4FB","ACE, NH2",None
+213,1VWP,head to tail,8,"hairpin: 2, random coil: 6","DPR, MLE, DPR, MLE",None,"MLE(methylated at N), MLE(methylated at N)"
+214,7E5E,head to tail,22,"alpha helix: 12, random coil: 10",None,None,None
+215,2M2S,head to tail,8,random coil: 8,"DLY, DGL, DPR, DVA",None,None
+216,7DOC,"3x disulfide bridge, head to tail",29,"hairpin: 9, random coil: 20",None,None,None
+217,2RTN,head to tail,14,"hairpin: 8, random coil: 6",DPR,None,None
+218,8Q1N,1x disulfide bridge,12,random coil: 12,None,None,None
+219,6BVY,head to tail,6,random coil: 6,"DLE, DPR, N9K",None,N9K(methylated at N)
+220,5VFW,head to tail,16,"hairpin: 6, random coil: 10",DPR,None,None
+221,6WPV,head to tail,7,random coil: 7,None,None,None
+222,7EZW,side-chain to side chain,9,"NA: 15, hairpin: 4, random coil: 5",None,None,None
+223,6XSA,head to tail,8,random coil: 8,"DVA, MLE, DPR, DVA, MLE, DPR",None,"MLE(methylated at N), MLE(methylated at N)"
+224,4OIN,"1x disulfide bridge, head to tail",17,"hairpin: 6, random coil: 11",None,None,None
+225,1PXQ,side-chain to side chain,13,"NA: 1, alpha helix: 4, random coil: 9",DLE,NH2,None
+226,1VWM,2x disulfide bridge,11,random coil: 11,None,None,None
+227,8PKU,head to tail,14,"hairpin: 8, random coil: 6",DPR,None,None
+228,2IZL,"ITZ STAPLE, head to tail",5,random coil: 6,"TBG, MEA",None,MEA(methylated at N)
+229,3CK0,head to tail,14,"hairpin: 4, random coil: 10",None,None,None
+230,6B67,1x disulfide bridge,8,random coil: 8,"HYP, DTR",None,None
+231,7UBD,side-chain to side chain,17,random coil: 17,ORN,None,None
+232,7K2G,AEA STAPLE,6,"NA: 1, random coil: 6",FLT,None,None
+233,6XH2,head to tail,8,random coil: 8,"DVA, MLE, DPR, DVA, MLE, DPR",None,"MLE(methylated at N), MLE(methylated at N)"
+234,6JWM,head to tail,16,"hairpin: 6, random coil: 10",DPR,None,None
+235,5JZU,head to tail,7,random coil: 7,None,None,None
+236,2CK0,head to tail,6,random coil: 6,None,None,None
+237,7YB7,"3x disulfide bridge, head to tail",29,"hairpin: 2, random coil: 27",None,None,None
+238,3P72,side-chain to side chain,16,random coil: 16,DBU,None,None
+239,8Q1R,head to tail,8,random coil: 8,"DVA, MLE, DPR, DVA, MLE, DPR",None,"MLE(methylated at N), MLE(methylated at N)"
+240,2RTR,"BE2 STAPLE, head to tail",9,random coil: 10,"DPN, DPN, ORN",None,None
+241,1VWL,"ACE STAPLE, II7 STAPLE",12,"NA: 2, random coil: 13",DTY,NH2,None
+242,4OIO,head to tail,6,random coil: 7,None,None,None
+243,6XIB,head to tail,16,"hairpin: 6, random coil: 10",DPR,None,None
+244,2BRR,head to tail,8,random coil: 8,"DAL, DPR, MLU, DVA, DAL, DPR, MLU, DVA",None,"MLU(methylated at N), MLU(methylated at N)"
+245,7F32,"3x disulfide bridge, head to tail",29,"hairpin: 10, random coil: 19",None,None,None
+246,7UBE,"BE2 STAPLE, head to tail",9,random coil: 10,"DPN, DPN, ORN",None,None
+247,1JMK,"3x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+248,6XH3,head to tail,11,random coil: 11,"BMT, ABA, DAM, 66E, MLE, DAL, MLE, MLE, MVA",None,"BMT(methylated at N), DAM(methylated at N), MLE(methylated at N), MLE(methylated at N), MLE(methylated at N), MVA(methylated at N)"
+249,1BM2,1x disulfide bridge,13,"NA: 1, random coil: 13",None,ACE,None
+250,6UFU,head to tail,14,"hairpin: 4, random coil: 10",None,None,None
+251,7K2F,"3x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+252,7RNW,head to tail,6,random coil: 6,None,None,None
+253,2RTQ,head to tail,7,random coil: 7,None,None,None
+254,4KTC,1x disulfide bridge,12,random coil: 12,None,None,None
+255,8PKW,side-chain to side chain,16,random coil: 16,"DBB, DBB",None,None
+256,8Q1Q,1x disulfide bridge,6,"NA: 2, random coil: 6",None,"ACE, NH2",None
+257,5JZ8,1ZN STAPLE,6,random coil: 7,"DAL, ACB, FGA, DAM",None,DAM(methylated at N)
+258,1VWO,head to tail,6,random coil: 6,None,None,None
+259,7UZL,1x disulfide bridge,18,random coil: 18,None,None,None
+260,6JWN,head to tail,16,"hairpin: 4, random coil: 12",DPR,None,None
+261,4X6S,side-chain to backbone,5,random coil: 5,"N9K, PHA, AA4, ABA, ABA",None,N9K(methylated at N)
+262,4YV9,"1x disulfide bridge, head to tail",14,"hairpin: 4, random coil: 10",None,None,None
+263,7K2E,side-chain to backbone,16,"hairpin: 8, random coil: 8","ORN, PHI, ORN, MVA",None,MVA(methylated at N)
+264,2LL5,"1x disulfide bridge, head to tail",12,"hairpin: 2, random coil: 10","DPR, DVA, DPR, DLY, DGL",None,None
+265,5APA,"1x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4","DPR, DPR",None,None
+266,6XH0,head to tail,10,random coil: 10,"DGL, DAR, DPR",None,None
+267,1EGT,2x disulfide bridge,26,"alpha helix: 11, hairpin: 6, random coil: 9","DAR, DSG",None,None
+268,4WWQ,side-chain to backbone,16,"hairpin: 8, random coil: 8","ORN, PHI, ORN, MAA",None,MAA(methylated at N)
+269,6UCX,"1x disulfide bridge, head to tail",14,"hairpin: 6, random coil: 8",None,None,None
+270,7UBF,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, PHI, ORN, MAA",None,MAA(methylated at N)
+271,6UF8,ACE STAPLE,18,"NA: 2, alpha helix: 9, random coil: 9",None,NH2,None
+272,4L3O,1x disulfide bridge,10,"NA: 2, hairpin: 6, random coil: 4",None,"ACE, NH2",None
+273,5W6R,"1x disulfide bridge, head to tail",26,"alpha helix: 19, random coil: 7","DAS, DPR, DGL, DAL, DGL, DAR, DLY, DC, DAR, DGL, DGL",None,None
+274,7UCX,"1x disulfide bridge, head to tail",14,"hairpin: 4, random coil: 10",None,None,None
+275,1VWN,side-chain to backbone,13,"hairpin: 2, random coil: 11",CCS,None,None
+276,2RTP,head to tail,14,"hairpin: 2, random coil: 12",None,None,None
+277,8PKV,"1x disulfide bridge, head to tail",22,"alpha helix: 14, random coil: 8",None,None,None
+278,1M1X,"3x disulfide bridge, head to tail",27,"hairpin: 8, random coil: 19",HYP,None,None
+279,3V56,head to tail,14,"hairpin: 2, random coil: 12",None,None,None
+280,6XH1,side-chain to side chain,29,"alpha helix: 21, random coil: 8",HCS,None,None
+281,7K2D,1x disulfide bridge,10,"NA: 2, hairpin: 4, random coil: 6",None,"ACE, NH2",None
+282,6UF9,head to tail,10,random coil: 10,"DVA, DPR, DLE, DTH",None,None
+283,6VGT,head to tail,14,"hairpin: 4, random coil: 10",None,None,None
+284,1CK0,side-chain to side chain,29,"alpha helix: 21, random coil: 8",HCS,None,None
+285,7UBG,side-chain to side chain,9,random coil: 9,"DBB, DSG, MEA, DVA, DLE",None,MEA(methylated at N)
+286,6NNV,1x disulfide bridge,18,"hairpin: 4, random coil: 14",None,None,None
+287,5KGM,1x disulfide bridge,7,"NA: 2, alpha helix: 3, random coil: 4",None,"ACE, NH2",None
+288,2NDL,1x disulfide bridge,10,random coil: 10,DAL,None,None
+289,7K2C,"1x disulfide bridge, head to tail",11,"hairpin: 6, random coil: 5","DAL, DPR, DC, DLY, DTY, DC, DSN",None,None
+290,5W6T,side-chain to side chain,29,"alpha helix: 21, random coil: 8","HCS, HCS",None,None
+291,1VWI,head to tail,7,"hairpin: 2, random coil: 5",None,None,None
+292,6MW1,head to tail,9,random coil: 9,"U2M, DTH, DSN, MED, DAS",None,None
+293,3UC7,side-chain to side chain,10,random coil: 10,None,None,None
+294,7MSO,head to tail,14,"hairpin: 4, random coil: 10",None,None,None
+295,2IZH,"ESD STAPLE, head to tail",8,"NA: 1, random coil: 8",MEA,None,MEA(methylated at N)
+296,1SLF,side-chain to side chain,10,random coil: 10,None,None,None
+297,3SYU,head to tail,8,random coil: 8,"U2M, DLY",None,None
+298,7K2B,"1x disulfide bridge, head to tail",16,random coil: 16,None,None,None
+299,2NDM,side-chain to side chain,12,"NA: 1, random coil: 12","ABA, N0A, 192, ABA, ORN",ACE,None
+300,5KGL,head to tail,8,random coil: 8,"U2M, DLY",None,None
+301,6XBE,side-chain to side chain,28,"alpha helix: 9, random coil: 19","DAL, DBU, DBU, DBB, DAL",None,None
+302,5O3U,head to tail,14,"hairpin: 8, random coil: 6","DAB, 4J5, DPR",None,None
+303,5J1O,1x disulfide bridge,28,"alpha helix: 21, random coil: 7",None,None,None
+304,5W6U,side-chain to backbone,13,"NA: 1, hairpin: 8, random coil: 5",CCS,NH2,None
+305,4Q2K,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, PHI, ORN, MVA",None,MVA(methylated at N)
+306,2IZI,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, PHI, ORN, MEA",None,MEA(methylated at N)
+307,1VWH,head to tail,8,random coil: 8,"U2M, DGL, DSN, DAS",None,None
+308,1SLG,side-chain to side chain,16,"NA: 1, alpha helix: 9, random coil: 7","NAL, T79, NAL, NAL",ACY,None
+309,7L98,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, PHI, ORN, MLE",None,MLE(methylated at N)
+310,3ODU,side-chain to side chain,29,"alpha helix: 9, random coil: 20",None,None,None
+311,5O3V,side-chain to backbone,16,"hairpin: 8, random coil: 8","ORN, PHI, ORN, MAA",None,MAA(methylated at N)
+312,7KNG,side-chain to side chain,14,"NA: 2, alpha helix: 11, random coil: 3","0EH, DTR, 2JH, MK8","ACE, NH2",None
+313,8ACG,head to tail,14,random coil: 14,DPR,None,None
+314,2NDN,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, PHI, ORN, MAA",None,MAA(methylated at N)
+315,7K2A,side-chain to side chain,20,"alpha helix: 18, random coil: 2",None,None,None
+316,5N0X,"2x disulfide bridge, head to tail",28,"hairpin: 14, random coil: 14",None,None,None
+317,6XBF,head to tail,8,random coil: 8,"DAL, DSN, DAR, U2M, DNE",None,None
+318,5N4I,side-chain to backbone,15,"hairpin: 4, random coil: 11","MAA, DPP, HYP, DAB, V6W, 9KK, 9KK, CCS",None,"MAA(methylated at N), 9KK(methylated at N), 9KK(methylated at N)"
+319,6UDZ,"B74 STAPLE, MPT STAPLE, DHL STAPLE",8,"NA: 3, random coil: 8","DAL, FTR, 0A1, 3WX",None,None
+320,2M2H,2x disulfide bridge,17,"NA: 1, hairpin: 14, random coil: 3",None,NH2,None
+321,2IZJ,"0MG STAPLE, VLT STAPLE, 0FL STAPLE, head to tail",2,random coil: 5,DPN,None,None
+322,5H1I,2x disulfide bridge,17,"NA: 1, hairpin: 12, random coil: 5",None,NH2,None
+323,1VWK,head to tail,14,"hairpin: 8, random coil: 6","DAB, ORN, DLY, ORN, DAB, DPR",None,None
+324,7UBC,"2x disulfide bridge, head to tail",28,"hairpin: 14, random coil: 14",None,None,None
+325,7KNF,side-chain to backbone,5,"NA: 1, random coil: 5","DLY, 73O, MAA",73N,MAA(methylated at N)
+326,5O3W,"HAO STAPLE, HAO STAPLE",10,"hairpin: 2, random coil: 10","ORN, 4BF, ORN",None,None
+327,6R00,side-chain to side chain,7,random coil: 7,UX8,None,None
+328,5T1M,side-chain to side chain,8,"hairpin: 4, random coil: 4",None,None,None
+329,7S5H,1x disulfide bridge,10,"NA: 2, hairpin: 6, random coil: 4",None,"ACE, NH2",None
+330,6R28,1x disulfide bridge,10,"NA: 2, random coil: 10",None,"ACE, NH2",None
+331,6XID,side-chain to backbone,15,"NA: 1, hairpin: 2, random coil: 13","MAA, 9KK, 9KK, CCS",NH2,"MAA(methylated at N), 9KK(methylated at N), 9KK(methylated at N)"
+332,6MW2,ACE STAPLE,15,"NA: 2, hairpin: 4, random coil: 11","MAA, SAR, 9KK, 9KK, DC",NH2,"MAA(methylated at N), SAR(methylated at N), 9KK(methylated at N), 9KK(methylated at N)"
+333,1VWJ,side-chain to side chain,7,random coil: 7,DLY,None,None
+334,5H1H,ACE STAPLE,15,"NA: 2, random coil: 15",DTY,NH2,None
+335,6T7V,1x disulfide bridge,14,"hairpin: 4, random coil: 10",None,None,None
+336,2IZK,"2x disulfide bridge, head to tail",28,"hairpin: 16, random coil: 12",None,None,None
+337,1J8N,"1x disulfide bridge, head to tail",26,"alpha helix: 20, random coil: 6",None,None,None
+338,2NB6,head to tail,8,random coil: 8,"U2M, DLY",None,None
+339,2QMS,"2x disulfide bridge, head to tail",28,"hairpin: 8, random coil: 20",None,None,None
+340,1BH4,side-chain to side chain,7,random coil: 7,UX8,None,None
+341,5N0W,side-chain to backbone,14,"NA: 1, random coil: 14","MEA, 9KK, SAR, MEA, SAR, CCS",NH2,"MEA(methylated at N), 9KK(methylated at N), SAR(methylated at N), MEA(methylated at N), SAR(methylated at N)"
+342,7CDC,HAO STAPLE,9,"hairpin: 2, random coil: 8","ORN, ORN",None,None
+343,7K2N,ACE STAPLE,11,"NA: 1, random coil: 11",DPN,None,None
+344,5VFC,head to tail,14,"hairpin: 2, random coil: 12",None,None,None
+345,6UGB,ACE STAPLE,10,"NA: 1, random coil: 10",DPN,None,None
+346,5LFH,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, PHI, ORN, MVA",None,MVA(methylated at N)
+347,1VWD,HAO STAPLE,9,"hairpin: 2, random coil: 8","ORN, ORN",None,None
+348,1DFY,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORD, DAL, DVA, DLE, IOY, DVA, DSN, ORD, DVA, DHI, MV9, DAL, DTH, DVA",None,MV9(methylated at N)
+349,2M1P,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, PHI, ORN, EZY, ORN",None,None
+350,2A9X,side-chain to side chain,7,random coil: 7,UX8,None,None
+351,2IZE,head to tail,7,random coil: 7,"F7P, MLE, NIY, F7S, F7V",None,"MLE(methylated at N), F7S(methylated at N)"
+352,1CPI,side-chain to side chain,7,random coil: 7,UX8,None,None
+353,7YV1,side-chain to backbone,16,"hairpin: 6, random coil: 10","ORN, MEA, ORN",None,MEA(methylated at N)
+354,5O3X,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, ORN, EZY, ORN",None,None
+355,6U61,side-chain to backbone,16,"hairpin: 8, random coil: 8","ORN, MEA, ORN",None,MEA(methylated at N)
+356,7K2O,1x disulfide bridge,10,random coil: 10,DAL,None,None
+357,1HVZ,2x disulfide bridge,26,"NA: 1, alpha helix: 11, hairpin: 8, random coil: 7","DAL, DPR",NH2,None
+358,1SKL,2x disulfide bridge,27,"alpha helix: 8, hairpin: 10, random coil: 9",DPR,None,None
+359,5N0V,side-chain to backbone,16,"hairpin: 10, random coil: 6","ORN, ORN, EZY, ORN",None,None
+360,6GEW,side-chain to side chain,11,random coil: 11,None,None,None
+361,6OO2,side-chain to backbone,16,"hairpin: 6, random coil: 10","ORN, MEA, ORN",None,MEA(methylated at N)
+362,6VE9,head to tail,8,random coil: 8,"U2M, HYP, DLY",None,None
+363,6UGC,1x disulfide bridge,10,random coil: 10,None,None,None
+364,3P8G,side-chain to backbone,8,random coil: 8,"DLE, DLY, OWF",None,None
+365,2IZD,side-chain to backbone,5,"NA: 1, random coil: 5","DLY, IIL, 73O, MAA",73N,MAA(methylated at N)
+366,1VWE,side-chain to backbone,8,random coil: 8,"DLE, DLY, OWF",None,None
+367,7AUE,side-chain to backbone,5,"NA: 1, random coil: 5","DLY, 73O, MAA",73P,MAA(methylated at N)
+368,6M5E,1x disulfide bridge,16,"hairpin: 8, random coil: 8","ALN, DPR, CIR, DPR",None,None
+369,7K2L,"1x disulfide bridge, head to tail",15,"hairpin: 4, random coil: 11",None,None,None
+370,5N0U,"1x disulfide bridge, head to tail",18,"hairpin: 8, random coil: 10",None,None,None
+371,1PCG,side-chain to side chain,14,"NA: 1, random coil: 14",81S,NH2,None
+372,7JRH,1x disulfide bridge,23,random coil: 23,None,None,None
+373,2IZG,1x disulfide bridge,19,"NA: 2, alpha helix: 4, random coil: 15",None,"ACE, NH2",None
+374,6T7Z,"2x disulfide bridge, head to tail",22,"alpha helix: 12, random coil: 10",None,None,None
+375,1VWF,ACE STAPLE,17,"NA: 1, alpha helix: 4, random coil: 13",DTR,None,None
+376,7UCP,side-chain to side chain,13,"NA: 1, alpha helix: 3, random coil: 10",None,ACE,None
+377,3UC8,"1x disulfide bridge, head to tail",17,"hairpin: 6, random coil: 11",None,None,None
+378,6UD9,side-chain to side chain,12,"NA: 1, random coil: 12",None,ACE,None
+379,6DHR,head to tail,5,random coil: 5,MVA,None,MVA(methylated at N)
+380,1VB8,side-chain to backbone,6,"NA: 1, random coil: 6","ORN, ZAL",ACE,None
+381,6UDW,"1x disulfide bridge, head to tail",14,"hairpin: 2, random coil: 12",None,None,None
+382,2KDQ,"1x disulfide bridge, head to tail",12,"alpha helix: 3, random coil: 9",None,None,None
+383,6XVD,"0QZ STAPLE, head to tail",6,random coil: 7,"2RA, DSN, DVA, R2T, 2TL, FGL",None,None
+384,7L96,head to tail,6,random coil: 6,None,None,None
+385,2ITK,head to tail,8,"hairpin: 2, random coil: 6",None,None,None
+386,6DZE,side-chain to backbone,13,"hairpin: 6, random coil: 7",ORN,None,None
+387,1RGR,1x disulfide bridge,13,"hairpin: 4, random coil: 9",None,None,None
+388,5N0T,1x disulfide bridge,10,random coil: 10,None,None,None
+389,6M5D,head to tail,8,random coil: 8,None,None,None
+390,7K2M,"2x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+391,8ACK,"1x disulfide bridge, head to tail",14,"hairpin: 2, random coil: 12",None,None,None
+392,8CWA,"2x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+393,2NB5,side-chain to backbone,5,"NA: 1, random coil: 5",None,ACE,None
+394,5GUI,head to tail,8,random coil: 8,None,None,None
+395,7OSD,head to tail,8,"hairpin: 2, random coil: 6",None,None,None
+396,1FUV,head to tail,8,"hairpin: 2, random coil: 6",None,None,None
+397,5J2W,2x disulfide bridge,21,"alpha helix: 9, random coil: 12",None,None,None
+398,6V4I,side-chain to side chain,6,random coil: 6,None,None,None
+399,6HV2,2x disulfide bridge,12,"NA: 1, random coil: 12",None,NH2,None
+400,1VWG,1x disulfide bridge,15,"NA: 1, random coil: 15",None,NH2,None
+401,2NS4,side-chain to backbone,8,"NA: 1, random coil: 8",1E3,ACE,None
+402,2IZF,head to tail,5,random coil: 5,DPR,None,None
+403,1DFZ,"BAL STAPLE, 1x disulfide bridge",11,"NA: 1, random coil: 12",None,NH2,None
+404,1CE4,side-chain to backbone,11,random coil: 11,CCS,None,None
+405,6OC2,"1x disulfide bridge, head to tail",22,"alpha helix: 10, random coil: 12",None,None,None
+406,5JPE,2x disulfide bridge,12,"NA: 1, alpha helix: 6, random coil: 6",None,NH2,None
+407,1BZH,side-chain to side chain,11,"alpha helix: 4, random coil: 7","2JN, MK8",None,None
+408,8PKX,1x disulfide bridge,13,"hairpin: 4, random coil: 9",None,None,None
+409,8CUN,1x disulfide bridge,6,"NA: 2, random coil: 6",None,"ACE, NH2",None
+410,2IZA,head to tail,6,random coil: 6,None,None,None
+411,4YV6,1x disulfide bridge,13,"hairpin: 6, random coil: 7",None,None,None
+412,6WCR,1x disulfide bridge,8,"NA: 2, random coil: 8",None,"ACE, NH2",None
+413,7CDG,1x disulfide bridge,7,random coil: 7,None,None,None
+414,6DZB,ACE STAPLE,11,"NA: 2, alpha helix: 4, random coil: 7",DTY,NH2,None
+415,5N0S,1x disulfide bridge,6,"NA: 2, hairpin: 2, random coil: 4",None,"ACE, NH2",None
+416,7K2J,"2x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None
+417,1SKI,ACE STAPLE,16,"NA: 2, hairpin: 4, random coil: 12",DTR,NH2,None
+418,1K48,"2x disulfide bridge, head to tail",23,"alpha helix: 10, random coil: 13",None,None,None
+419,8HZW,side-chain to side chain,7,"NA: 1, random coil: 7",None,ACE,None
+420,7UBI,1x disulfide bridge,13,"hairpin: 4, random coil: 9",6CW,None,None
+421,6B34,1x disulfide bridge,8,"NA: 1, alpha helix: 3, random coil: 5",DAB,NH2,None
+422,6UF7,head to tail,7,"hairpin: 2, random coil: 5",None,None,None
+423,7Z4S,1x disulfide bridge,9,"alpha helix: 3, random coil: 6",None,None,None
+424,5JZ6,"2x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4","ABA, ABA",None,None
+425,1VWA,"1x disulfide bridge, head to tail",14,"hairpin: 2, random coil: 12",None,None,None
+426,8CV6,1x disulfide bridge,16,"hairpin: 6, random coil: 10",None,None,None
+427,2Q5A,head to tail,8,"hairpin: 2, random coil: 6",None,None,None
+428,4JK6,head to tail,10,"hairpin: 4, random coil: 6","ORN, DPN, ORN, DPN",None,None
+429,3URP,1x disulfide bridge,6,"NA: 2, random coil: 6",None,"ACE, NH2",None
+430,7K2K,2x disulfide bridge,13,"NA: 1, random coil: 13",None,NH2,None
+431,5N0R,head to tail,8,random coil: 8,None,None,None
+432,6DZC,1x disulfide bridge,9,random coil: 9,None,None,None
+433,7CDF,"1x disulfide bridge, head to tail",14,"hairpin: 2, random coil: 12",None,None,None
+434,7UBH,"2x disulfide bridge, head to tail",18,"hairpin: 14, random coil: 4",None,None,None

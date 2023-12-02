@@ -1,0 +1,7 @@
+ARG     1    ARG     1
+ALA     2    ALA     2
+CYX     3    CYX     3
+ARG     4    ARG     4
+PHE     5    PHE     5
+PHE     6    PHE     6
+CYX     7    CYX     7

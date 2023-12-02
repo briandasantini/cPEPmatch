@@ -1,0 +1,6 @@
+LYS     1    LYS     1
+LYS     2    LYS     2
+TRP     3    TRP     3
+TRP     4    TRP     4
+LYS     5    LYS     5
+PHE     6    PHE     6

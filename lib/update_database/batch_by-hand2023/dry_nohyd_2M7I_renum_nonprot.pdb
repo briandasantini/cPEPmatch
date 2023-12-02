@@ -1,0 +1,50 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1            
+HETATM    1  N   DAB A   1      -0.695   0.830   0.868  1.00  0.00           N  
+HETATM    2  CA  DAB A   1       0.718   0.978   0.528  1.00  0.00           C  
+HETATM    3  C   DAB A   1       1.333   1.836   1.642  1.00  0.00           C  
+HETATM    4  O   DAB A   1       0.862   2.957   1.813  1.00  0.00           O  
+HETATM    5  CB  DAB A   1       0.925   1.687  -0.818  1.00  0.00           C  
+HETATM    6  CG  DAB A   1       0.869   0.731  -2.003  1.00  0.00           C  
+HETATM    7  ND  DAB A   1       0.976   1.512  -3.264  1.00  0.00           N  
+HETATM    8  N   ORN A   2       2.396   1.335   2.358  1.00  0.00           N  
+HETATM    9  CA  ORN A   2       3.065   2.106   3.401  1.00  0.00           C  
+HETATM   10  CB  ORN A   2       2.497   1.746   4.782  1.00  0.00           C  
+HETATM   11  CG  ORN A   2       2.493   2.924   5.761  1.00  0.00           C  
+HETATM   12  CD  ORN A   2       2.215   2.446   7.181  1.00  0.00           C  
+HETATM   13  NE  ORN A   2       0.762   2.191   7.336  1.00  0.00           N  
+HETATM   14  C   ORN A   2       4.555   1.751   3.315  1.00  0.00           C  
+HETATM   15  O   ORN A   2       5.020   0.806   3.952  1.00  0.00           O  
+HETATM   16  N   DLY A   3       5.264   2.548   2.530  1.00  0.00           N  
+HETATM   17  CA  DLY A   3       6.694   2.354   2.363  1.00  0.00           C  
+HETATM   18  C   DLY A   3       6.937   1.273   1.307  1.00  0.00           C  
+HETATM   19  O   DLY A   3       6.314   1.285   0.246  1.00  0.00           O  
+HETATM   20  CB  DLY A   3       7.382   3.685   2.050  1.00  0.00           C  
+HETATM   21  CG  DLY A   3       8.291   4.116   3.203  1.00  0.00           C  
+HETATM   22  CD  DLY A   3       8.763   5.559   3.018  1.00  0.00           C  
+HETATM   23  CE  DLY A   3       7.821   6.539   3.720  1.00  0.00           C  
+HETATM   24  NZ  DLY A   3       8.158   7.933   3.357  1.00  0.00           N  
+TER      25      DLY A   3
+HETATM   26  N   ORN A   4       2.778  -3.051   1.214  1.00  0.00           N  
+HETATM   27  CA  ORN A   4       1.487  -2.788   0.586  1.00  0.00           C  
+HETATM   28  CB  ORN A   4       1.670  -2.498  -0.913  1.00  0.00           C  
+HETATM   29  CG  ORN A   4       2.007  -3.746  -1.733  1.00  0.00           C  
+HETATM   30  CD  ORN A   4       2.939  -3.397  -2.888  1.00  0.00           C  
+HETATM   31  NE  ORN A   4       4.034  -4.394  -2.952  1.00  0.00           N  
+HETATM   32  C   ORN A   4       0.637  -4.047   0.797  1.00  0.00           C  
+HETATM   33  O   ORN A   4       1.058  -5.171   0.540  1.00  0.00           O  
+HETATM   34  N   DAB A   5      -0.630  -3.803   1.272  1.00  0.00           N  
+HETATM   35  CA  DAB A   5      -1.617  -4.857   1.491  1.00  0.00           C  
+HETATM   36  C   DAB A   5      -2.864  -4.440   0.699  1.00  0.00           C  
+HETATM   37  O   DAB A   5      -2.951  -3.250   0.396  1.00  0.00           O  
+HETATM   38  CB  DAB A   5      -1.994  -5.007   2.973  1.00  0.00           C  
+HETATM   39  CG  DAB A   5      -2.079  -6.460   3.417  1.00  0.00           C  
+HETATM   40  ND  DAB A   5      -2.949  -6.553   4.620  1.00  0.00           N  
+TER      41      DAB A   5
+HETATM   42  N   DPR A   6     -10.264  -3.989  -0.119  1.00  0.00           N  
+HETATM   43  CA  DPR A   6     -11.500  -3.476  -0.782  1.00  0.00           C  
+HETATM   44  CB  DPR A   6     -12.244  -4.804  -1.045  1.00  0.00           C  
+HETATM   45  CG  DPR A   6     -11.141  -5.833  -1.304  1.00  0.00           C  
+HETATM   46  CD  DPR A   6     -10.024  -5.432  -0.341  1.00  0.00           C  
+HETATM   47  C   DPR A   6     -11.258  -2.578  -2.050  1.00  0.00           C  
+HETATM   48  O   DPR A   6     -10.906  -3.055  -3.130  1.00  0.00           O  
+END                                                                             

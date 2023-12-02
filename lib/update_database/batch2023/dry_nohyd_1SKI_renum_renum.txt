@@ -1,0 +1,6 @@
+ARG     1    ARG     1
+ARG     2    ARG     2
+TYR     3    TYR     3
+TYR     4    TYR     4
+ARG     5    ARG     5
+PHE     6    PHE     6

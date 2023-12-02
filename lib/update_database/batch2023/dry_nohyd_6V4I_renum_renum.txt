@@ -1,0 +1,6 @@
+TBG     1    TBG     1
+MEA     2    MEA     2
+PRO     3    PRO     3
+ILE     4    ILE     4
+PRO     5    PRO     5
+ITZ     6    ITZ     6

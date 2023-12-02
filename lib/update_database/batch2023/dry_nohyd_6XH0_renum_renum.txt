@@ -1,0 +1,119 @@
+GLY     1    GLY     1
+THR     2    THR     2
+ARG     3    ARG     3
+PRO     4    PRO     4
+ASN     5    ASN     5
+HIS     6    HIS     6
+THR     7    THR     7
+ILE     8    ILE     8
+TYR     9    TYR     9
+ILE    10    ILE    10
+ASN    11    ASN    11
+ASN    12    ASN    12
+LEU    13    LEU    13
+ASN    14    ASN    14
+SER    15    SER    15
+LYS    16    LYS    16
+ILE    17    ILE    17
+LYS    18    LYS    18
+LYS    19    LYS    19
+ASP    20    ASP    20
+GLU    21    GLU    21
+LEU    22    LEU    22
+LYS    23    LYS    23
+LYS    24    LYS    24
+SER    25    SER    25
+LEU    26    LEU    26
+HIS    27    HIS    27
+ALA    28    ALA    28
+ILE    29    ILE    29
+PHE    30    PHE    30
+SER    31    SER    31
+ARG    32    ARG    32
+PHE    33    PHE    33
+GLY    34    GLY    34
+GLN    35    GLN    35
+ILE    36    ILE    36
+LEU    37    LEU    37
+ASP    38    ASP    38
+ILE    39    ILE    39
+LEU    40    LEU    40
+VAL    41    VAL    41
+PRO    42    PRO    42
+ARG    43    ARG    43
+ARG    44    ARG    44
+ARG    45    ARG    45
+THR    46    THR    46
+PRO    47    PRO    47
+ARG    48    ARG    48
+GLY    49    GLY    49
+GLN    50    GLN    50
+ALA    51    ALA    51
+PHE    52    PHE    52
+VAL    53    VAL    53
+ILE    54    ILE    54
+PHE    55    PHE    55
+LYS    56    LYS    56
+GLU    57    GLU    57
+VAL    58    VAL    58
+SER    59    SER    59
+SER    60    SER    60
+ALA    61    ALA    61
+THR    62    THR    62
+ASN    63    ASN    63
+ALA    64    ALA    64
+LEU    65    LEU    65
+ARG    66    ARG    66
+SER    67    SER    67
+MET    68    MET    68
+GLN    69    GLN    69
+GLY    70    GLY    70
+PHE    71    PHE    71
+PRO    72    PRO    72
+PHE    73    PHE    73
+TYR    74    TYR    74
+ASP    75    ASP    75
+LYS    76    LYS    76
+PRO    77    PRO    77
+MET    78    MET    78
+ALA    79    ALA    79
+ILE    80    ILE    80
+GLN    81    GLN    81
+TYR    82    TYR    82
+ALA    83    ALA    83
+LYS    84    LYS    84
+THR    85    THR    85
+ASP    86    ASP    86
+ARG    87    ARG    87
+  G    88      G    88
+  C    89      C    89
+  A    90      A    90
+  G    91      G    91
+  A    92      A    92
+  U    93      U    93
+  C    94      C    94
+  U    95      U    95
+  G    96      G    96
+  A    97      A    97
+  G    98      G    98
+  C    99      C    99
+  C   100      C   100
+  U   101      U   101
+  G   102      G   102
+  G   103      G   103
+  G   104      G   104
+  A   105      A   105
+  G   106      G   106
+  C   107      C   107
+  U   108      U   108
+  C   109      C   109
+  U   110      U   110
+  C   111      C   111
+  U   112      U   112
+  G   113      G   113
+  C   114      C   114
+ MG   115     MG   115
+ MG   116     MG   116
+HOH   117    HOH   117
+HOH   118    HOH   118
+HOH   119    HOH   119

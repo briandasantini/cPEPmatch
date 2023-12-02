@@ -1,0 +1,50 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1            
+HETATM    1  N   DVA A   1      -1.806  -1.073  -1.821  1.00 72.00           N  
+HETATM    2  CA  DVA A   1      -1.027  -1.132  -3.065  1.00  3.15           C  
+HETATM    3  CB  DVA A   1      -0.726  -2.591  -3.409  1.00  4.43           C  
+HETATM    4  CG1 DVA A   1      -0.651  -3.416  -2.123  1.00 52.04           C  
+HETATM    5  CG2 DVA A   1      -1.838  -3.145  -4.303  1.00 64.44           C  
+HETATM    6  C   DVA A   1       0.264  -0.380  -2.886  1.00 22.53           C  
+HETATM    7  O   DVA A   1       1.174  -0.845  -2.200  1.00 43.53           O  
+HETATM    8  N   MLE A   2       0.351   0.793  -3.503  1.00 53.34           N  
+HETATM    9  CN  MLE A   2      -0.600   1.521  -4.355  1.00 41.12           C  
+HETATM   10  CA  MLE A   2       1.557   1.626  -3.410  1.00 33.13           C  
+HETATM   11  CB  MLE A   2       1.995   2.049  -4.812  1.00 12.43           C  
+HETATM   12  CG  MLE A   2       2.145   0.809  -5.695  1.00 54.11           C  
+HETATM   13  CD1 MLE A   2       2.451   1.240  -7.131  1.00 42.51           C  
+HETATM   14  CD2 MLE A   2       3.290  -0.057  -5.169  1.00 33.13           C  
+HETATM   15  C   MLE A   2       1.260   2.850  -2.585  1.00  4.35           C  
+HETATM   16  O   MLE A   2       0.100   3.163  -2.320  1.00  4.33           O  
+HETATM   17  N   DPR A   3       2.311   3.550  -2.173  1.00 43.03           N  
+HETATM   18  CA  DPR A   3       2.155   4.770  -1.358  1.00 51.22           C  
+HETATM   19  CB  DPR A   3       3.486   5.500  -1.434  1.00 33.31           C  
+HETATM   20  CG  DPR A   3       4.469   4.299  -1.443  1.00 32.24           C  
+HETATM   21  CD  DPR A   3       3.753   3.315  -2.401  1.00 24.41           C  
+HETATM   22  C   DPR A   3       1.784   4.398   0.054  1.00 72.22           C  
+HETATM   23  O   DPR A   3       2.530   4.672   0.996  1.00 40.34           O  
+TER      24      DPR A   3
+HETATM   25  N   DVA A   4       1.113   1.137   1.332  1.00 22.24           N  
+HETATM   26  CA  DVA A   4       1.914  -0.019   1.755  1.00 71.24           C  
+HETATM   27  CB  DVA A   4       3.307   0.071   1.131  1.00 25.21           C  
+HETATM   28  CG1 DVA A   4       3.187   0.067  -0.393  1.00 74.21           C  
+HETATM   29  CG2 DVA A   4       3.986   1.365   1.585  1.00 31.14           C  
+HETATM   30  C   DVA A   4       1.242  -1.288   1.303  1.00  5.03           C  
+HETATM   31  O   DVA A   4       0.677  -1.348   0.212  1.00 22.14           O  
+HETATM   32  N   MLE A   5       1.300  -2.315   2.145  1.00 45.14           N  
+HETATM   33  CN  MLE A   5       1.912  -2.455   3.473  1.00 12.31           C  
+HETATM   34  CA  MLE A   5       0.684  -3.609   1.825  1.00 11.42           C  
+HETATM   35  CB  MLE A   5       1.768  -4.595   1.390  1.00 72.00           C  
+HETATM   36  CG  MLE A   5       1.917  -4.552  -0.132  1.00 22.24           C  
+HETATM   37  CD1 MLE A   5       3.399  -4.441  -0.497  1.00 24.22           C  
+HETATM   38  CD2 MLE A   5       1.338  -5.831  -0.738  1.00 12.35           C  
+HETATM   39  C   MLE A   5      -0.024  -4.143   3.041  1.00 33.34           C  
+HETATM   40  O   MLE A   5       0.435  -5.096   3.669  1.00 30.22           O  
+HETATM   41  N   DPR A   6      -1.153  -3.529   3.381  1.00 42.04           N  
+HETATM   42  CA  DPR A   6      -1.675  -2.389   2.605  1.00 71.10           C  
+HETATM   43  CB  DPR A   6      -2.647  -1.694   3.491  1.00 13.02           C  
+HETATM   44  CG  DPR A   6      -3.301  -2.889   4.234  1.00 63.24           C  
+HETATM   45  CD  DPR A   6      -2.076  -3.798   4.503  1.00 43.33           C  
+HETATM   46  C   DPR A   6      -2.307  -2.884   1.330  1.00 40.33           C  
+HETATM   47  O   DPR A   6      -2.207  -4.064   0.992  1.00 24.23           O  
+TER      48      DPR A   6
+END                                                                             

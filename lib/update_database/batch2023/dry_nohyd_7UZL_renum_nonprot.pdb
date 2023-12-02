@@ -1,0 +1,41 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1            
+HETATM    1  N   DPR A   1       1.996  -0.150   3.825  1.00 65.12           N  
+HETATM    2  CA  DPR A   1       2.821  -1.354   4.030  1.00 60.32           C  
+HETATM    3  CB  DPR A   1       3.902  -0.931   5.087  1.00 33.05           C  
+HETATM    4  CG  DPR A   1       3.693   0.583   5.354  1.00 43.15           C  
+HETATM    5  CD  DPR A   1       2.204   0.764   4.967  1.00 14.24           C  
+HETATM    6  C   DPR A   1       3.406  -1.805   2.717  1.00 23.22           C  
+HETATM    7  O   DPR A   1       4.190  -1.087   2.097  1.00 72.31           O  
+HETATM    8  N   MAA A   2       3.025  -3.003   2.284  1.00  1.44           N  
+HETATM    9  CM  MAA A   2       2.115  -4.004   2.857  1.00 33.24           C  
+HETATM   10  CA  MAA A   2       3.522  -3.558   1.020  1.00  3.00           C  
+HETATM   11  CB  MAA A   2       4.493  -4.704   1.311  1.00  1.03           C  
+HETATM   12  C   MAA A   2       2.365  -4.076   0.208  1.00  2.42           C  
+HETATM   13  O   MAA A   2       2.371  -5.222  -0.239  1.00  2.11           O  
+TER      14      MAA A   2
+HETATM   15  N   DVA A   3       0.896  -2.772  -2.920  1.00 50.33           N  
+HETATM   16  CA  DVA A   3       0.823  -1.936  -4.125  1.00 61.14           C  
+HETATM   17  CB  DVA A   3       1.765  -2.497  -5.191  1.00  2.24           C  
+HETATM   18  CG1 DVA A   3       3.192  -2.544  -4.641  1.00 40.23           C  
+HETATM   19  CG2 DVA A   3       1.320  -3.909  -5.573  1.00 75.51           C  
+HETATM   20  C   DVA A   3       1.231  -0.527  -3.784  1.00 41.11           C  
+HETATM   21  O   DVA A   3       1.940  -0.296  -2.806  1.00 11.31           O  
+HETATM   22  N   MLE A   4       0.780   0.426  -4.593  1.00 63.40           N  
+HETATM   23  CN  MLE A   4      -0.063   0.369  -5.794  1.00 41.32           C  
+HETATM   24  CA  MLE A   4       1.106   1.841  -4.371  1.00 43.13           C  
+HETATM   25  CB  MLE A   4       1.671   2.442  -5.658  1.00  3.13           C  
+HETATM   26  CG  MLE A   4       2.593   3.612  -5.312  1.00 61.02           C  
+HETATM   27  CD1 MLE A   4       4.004   3.087  -5.035  1.00 44.14           C  
+HETATM   28  CD2 MLE A   4       2.637   4.592  -6.485  1.00 65.41           C  
+HETATM   29  C   MLE A   4      -0.141   2.585  -3.974  1.00 52.52           C  
+HETATM   30  O   MLE A   4      -0.359   3.723  -4.395  1.00 74.21           O  
+TER      31      MLE A   4
+HETATM   32  N   DLE A   5      -0.984   1.266   2.769  1.00 22.54           N  
+HETATM   33  CA  DLE A   5       0.453   1.132   2.489  1.00 43.14           C  
+HETATM   34  CB  DLE A   5       0.690   1.252   0.984  1.00 31.11           C  
+HETATM   35  CG  DLE A   5       1.843   2.224   0.724  1.00 74.31           C  
+HETATM   36  CD1 DLE A   5       3.141   1.636   1.280  1.00 43.25           C  
+HETATM   37  CD2 DLE A   5       1.989   2.452  -0.780  1.00 32.42           C  
+HETATM   38  C   DLE A   5       0.933  -0.211   2.970  1.00 34.32           C  
+HETATM   39  O   DLE A   5       0.487  -1.251   2.487  1.00 21.23           O  
+END                                                                             

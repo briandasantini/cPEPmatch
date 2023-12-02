@@ -1,0 +1,113 @@
+ALA     1    ALA     1
+ILE     2    ILE     2
+ILE     3    ILE     3
+PHE     4    PHE     4
+LEU     5    LEU     5
+ORN     6    ORN     6
+HAO     7    HAO     7
+TYR     8    TYR     8
+LYS     9    LYS     9
+ORN    10    ORN    10
+ALA    11    ALA    11
+ILE    12    ILE    12
+ILE    13    ILE    13
+PHE    14    PHE    14
+LEU    15    LEU    15
+ORN    16    ORN    16
+HAO    17    HAO    17
+TYR    18    TYR    18
+LYS    19    LYS    19
+ORN    20    ORN    20
+ALA    21    ALA    21
+ILE    22    ILE    22
+ILE    23    ILE    23
+PHE    24    PHE    24
+LEU    25    LEU    25
+ORN    26    ORN    26
+HAO    27    HAO    27
+TYR    28    TYR    28
+LYS    29    LYS    29
+ORN    30    ORN    30
+ALA    31    ALA    31
+ILE    32    ILE    32
+ILE    33    ILE    33
+PHE    34    PHE    34
+LEU    35    LEU    35
+ORN    36    ORN    36
+HAO    37    HAO    37
+TYR    38    TYR    38
+LYS    39    LYS    39
+ORN    40    ORN    40
+ALA    41    ALA    41
+ILE    42    ILE    42
+ILE    43    ILE    43
+PHE    44    PHE    44
+LEU    45    LEU    45
+ORN    46    ORN    46
+HAO    47    HAO    47
+TYR    48    TYR    48
+LYS    49    LYS    49
+ORN    50    ORN    50
+ALA    51    ALA    51
+ILE    52    ILE    52
+ILE    53    ILE    53
+PHE    54    PHE    54
+LEU    55    LEU    55
+ORN    56    ORN    56
+HAO    57    HAO    57
+TYR    58    TYR    58
+LYS    59    LYS    59
+ORN    60    ORN    60
+ALA    61    ALA    61
+ILE    62    ILE    62
+ILE    63    ILE    63
+PHE    64    PHE    64
+LEU    65    LEU    65
+ORN    66    ORN    66
+HAO    67    HAO    67
+TYR    68    TYR    68
+LYS    69    LYS    69
+ORN    70    ORN    70
+ALA    71    ALA    71
+ILE    72    ILE    72
+ILE    73    ILE    73
+PHE    74    PHE    74
+LEU    75    LEU    75
+ORN    76    ORN    76
+HAO    77    HAO    77
+TYR    78    TYR    78
+LYS    79    LYS    79
+ORN    80    ORN    80
+ ZN    81     ZN    81
+ ZN    82     ZN    82
+GOL    83    GOL    83
+ ZN    84     ZN    84
+ ZN    85     ZN    85
+ CL    86     CL    86
+ CL    87     CL    87
+ CL    88     CL    88
+ ZN    89     ZN    89
+ ZN    90     ZN    90
+ CL    91     CL    91
+ ZN    92     ZN    92
+ ZN    93     ZN    93
+GOL    94    GOL    94
+GOL    95    GOL    95
+HOH    96    HOH    96
+HOH    97    HOH    97
+HOH    98    HOH    98
+HOH    99    HOH    99
+HOH   100    HOH   100
+HOH   101    HOH   101
+HOH   102    HOH   102
+HOH   103    HOH   103
+HOH   104    HOH   104
+HOH   105    HOH   105
+HOH   106    HOH   106
+HOH   107    HOH   107
+HOH   108    HOH   108
+HOH   109    HOH   109
+HOH   110    HOH   110
+HOH   111    HOH   111
+HOH   112    HOH   112
+HOH   113    HOH   113

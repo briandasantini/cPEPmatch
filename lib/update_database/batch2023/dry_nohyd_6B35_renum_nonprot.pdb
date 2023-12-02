@@ -1,0 +1,42 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1            
+HETATM    1  N   DPN A   1       4.190   4.439   4.594  1.00  0.00           N  
+HETATM    2  CA  DPN A   1       4.916   5.082   5.713  1.00  0.00           C  
+HETATM    3  C   DPN A   1       4.361   4.817   7.115  1.00  0.00           C  
+HETATM    4  O   DPN A   1       4.698   5.536   8.046  1.00  0.00           O  
+HETATM    5  CB  DPN A   1       6.390   4.856   5.554  1.00  0.00           C  
+HETATM    6  CG  DPN A   1       7.218   6.090   5.800  1.00  0.00           C  
+HETATM    7  CD1 DPN A   1       7.509   6.969   4.738  1.00  0.00           C  
+HETATM    8  CD2 DPN A   1       7.701   6.390   7.087  1.00  0.00           C  
+HETATM    9  CE1 DPN A   1       8.273   8.143   4.955  1.00  0.00           C  
+HETATM   10  CE2 DPN A   1       8.467   7.563   7.318  1.00  0.00           C  
+HETATM   11  CZ  DPN A   1       8.748   8.442   6.248  1.00  0.00           C  
+HETATM   12  C   BE2 A   2       2.076   1.164   7.088  1.00  0.00           C  
+HETATM   13  O   BE2 A   2       2.714   1.466   6.090  1.00  0.00           O  
+HETATM   14  C1  BE2 A   2       2.045   2.035   8.345  1.00  0.00           C  
+HETATM   15  CA  BE2 A   2       2.745   3.283   8.394  1.00  0.00           C  
+HETATM   16  C3  BE2 A   2       2.690   4.048   9.589  1.00  0.00           C  
+HETATM   17  N   BE2 A   2       3.470   3.749   7.232  1.00  0.00           N  
+HETATM   18  C4  BE2 A   2       1.980   3.595  10.705  1.00  0.00           C  
+HETATM   19  C5  BE2 A   2       1.305   2.378  10.662  1.00  0.00           C  
+HETATM   20  C6  BE2 A   2       1.326   1.604   9.499  1.00  0.00           C  
+TER      21      BE2 A   2
+HETATM   22  N   DPN A   3       0.679  -0.819   3.760  1.00  0.00           N  
+HETATM   23  CA  DPN A   3      -0.084  -0.502   2.538  1.00  0.00           C  
+HETATM   24  C   DPN A   3      -1.077  -1.613   2.193  1.00  0.00           C  
+HETATM   25  O   DPN A   3      -1.868  -2.058   3.016  1.00  0.00           O  
+HETATM   26  CB  DPN A   3      -0.713   0.912   2.531  1.00  0.00           C  
+HETATM   27  CG  DPN A   3      -2.153   0.950   2.087  1.00  0.00           C  
+HETATM   28  CD1 DPN A   3      -3.196   0.678   2.993  1.00  0.00           C  
+HETATM   29  CD2 DPN A   3      -2.473   1.272   0.754  1.00  0.00           C  
+HETATM   30  CE1 DPN A   3      -4.549   0.713   2.573  1.00  0.00           C  
+HETATM   31  CE2 DPN A   3      -3.826   1.320   0.324  1.00  0.00           C  
+HETATM   32  CZ  DPN A   3      -4.862   1.035   1.236  1.00  0.00           C  
+HETATM   33  N   ORN A   4       3.434  -0.428  -0.600  1.00  0.00           N  
+HETATM   34  CA  ORN A   4       3.828  -0.351   0.825  1.00  0.00           C  
+HETATM   35  CB  ORN A   4       5.061  -1.270   1.061  1.00  0.00           C  
+HETATM   36  CG  ORN A   4       4.671  -2.768   0.955  1.00  0.00           C  
+HETATM   37  CD  ORN A   4       5.915  -3.665   1.169  1.00  0.00           C  
+HETATM   38  NE  ORN A   4       5.546  -5.085   1.422  1.00  0.00           N  
+HETATM   39  C   ORN A   4       4.128   1.128   1.193  1.00  0.00           C  
+HETATM   40  O   ORN A   4       4.493   1.912   0.308  1.00  0.00           O  
+END                                                                             

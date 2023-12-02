@@ -1,0 +1,6 @@
+LEU     1    LEU     1
+DLE     2    DLE     2
+LEU     3    LEU     3
+LEU     4    LEU     4
+DPR     5    DPR     5
+N9K     6    N9K     6

@@ -1,0 +1,4 @@
+MLE     1    MLE     1
+PHE     2    PHE     2
+MLE     3    MLE     3
+DPN     4    DPN     4

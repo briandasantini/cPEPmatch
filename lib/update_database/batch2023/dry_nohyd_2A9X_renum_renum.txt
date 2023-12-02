@@ -1,0 +1,42 @@
+  G     1      G     1
+  G     2      G     2
+  C     3      C     3
+  U     4      U     4
+  C     5      C     5
+  G     6      G     6
+  U     7      U     7
+  G     8      G     8
+  U     9      U     9
+  A    10      A    10
+  G    11      G    11
+  C    12      C    12
+  U    13      U    13
+  C    14      C    14
+  A    15      A    15
+  U    16      U    16
+  U    17      U    17
+  A    18      A    18
+  G    19      G    19
+  C    20      C    20
+  U    21      U    21
+  C    22      C    22
+  C    23      C    23
+  G    24      G    24
+  A    25      A    25
+  G    26      G    26
+  C    27      C    27
+  C    28      C    28
+ARG    29    ARG    29
+VAL    30    VAL    30
+ARG    31    ARG    31
+THR    32    THR    32
+ARG    33    ARG    33
+GLY    34    GLY    34
+LYS    35    LYS    35
+ARG    36    ARG    36
+ARG    37    ARG    37
+ILE    38    ILE    38
+ARG    39    ARG    39
+VAL    40    VAL    40
+PRO    41    PRO    41
+PRO    42    PRO    42
