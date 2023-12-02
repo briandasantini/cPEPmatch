@@ -7,8 +7,7 @@
 **Affiliation**: Physics Department T38, Technical University of Munich, Garching, Germany.
 
 
-Webserver version: [cPEPmatch](https://t38webservices.nat.tum.de/cpepmatch/)
-
+Webserver version: [cPEPmatch](https://t38webservices.nat.tum.de/cpepmatch/), Cite: [Santini & Zacharias](https://pubmed.ncbi.nlm.nih.gov/33134275/)
 
 ## General Description
 
