@@ -1,8 +1,11 @@
 # cPEPmatch
 
-#### **Created by**: Brianda L. Santini
-#### **Supervised by**: Prof. Dr. Martin Zacharias
-#### **Affiliation**: Physics Department T38, Technical University of Munich, Garching, Germany.
+**Created by**: Brianda L. Santini
+
+**Supervised by**: Prof. Dr. Martin Zacharias
+
+**Affiliation**: Physics Department T38, Technical University of Munich, Garching, Germany.
+
 
 ## General Description
 
