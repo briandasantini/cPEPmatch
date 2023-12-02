@@ -56,18 +56,18 @@ cPEPmatch is a Python tool designed to find cyclic peptides that mimic proteins 
 cPEPmatch
 ├── cPEPmatch.py
 ├── cpep_modules
-│   ├── backbone_match.py
-│   ├── cpep_database.py
-│   ├── protein_target_characterization.py
-│   ├── superimpose_mutate.py
-│   └── __init__.py
+│ ├── backbone_match.py
+│ ├── cpep_database.py
+│ ├── protein_target_characterization.py
+│ ├── superimpose_mutate.py
+│ └── init.py
 ├── database
-│   ├── cyclo_pep.csv
-│   └── *.pdb
+│ ├── cyclo_pep.csv
+│ └── *.pdb
 ├── lib
-│   ├── old_databases
-│   ├── test_system
-│   └── update_database
+│ ├── old_databases
+│ ├── test_system
+│ └── update_database
 ├── README.md
 └── requirements.txt
 
