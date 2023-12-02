@@ -52,7 +52,7 @@ cPEPmatch is a Python tool designed to find cyclic peptides that mimic proteins 
 - `exclude_non_standard`: Exclude non-standard amino acid containing peptides (default: False).
 
 ## Directory Structure
-
+```
 cPEPmatch
 ├── cPEPmatch.py
 ├── cpep_modules
@@ -70,7 +70,7 @@ cPEPmatch
 │ └── update_database
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Installation and Setup
 
