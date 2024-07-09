@@ -152,3 +152,4 @@ To learn about the various command-line arguments and options that cPEPmatch sup
 ```bash
 cPEPmatch.py -h
 ```
+For a comprehensive guide with a practical example, check out our full [tutorial]([https://www.yourwebsite.com/cpepmatch-tutorial).
